@@ -1,0 +1,11 @@
+Customer ID,Name,Age,Gender,Email,Phone Number,Purchase History (count),Average Purchase Amount ($),Total Spend ($),Region,Preferred Payment Method
+139fee67-e144-4c88-a807-7bb19897fffc,Barbara Cox,65,Female,fthompson@example.org,770-812-1545,18,319.36,12989.9,East,Bank Transfer
+fe250932-a660-4f9e-a05c-b57f7c4b9c01,Lisa Brown,53,Female,qlindsey@example.org,897-244-8342,15,81.72,13125.86,North,Bank Transfer
+308aef14-e773-4a50-b2fe-f35d748b13f7,Gabriel Miller,22,Female,lynnmunoz@example.net,-2063,14,410.75,5906.72,North,PayPal
+7cf48bbd-9eab-4e8f-b0af-53e3f00b7040,Mark Thompson,30,Female,luke96@example.com,(299)291-5451x229,41,319.45,2644.56,West,Bank Transfer
+04b1a125-b227-4a2b-bbca-da337b415d57,Kathy Harper,30,Female,joseph67@example.net,657.496.5587,31,360.9,4386.71,East,Credit Card
+11ddd028-ec1a-4395-8390-14cb3485c190,Kathleen Neal,77,Non-Binary,gtaylor@example.com,781.489.9882x6881,35,495.25,10394.31,West,PayPal
+34b6d247-ceb4-4e56-a02f-00e06f7d63ad,Alicia Baker,51,Non-Binary,oadams@example.com,9448252447,22,59.81,4747.72,South,PayPal
+fb562bfa-f250-4cb6-aad6-47cd3ff27958,Emily Gray,37,Female,uduncan@example.com,4267436072,6,39.46,8876.92,North,PayPal
+7fbce514-39cf-4927-9fb6-68f18c93f178,Alan Boyd,56,Non-Binary,timothy80@example.org,9279422620,11,432.83,10401.98,North,Bank Transfer
+2c2d4088-32ae-42b8-861d-bb9310cf3160,Samantha Jones,60,Female,ereid@example.org,+1-726-277-2036x352,7,313.95,16023.93,East,Credit Card

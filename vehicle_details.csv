@@ -1,0 +1,11 @@
+Vehicle ID,Make,Model,Year,VIN,License Plate,Owner Name,Owner Contact,Mileage,Fuel Type,Transmission,Color
+87ec2cf5-3379-4ec3-8dc2-627e482ef9bb,Nissan,Camry,2024,47017442-7456-40a4-adf8-bf789c827cca,USS 873,Craig Rodriguez,001-386-776-5441x879,217727,Gasoline,Automatic,Red
+537dace8-c72b-443b-b2ff-6c9ffdfd1717,Nissan,Civic,2004,f19c230c-75f8-4c48-8be0-1ca783d5e091,37-76089,Renee Murray,+1-420-505-8364x9247,261210,Hybrid,Automatic,White
+fcf9896f-1e40-4891-a442-829c55a12fbc,Nissan,X5,2018,8bac873e-0f14-4a55-a63c-146d256b7ba8,QGS 3730,Mitchell Taylor,+1-844-688-5587x825,185112,Hybrid,Automatic,Gray
+1637e442-31ab-4337-9395-f39bfae73d1f,Ford,Camry,2020,7df51801-aeb4-4e41-9b38-a5e037f23491,256 7437,Susan Gibson MD,3329455291,86761,Diesel,Automatic,Gray
+614949df-d087-4864-9fc7-b614673adb43,Nissan,Camry,2024,ffe74b31-9bfb-4d46-8a68-8ffe0ec1b0d0,OSN-5360,Scott Olson,+1-652-349-6802x7553,166592,Gasoline,Manual,Black
+ee02c09e-ad21-4ecd-a338-fc600d780855,Toyota,Impala,2025,ae8a8c0b-9135-4aac-8334-58dcc680846d,NUM 351,Catherine Horn,001-891-453-0449x805,94413,Gasoline,Manual,Black
+96ea6129-0770-4c09-92c5-fc7ba070e954,BMW,Impala,2017,9dc7a85c-c30a-48f9-9d28-418178a33ae6,KZW 084,Jason Jackson,898-780-7666x19225,139226,Electric,Automatic,White
+7ffa781a-89d2-4c25-98bd-3f5190f53da9,Nissan,Altima,2016,6736b0d4-eee6-43a3-9544-37ecaa2478aa,34PZ2,Darius Morris,+1-388-828-9767x8677,149220,Diesel,Automatic,Blue
+aea6f239-1ebc-41f0-bd1c-6373340cffd3,BMW,Corolla,2021,2bd7c5b4-5f50-4527-8be8-6a58fb3ac38c,Z34 5MW,Laura Chung,8678175945,160908,Gasoline,Manual,White
+14ee0c58-4de3-46f5-b7f9-6caa24ed0c8d,Mercedes,F-150,2014,7490d148-8965-48b9-a309-d11f492e58c2,CXT 851,Brandi Peterson,+1-410-807-5776x13793,10503,Electric,Automatic,Black

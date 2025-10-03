@@ -1,0 +1,2001 @@
+Account No,Name,Account Type,Balance,Branch
+100000,Cust_0,Fixed Deposit,539540,Delhi
+100001,Cust_1,Savings,156337,Chennai
+100002,Cust_2,Fixed Deposit,366870,Kolkata
+100003,Cust_3,Current,431610,Mumbai
+100004,Cust_4,Fixed Deposit,733192,Kolkata
+100005,Cust_5,Savings,298459,Chennai
+100006,Cust_6,Fixed Deposit,65616,Kolkata
+100007,Cust_7,Current,26030,Chennai
+100008,Cust_8,Current,121123,Delhi
+100009,Cust_9,Fixed Deposit,417695,Delhi
+100010,Cust_10,Savings,439468,Kolkata
+100011,Cust_11,Savings,431094,Mumbai
+100012,Cust_12,Fixed Deposit,499875,Chennai
+100013,Cust_13,Current,23471,Mumbai
+100014,Cust_14,Savings,80660,Kolkata
+100015,Cust_15,Current,449971,Kolkata
+100016,Cust_16,Current,621506,Chennai
+100017,Cust_17,Current,913310,Delhi
+100018,Cust_18,Savings,826127,Kolkata
+100019,Cust_19,Savings,290569,Delhi
+100020,Cust_20,Savings,624254,Delhi
+100021,Cust_21,Fixed Deposit,423454,Kolkata
+100022,Cust_22,Savings,93580,Delhi
+100023,Cust_23,Fixed Deposit,400359,Delhi
+100024,Cust_24,Savings,38777,Chennai
+100025,Cust_25,Current,449044,Chennai
+100026,Cust_26,Fixed Deposit,947738,Mumbai
+100027,Cust_27,Fixed Deposit,192495,Delhi
+100028,Cust_28,Savings,139955,Kolkata
+100029,Cust_29,Savings,176690,Chennai
+100030,Cust_30,Savings,984797,Mumbai
+100031,Cust_31,Fixed Deposit,21479,Mumbai
+100032,Cust_32,Fixed Deposit,822029,Delhi
+100033,Cust_33,Savings,634845,Kolkata
+100034,Cust_34,Current,529571,Delhi
+100035,Cust_35,Savings,22173,Kolkata
+100036,Cust_36,Current,181186,Kolkata
+100037,Cust_37,Fixed Deposit,910861,Chennai
+100038,Cust_38,Current,146095,Kolkata
+100039,Cust_39,Savings,638840,Chennai
+100040,Cust_40,Savings,818177,Mumbai
+100041,Cust_41,Current,124474,Delhi
+100042,Cust_42,Savings,877095,Mumbai
+100043,Cust_43,Current,315194,Mumbai
+100044,Cust_44,Fixed Deposit,683641,Chennai
+100045,Cust_45,Current,400411,Delhi
+100046,Cust_46,Current,241184,Kolkata
+100047,Cust_47,Current,386137,Delhi
+100048,Cust_48,Savings,911505,Mumbai
+100049,Cust_49,Fixed Deposit,900771,Kolkata
+100050,Cust_50,Fixed Deposit,642882,Delhi
+100051,Cust_51,Fixed Deposit,671667,Mumbai
+100052,Cust_52,Fixed Deposit,482664,Kolkata
+100053,Cust_53,Savings,640395,Kolkata
+100054,Cust_54,Savings,382803,Kolkata
+100055,Cust_55,Current,58520,Mumbai
+100056,Cust_56,Savings,29105,Kolkata
+100057,Cust_57,Fixed Deposit,561748,Delhi
+100058,Cust_58,Savings,328777,Chennai
+100059,Cust_59,Fixed Deposit,465753,Kolkata
+100060,Cust_60,Savings,985870,Chennai
+100061,Cust_61,Savings,926401,Mumbai
+100062,Cust_62,Savings,495415,Mumbai
+100063,Cust_63,Current,140860,Mumbai
+100064,Cust_64,Savings,988761,Chennai
+100065,Cust_65,Savings,610875,Delhi
+100066,Cust_66,Fixed Deposit,772205,Kolkata
+100067,Cust_67,Savings,877804,Kolkata
+100068,Cust_68,Savings,405675,Delhi
+100069,Cust_69,Savings,538236,Delhi
+100070,Cust_70,Savings,458855,Kolkata
+100071,Cust_71,Current,951677,Delhi
+100072,Cust_72,Fixed Deposit,554596,Delhi
+100073,Cust_73,Current,859311,Mumbai
+100074,Cust_74,Savings,75618,Mumbai
+100075,Cust_75,Current,235626,Chennai
+100076,Cust_76,Fixed Deposit,148043,Mumbai
+100077,Cust_77,Savings,48914,Kolkata
+100078,Cust_78,Savings,539155,Kolkata
+100079,Cust_79,Fixed Deposit,548044,Mumbai
+100080,Cust_80,Fixed Deposit,857067,Delhi
+100081,Cust_81,Fixed Deposit,97175,Chennai
+100082,Cust_82,Current,9845,Kolkata
+100083,Cust_83,Fixed Deposit,276991,Mumbai
+100084,Cust_84,Fixed Deposit,794931,Delhi
+100085,Cust_85,Current,270870,Delhi
+100086,Cust_86,Fixed Deposit,704051,Chennai
+100087,Cust_87,Current,552365,Delhi
+100088,Cust_88,Fixed Deposit,103950,Mumbai
+100089,Cust_89,Fixed Deposit,776091,Delhi
+100090,Cust_90,Current,741833,Chennai
+100091,Cust_91,Savings,389921,Mumbai
+100092,Cust_92,Current,523328,Mumbai
+100093,Cust_93,Savings,795164,Kolkata
+100094,Cust_94,Fixed Deposit,359169,Chennai
+100095,Cust_95,Savings,197914,Delhi
+100096,Cust_96,Savings,236406,Delhi
+100097,Cust_97,Fixed Deposit,787840,Kolkata
+100098,Cust_98,Savings,895895,Mumbai
+100099,Cust_99,Savings,567196,Delhi
+100100,Cust_100,Fixed Deposit,591459,Chennai
+100101,Cust_101,Current,405135,Kolkata
+100102,Cust_102,Savings,360563,Mumbai
+100103,Cust_103,Fixed Deposit,132505,Mumbai
+100104,Cust_104,Savings,386484,Delhi
+100105,Cust_105,Savings,652966,Chennai
+100106,Cust_106,Current,714498,Mumbai
+100107,Cust_107,Fixed Deposit,721029,Kolkata
+100108,Cust_108,Savings,366817,Kolkata
+100109,Cust_109,Fixed Deposit,186818,Delhi
+100110,Cust_110,Current,314178,Delhi
+100111,Cust_111,Savings,127025,Chennai
+100112,Cust_112,Fixed Deposit,26192,Delhi
+100113,Cust_113,Fixed Deposit,673991,Chennai
+100114,Cust_114,Current,879791,Mumbai
+100115,Cust_115,Savings,386786,Kolkata
+100116,Cust_116,Savings,485996,Kolkata
+100117,Cust_117,Current,538202,Delhi
+100118,Cust_118,Current,275987,Chennai
+100119,Cust_119,Current,661597,Delhi
+100120,Cust_120,Savings,447837,Mumbai
+100121,Cust_121,Fixed Deposit,868925,Kolkata
+100122,Cust_122,Savings,525717,Mumbai
+100123,Cust_123,Fixed Deposit,377387,Delhi
+100124,Cust_124,Fixed Deposit,744583,Chennai
+100125,Cust_125,Current,764171,Mumbai
+100126,Cust_126,Fixed Deposit,143136,Mumbai
+100127,Cust_127,Fixed Deposit,466324,Mumbai
+100128,Cust_128,Savings,766346,Kolkata
+100129,Cust_129,Current,913970,Mumbai
+100130,Cust_130,Savings,806699,Kolkata
+100131,Cust_131,Current,854269,Delhi
+100132,Cust_132,Savings,701475,Mumbai
+100133,Cust_133,Current,211184,Kolkata
+100134,Cust_134,Fixed Deposit,754864,Delhi
+100135,Cust_135,Current,320487,Mumbai
+100136,Cust_136,Fixed Deposit,242329,Mumbai
+100137,Cust_137,Fixed Deposit,93557,Chennai
+100138,Cust_138,Current,504804,Mumbai
+100139,Cust_139,Fixed Deposit,722028,Mumbai
+100140,Cust_140,Current,87982,Delhi
+100141,Cust_141,Fixed Deposit,251552,Mumbai
+100142,Cust_142,Current,860278,Chennai
+100143,Cust_143,Savings,703108,Mumbai
+100144,Cust_144,Savings,937974,Mumbai
+100145,Cust_145,Fixed Deposit,476392,Kolkata
+100146,Cust_146,Savings,499814,Chennai
+100147,Cust_147,Current,382467,Mumbai
+100148,Cust_148,Fixed Deposit,759522,Chennai
+100149,Cust_149,Savings,22590,Delhi
+100150,Cust_150,Current,576625,Mumbai
+100151,Cust_151,Current,579098,Mumbai
+100152,Cust_152,Fixed Deposit,677638,Mumbai
+100153,Cust_153,Fixed Deposit,489481,Mumbai
+100154,Cust_154,Fixed Deposit,646545,Chennai
+100155,Cust_155,Savings,498672,Delhi
+100156,Cust_156,Current,831269,Chennai
+100157,Cust_157,Savings,59828,Mumbai
+100158,Cust_158,Fixed Deposit,789392,Chennai
+100159,Cust_159,Savings,123579,Kolkata
+100160,Cust_160,Savings,206447,Delhi
+100161,Cust_161,Current,451518,Delhi
+100162,Cust_162,Fixed Deposit,202486,Delhi
+100163,Cust_163,Savings,380040,Kolkata
+100164,Cust_164,Fixed Deposit,447213,Delhi
+100165,Cust_165,Savings,280620,Chennai
+100166,Cust_166,Current,188744,Delhi
+100167,Cust_167,Fixed Deposit,765926,Delhi
+100168,Cust_168,Savings,354647,Mumbai
+100169,Cust_169,Current,715722,Kolkata
+100170,Cust_170,Current,982523,Mumbai
+100171,Cust_171,Current,456423,Chennai
+100172,Cust_172,Current,237935,Kolkata
+100173,Cust_173,Savings,346694,Mumbai
+100174,Cust_174,Fixed Deposit,125408,Chennai
+100175,Cust_175,Current,698344,Chennai
+100176,Cust_176,Current,459615,Kolkata
+100177,Cust_177,Savings,452737,Chennai
+100178,Cust_178,Fixed Deposit,84818,Mumbai
+100179,Cust_179,Fixed Deposit,467137,Chennai
+100180,Cust_180,Current,805098,Kolkata
+100181,Cust_181,Savings,4952,Delhi
+100182,Cust_182,Fixed Deposit,612643,Delhi
+100183,Cust_183,Fixed Deposit,603999,Chennai
+100184,Cust_184,Current,548096,Mumbai
+100185,Cust_185,Current,925001,Delhi
+100186,Cust_186,Fixed Deposit,298291,Delhi
+100187,Cust_187,Fixed Deposit,154963,Mumbai
+100188,Cust_188,Fixed Deposit,997606,Chennai
+100189,Cust_189,Fixed Deposit,931818,Chennai
+100190,Cust_190,Fixed Deposit,271939,Chennai
+100191,Cust_191,Current,98396,Kolkata
+100192,Cust_192,Current,172326,Kolkata
+100193,Cust_193,Current,541625,Chennai
+100194,Cust_194,Fixed Deposit,254415,Chennai
+100195,Cust_195,Savings,409765,Chennai
+100196,Cust_196,Savings,611259,Kolkata
+100197,Cust_197,Current,404634,Delhi
+100198,Cust_198,Current,457485,Delhi
+100199,Cust_199,Fixed Deposit,628906,Kolkata
+100200,Cust_200,Current,157140,Kolkata
+100201,Cust_201,Fixed Deposit,7343,Chennai
+100202,Cust_202,Savings,911980,Mumbai
+100203,Cust_203,Current,591003,Delhi
+100204,Cust_204,Current,540195,Delhi
+100205,Cust_205,Current,776870,Mumbai
+100206,Cust_206,Fixed Deposit,674210,Delhi
+100207,Cust_207,Fixed Deposit,473207,Kolkata
+100208,Cust_208,Current,908690,Mumbai
+100209,Cust_209,Current,371192,Chennai
+100210,Cust_210,Savings,86827,Mumbai
+100211,Cust_211,Current,929938,Kolkata
+100212,Cust_212,Current,965814,Kolkata
+100213,Cust_213,Fixed Deposit,752794,Chennai
+100214,Cust_214,Fixed Deposit,475333,Chennai
+100215,Cust_215,Current,569871,Kolkata
+100216,Cust_216,Current,288426,Delhi
+100217,Cust_217,Fixed Deposit,864806,Chennai
+100218,Cust_218,Savings,175927,Mumbai
+100219,Cust_219,Fixed Deposit,969398,Delhi
+100220,Cust_220,Current,789561,Delhi
+100221,Cust_221,Savings,649231,Chennai
+100222,Cust_222,Savings,361174,Kolkata
+100223,Cust_223,Current,56942,Chennai
+100224,Cust_224,Fixed Deposit,451394,Kolkata
+100225,Cust_225,Savings,977740,Mumbai
+100226,Cust_226,Current,938222,Kolkata
+100227,Cust_227,Savings,322215,Kolkata
+100228,Cust_228,Savings,38795,Delhi
+100229,Cust_229,Fixed Deposit,459060,Mumbai
+100230,Cust_230,Fixed Deposit,594159,Kolkata
+100231,Cust_231,Current,661060,Delhi
+100232,Cust_232,Fixed Deposit,151812,Mumbai
+100233,Cust_233,Current,20871,Delhi
+100234,Cust_234,Fixed Deposit,482439,Mumbai
+100235,Cust_235,Savings,273552,Chennai
+100236,Cust_236,Fixed Deposit,620885,Chennai
+100237,Cust_237,Current,188774,Mumbai
+100238,Cust_238,Current,34651,Chennai
+100239,Cust_239,Savings,983775,Kolkata
+100240,Cust_240,Savings,616971,Mumbai
+100241,Cust_241,Current,307014,Chennai
+100242,Cust_242,Savings,845519,Kolkata
+100243,Cust_243,Savings,907737,Kolkata
+100244,Cust_244,Fixed Deposit,639088,Kolkata
+100245,Cust_245,Savings,90422,Kolkata
+100246,Cust_246,Current,242253,Mumbai
+100247,Cust_247,Fixed Deposit,341279,Kolkata
+100248,Cust_248,Savings,844710,Chennai
+100249,Cust_249,Current,901745,Delhi
+100250,Cust_250,Fixed Deposit,288172,Delhi
+100251,Cust_251,Savings,901623,Mumbai
+100252,Cust_252,Current,824670,Mumbai
+100253,Cust_253,Fixed Deposit,622605,Mumbai
+100254,Cust_254,Current,931444,Delhi
+100255,Cust_255,Fixed Deposit,300471,Mumbai
+100256,Cust_256,Savings,317432,Delhi
+100257,Cust_257,Savings,653938,Delhi
+100258,Cust_258,Savings,629682,Kolkata
+100259,Cust_259,Fixed Deposit,713475,Mumbai
+100260,Cust_260,Savings,705063,Mumbai
+100261,Cust_261,Fixed Deposit,873051,Mumbai
+100262,Cust_262,Current,13087,Kolkata
+100263,Cust_263,Fixed Deposit,805411,Kolkata
+100264,Cust_264,Fixed Deposit,807851,Chennai
+100265,Cust_265,Current,310275,Delhi
+100266,Cust_266,Fixed Deposit,939558,Chennai
+100267,Cust_267,Fixed Deposit,565078,Chennai
+100268,Cust_268,Fixed Deposit,610784,Chennai
+100269,Cust_269,Fixed Deposit,205427,Mumbai
+100270,Cust_270,Fixed Deposit,484272,Kolkata
+100271,Cust_271,Current,960745,Kolkata
+100272,Cust_272,Current,748010,Mumbai
+100273,Cust_273,Fixed Deposit,472572,Kolkata
+100274,Cust_274,Fixed Deposit,172680,Chennai
+100275,Cust_275,Current,740410,Chennai
+100276,Cust_276,Savings,780618,Mumbai
+100277,Cust_277,Savings,844839,Delhi
+100278,Cust_278,Savings,301757,Mumbai
+100279,Cust_279,Current,201489,Mumbai
+100280,Cust_280,Savings,379786,Mumbai
+100281,Cust_281,Savings,649016,Mumbai
+100282,Cust_282,Fixed Deposit,18822,Delhi
+100283,Cust_283,Savings,588244,Chennai
+100284,Cust_284,Current,444122,Mumbai
+100285,Cust_285,Fixed Deposit,471326,Kolkata
+100286,Cust_286,Savings,673608,Mumbai
+100287,Cust_287,Savings,637545,Chennai
+100288,Cust_288,Fixed Deposit,275996,Mumbai
+100289,Cust_289,Savings,736158,Mumbai
+100290,Cust_290,Savings,320980,Chennai
+100291,Cust_291,Fixed Deposit,557074,Delhi
+100292,Cust_292,Fixed Deposit,571178,Mumbai
+100293,Cust_293,Fixed Deposit,112528,Kolkata
+100294,Cust_294,Savings,579327,Mumbai
+100295,Cust_295,Current,890665,Chennai
+100296,Cust_296,Fixed Deposit,897794,Chennai
+100297,Cust_297,Savings,812394,Kolkata
+100298,Cust_298,Current,99201,Kolkata
+100299,Cust_299,Current,800217,Mumbai
+100300,Cust_300,Current,140860,Delhi
+100301,Cust_301,Fixed Deposit,62494,Mumbai
+100302,Cust_302,Savings,317592,Chennai
+100303,Cust_303,Savings,122626,Kolkata
+100304,Cust_304,Current,722653,Kolkata
+100305,Cust_305,Fixed Deposit,604023,Delhi
+100306,Cust_306,Savings,616208,Chennai
+100307,Cust_307,Current,327425,Mumbai
+100308,Cust_308,Current,236787,Mumbai
+100309,Cust_309,Current,857874,Kolkata
+100310,Cust_310,Savings,1010,Kolkata
+100311,Cust_311,Current,974731,Kolkata
+100312,Cust_312,Fixed Deposit,382960,Kolkata
+100313,Cust_313,Savings,497392,Delhi
+100314,Cust_314,Current,936034,Chennai
+100315,Cust_315,Current,464346,Delhi
+100316,Cust_316,Savings,756878,Mumbai
+100317,Cust_317,Savings,481129,Delhi
+100318,Cust_318,Fixed Deposit,420747,Mumbai
+100319,Cust_319,Fixed Deposit,694393,Kolkata
+100320,Cust_320,Fixed Deposit,29147,Delhi
+100321,Cust_321,Current,187517,Delhi
+100322,Cust_322,Savings,251084,Delhi
+100323,Cust_323,Fixed Deposit,91845,Delhi
+100324,Cust_324,Fixed Deposit,960891,Kolkata
+100325,Cust_325,Savings,950806,Mumbai
+100326,Cust_326,Current,93419,Chennai
+100327,Cust_327,Current,152213,Delhi
+100328,Cust_328,Fixed Deposit,766908,Kolkata
+100329,Cust_329,Fixed Deposit,804152,Chennai
+100330,Cust_330,Savings,649235,Chennai
+100331,Cust_331,Savings,145169,Mumbai
+100332,Cust_332,Fixed Deposit,678689,Delhi
+100333,Cust_333,Savings,831895,Kolkata
+100334,Cust_334,Savings,724720,Delhi
+100335,Cust_335,Savings,324530,Kolkata
+100336,Cust_336,Current,931862,Mumbai
+100337,Cust_337,Savings,96252,Kolkata
+100338,Cust_338,Current,771434,Mumbai
+100339,Cust_339,Fixed Deposit,761078,Chennai
+100340,Cust_340,Fixed Deposit,612472,Chennai
+100341,Cust_341,Savings,742384,Kolkata
+100342,Cust_342,Fixed Deposit,197395,Chennai
+100343,Cust_343,Fixed Deposit,668988,Delhi
+100344,Cust_344,Current,746017,Mumbai
+100345,Cust_345,Savings,223295,Chennai
+100346,Cust_346,Savings,294852,Kolkata
+100347,Cust_347,Current,135663,Kolkata
+100348,Cust_348,Current,26886,Mumbai
+100349,Cust_349,Fixed Deposit,715793,Delhi
+100350,Cust_350,Savings,533304,Chennai
+100351,Cust_351,Savings,81369,Kolkata
+100352,Cust_352,Current,155919,Mumbai
+100353,Cust_353,Fixed Deposit,304870,Delhi
+100354,Cust_354,Fixed Deposit,64102,Delhi
+100355,Cust_355,Savings,23007,Kolkata
+100356,Cust_356,Fixed Deposit,687928,Chennai
+100357,Cust_357,Savings,863836,Kolkata
+100358,Cust_358,Savings,731127,Mumbai
+100359,Cust_359,Current,688972,Mumbai
+100360,Cust_360,Fixed Deposit,665857,Chennai
+100361,Cust_361,Fixed Deposit,881600,Mumbai
+100362,Cust_362,Fixed Deposit,492646,Mumbai
+100363,Cust_363,Current,234059,Kolkata
+100364,Cust_364,Savings,489073,Chennai
+100365,Cust_365,Savings,228573,Delhi
+100366,Cust_366,Fixed Deposit,644632,Mumbai
+100367,Cust_367,Savings,180744,Mumbai
+100368,Cust_368,Current,340155,Chennai
+100369,Cust_369,Fixed Deposit,301259,Delhi
+100370,Cust_370,Fixed Deposit,805708,Chennai
+100371,Cust_371,Fixed Deposit,42049,Mumbai
+100372,Cust_372,Current,726850,Kolkata
+100373,Cust_373,Current,968037,Kolkata
+100374,Cust_374,Fixed Deposit,388723,Mumbai
+100375,Cust_375,Fixed Deposit,419197,Chennai
+100376,Cust_376,Fixed Deposit,319800,Mumbai
+100377,Cust_377,Current,424822,Mumbai
+100378,Cust_378,Current,699465,Delhi
+100379,Cust_379,Current,526150,Delhi
+100380,Cust_380,Savings,52908,Kolkata
+100381,Cust_381,Savings,443910,Kolkata
+100382,Cust_382,Fixed Deposit,609450,Delhi
+100383,Cust_383,Fixed Deposit,635315,Delhi
+100384,Cust_384,Savings,279769,Delhi
+100385,Cust_385,Current,785766,Kolkata
+100386,Cust_386,Savings,71184,Delhi
+100387,Cust_387,Savings,340634,Chennai
+100388,Cust_388,Fixed Deposit,851261,Mumbai
+100389,Cust_389,Fixed Deposit,784722,Mumbai
+100390,Cust_390,Fixed Deposit,90089,Chennai
+100391,Cust_391,Current,81889,Mumbai
+100392,Cust_392,Fixed Deposit,154521,Kolkata
+100393,Cust_393,Savings,226497,Kolkata
+100394,Cust_394,Savings,125277,Mumbai
+100395,Cust_395,Savings,991821,Delhi
+100396,Cust_396,Current,489770,Delhi
+100397,Cust_397,Current,388826,Chennai
+100398,Cust_398,Current,139689,Mumbai
+100399,Cust_399,Fixed Deposit,596947,Kolkata
+100400,Cust_400,Fixed Deposit,806639,Kolkata
+100401,Cust_401,Current,734497,Delhi
+100402,Cust_402,Savings,329291,Chennai
+100403,Cust_403,Current,106809,Chennai
+100404,Cust_404,Savings,760101,Mumbai
+100405,Cust_405,Savings,361853,Chennai
+100406,Cust_406,Savings,567509,Chennai
+100407,Cust_407,Savings,170063,Kolkata
+100408,Cust_408,Current,338555,Mumbai
+100409,Cust_409,Savings,645161,Chennai
+100410,Cust_410,Savings,266555,Kolkata
+100411,Cust_411,Current,276245,Chennai
+100412,Cust_412,Savings,957205,Chennai
+100413,Cust_413,Savings,676608,Kolkata
+100414,Cust_414,Current,698870,Kolkata
+100415,Cust_415,Current,216799,Chennai
+100416,Cust_416,Savings,909582,Kolkata
+100417,Cust_417,Current,744195,Kolkata
+100418,Cust_418,Fixed Deposit,776391,Kolkata
+100419,Cust_419,Current,152261,Chennai
+100420,Cust_420,Savings,203290,Mumbai
+100421,Cust_421,Savings,5605,Mumbai
+100422,Cust_422,Savings,747568,Delhi
+100423,Cust_423,Savings,350408,Delhi
+100424,Cust_424,Current,329125,Kolkata
+100425,Cust_425,Current,825869,Delhi
+100426,Cust_426,Current,477567,Chennai
+100427,Cust_427,Fixed Deposit,579050,Delhi
+100428,Cust_428,Savings,132855,Mumbai
+100429,Cust_429,Savings,598311,Chennai
+100430,Cust_430,Savings,426745,Chennai
+100431,Cust_431,Current,519463,Chennai
+100432,Cust_432,Current,115727,Kolkata
+100433,Cust_433,Current,265689,Chennai
+100434,Cust_434,Current,954963,Mumbai
+100435,Cust_435,Current,568968,Kolkata
+100436,Cust_436,Current,864589,Mumbai
+100437,Cust_437,Current,239217,Mumbai
+100438,Cust_438,Current,152864,Delhi
+100439,Cust_439,Current,729638,Mumbai
+100440,Cust_440,Fixed Deposit,40945,Kolkata
+100441,Cust_441,Fixed Deposit,195206,Delhi
+100442,Cust_442,Savings,781448,Delhi
+100443,Cust_443,Savings,357896,Kolkata
+100444,Cust_444,Fixed Deposit,267305,Mumbai
+100445,Cust_445,Savings,233166,Delhi
+100446,Cust_446,Current,208809,Delhi
+100447,Cust_447,Current,565574,Mumbai
+100448,Cust_448,Savings,736241,Kolkata
+100449,Cust_449,Current,867505,Delhi
+100450,Cust_450,Current,980168,Kolkata
+100451,Cust_451,Current,351242,Delhi
+100452,Cust_452,Savings,167752,Chennai
+100453,Cust_453,Current,938595,Chennai
+100454,Cust_454,Current,284298,Delhi
+100455,Cust_455,Fixed Deposit,464747,Kolkata
+100456,Cust_456,Current,59071,Kolkata
+100457,Cust_457,Savings,20305,Kolkata
+100458,Cust_458,Current,159932,Delhi
+100459,Cust_459,Savings,538144,Chennai
+100460,Cust_460,Savings,679465,Chennai
+100461,Cust_461,Current,559928,Kolkata
+100462,Cust_462,Fixed Deposit,643568,Mumbai
+100463,Cust_463,Current,716865,Chennai
+100464,Cust_464,Fixed Deposit,886162,Delhi
+100465,Cust_465,Fixed Deposit,378359,Chennai
+100466,Cust_466,Current,154431,Kolkata
+100467,Cust_467,Savings,197147,Delhi
+100468,Cust_468,Current,868290,Delhi
+100469,Cust_469,Current,599535,Kolkata
+100470,Cust_470,Savings,113700,Delhi
+100471,Cust_471,Savings,442779,Chennai
+100472,Cust_472,Current,458377,Delhi
+100473,Cust_473,Current,556300,Mumbai
+100474,Cust_474,Current,759085,Mumbai
+100475,Cust_475,Savings,31368,Chennai
+100476,Cust_476,Savings,508825,Kolkata
+100477,Cust_477,Current,44487,Delhi
+100478,Cust_478,Savings,789803,Chennai
+100479,Cust_479,Current,289201,Mumbai
+100480,Cust_480,Savings,488691,Chennai
+100481,Cust_481,Current,315415,Chennai
+100482,Cust_482,Savings,383219,Chennai
+100483,Cust_483,Savings,10910,Kolkata
+100484,Cust_484,Savings,972875,Chennai
+100485,Cust_485,Fixed Deposit,986965,Kolkata
+100486,Cust_486,Fixed Deposit,349954,Chennai
+100487,Cust_487,Current,100497,Chennai
+100488,Cust_488,Savings,794680,Mumbai
+100489,Cust_489,Fixed Deposit,854793,Kolkata
+100490,Cust_490,Savings,599511,Mumbai
+100491,Cust_491,Fixed Deposit,122423,Kolkata
+100492,Cust_492,Fixed Deposit,873238,Chennai
+100493,Cust_493,Fixed Deposit,842766,Mumbai
+100494,Cust_494,Savings,666080,Delhi
+100495,Cust_495,Fixed Deposit,818457,Delhi
+100496,Cust_496,Savings,575134,Delhi
+100497,Cust_497,Current,285376,Chennai
+100498,Cust_498,Fixed Deposit,564184,Kolkata
+100499,Cust_499,Current,581184,Delhi
+100500,Cust_500,Current,774061,Chennai
+100501,Cust_501,Current,430052,Kolkata
+100502,Cust_502,Savings,586028,Kolkata
+100503,Cust_503,Fixed Deposit,442644,Mumbai
+100504,Cust_504,Fixed Deposit,676695,Delhi
+100505,Cust_505,Current,565528,Kolkata
+100506,Cust_506,Savings,702073,Kolkata
+100507,Cust_507,Current,19981,Kolkata
+100508,Cust_508,Savings,777083,Mumbai
+100509,Cust_509,Current,747605,Kolkata
+100510,Cust_510,Savings,328006,Kolkata
+100511,Cust_511,Current,785676,Chennai
+100512,Cust_512,Fixed Deposit,838114,Delhi
+100513,Cust_513,Fixed Deposit,136576,Mumbai
+100514,Cust_514,Fixed Deposit,522552,Chennai
+100515,Cust_515,Fixed Deposit,786026,Mumbai
+100516,Cust_516,Fixed Deposit,523754,Mumbai
+100517,Cust_517,Fixed Deposit,835099,Mumbai
+100518,Cust_518,Fixed Deposit,14485,Kolkata
+100519,Cust_519,Savings,370352,Delhi
+100520,Cust_520,Current,775344,Mumbai
+100521,Cust_521,Current,943023,Chennai
+100522,Cust_522,Fixed Deposit,698041,Delhi
+100523,Cust_523,Savings,448708,Chennai
+100524,Cust_524,Current,754651,Kolkata
+100525,Cust_525,Current,665536,Mumbai
+100526,Cust_526,Savings,567002,Kolkata
+100527,Cust_527,Current,225084,Mumbai
+100528,Cust_528,Fixed Deposit,140736,Chennai
+100529,Cust_529,Savings,393516,Delhi
+100530,Cust_530,Savings,38476,Chennai
+100531,Cust_531,Fixed Deposit,768504,Chennai
+100532,Cust_532,Fixed Deposit,382875,Chennai
+100533,Cust_533,Fixed Deposit,929048,Kolkata
+100534,Cust_534,Savings,306894,Mumbai
+100535,Cust_535,Savings,817821,Mumbai
+100536,Cust_536,Fixed Deposit,74570,Mumbai
+100537,Cust_537,Savings,591207,Kolkata
+100538,Cust_538,Current,318322,Mumbai
+100539,Cust_539,Savings,241283,Mumbai
+100540,Cust_540,Fixed Deposit,138285,Kolkata
+100541,Cust_541,Fixed Deposit,42434,Chennai
+100542,Cust_542,Savings,974407,Delhi
+100543,Cust_543,Current,717524,Delhi
+100544,Cust_544,Current,652934,Mumbai
+100545,Cust_545,Fixed Deposit,951782,Chennai
+100546,Cust_546,Fixed Deposit,997772,Chennai
+100547,Cust_547,Savings,643441,Mumbai
+100548,Cust_548,Fixed Deposit,990758,Kolkata
+100549,Cust_549,Savings,230150,Chennai
+100550,Cust_550,Savings,477465,Kolkata
+100551,Cust_551,Fixed Deposit,3840,Kolkata
+100552,Cust_552,Savings,984598,Chennai
+100553,Cust_553,Savings,295875,Mumbai
+100554,Cust_554,Fixed Deposit,461105,Kolkata
+100555,Cust_555,Savings,368881,Kolkata
+100556,Cust_556,Fixed Deposit,462035,Kolkata
+100557,Cust_557,Current,577866,Delhi
+100558,Cust_558,Fixed Deposit,753963,Delhi
+100559,Cust_559,Fixed Deposit,847629,Delhi
+100560,Cust_560,Current,936337,Chennai
+100561,Cust_561,Savings,707249,Kolkata
+100562,Cust_562,Current,573285,Kolkata
+100563,Cust_563,Current,869365,Chennai
+100564,Cust_564,Fixed Deposit,829973,Chennai
+100565,Cust_565,Savings,996741,Delhi
+100566,Cust_566,Savings,309464,Chennai
+100567,Cust_567,Savings,772583,Mumbai
+100568,Cust_568,Fixed Deposit,322989,Delhi
+100569,Cust_569,Savings,168580,Kolkata
+100570,Cust_570,Current,991923,Mumbai
+100571,Cust_571,Fixed Deposit,524066,Mumbai
+100572,Cust_572,Fixed Deposit,269045,Chennai
+100573,Cust_573,Current,5199,Chennai
+100574,Cust_574,Fixed Deposit,731043,Chennai
+100575,Cust_575,Fixed Deposit,52363,Mumbai
+100576,Cust_576,Savings,992450,Delhi
+100577,Cust_577,Current,492021,Mumbai
+100578,Cust_578,Savings,662515,Chennai
+100579,Cust_579,Fixed Deposit,37942,Mumbai
+100580,Cust_580,Current,917018,Chennai
+100581,Cust_581,Fixed Deposit,83464,Chennai
+100582,Cust_582,Fixed Deposit,416828,Kolkata
+100583,Cust_583,Savings,780023,Delhi
+100584,Cust_584,Current,867411,Mumbai
+100585,Cust_585,Fixed Deposit,198354,Kolkata
+100586,Cust_586,Fixed Deposit,275467,Kolkata
+100587,Cust_587,Current,406982,Mumbai
+100588,Cust_588,Current,158275,Kolkata
+100589,Cust_589,Current,120404,Mumbai
+100590,Cust_590,Fixed Deposit,236522,Delhi
+100591,Cust_591,Current,201060,Delhi
+100592,Cust_592,Current,476950,Kolkata
+100593,Cust_593,Fixed Deposit,667666,Delhi
+100594,Cust_594,Current,175717,Mumbai
+100595,Cust_595,Current,464705,Kolkata
+100596,Cust_596,Savings,418388,Chennai
+100597,Cust_597,Current,64109,Chennai
+100598,Cust_598,Fixed Deposit,195344,Mumbai
+100599,Cust_599,Savings,458335,Kolkata
+100600,Cust_600,Current,482620,Mumbai
+100601,Cust_601,Fixed Deposit,369486,Chennai
+100602,Cust_602,Current,447796,Mumbai
+100603,Cust_603,Fixed Deposit,553972,Mumbai
+100604,Cust_604,Savings,404324,Delhi
+100605,Cust_605,Current,801916,Mumbai
+100606,Cust_606,Fixed Deposit,792340,Kolkata
+100607,Cust_607,Savings,438564,Mumbai
+100608,Cust_608,Fixed Deposit,659942,Delhi
+100609,Cust_609,Fixed Deposit,341268,Kolkata
+100610,Cust_610,Savings,763564,Delhi
+100611,Cust_611,Savings,919086,Chennai
+100612,Cust_612,Current,112361,Mumbai
+100613,Cust_613,Savings,486876,Chennai
+100614,Cust_614,Savings,729027,Mumbai
+100615,Cust_615,Savings,995283,Chennai
+100616,Cust_616,Fixed Deposit,57363,Chennai
+100617,Cust_617,Current,634342,Chennai
+100618,Cust_618,Current,461184,Kolkata
+100619,Cust_619,Current,295398,Kolkata
+100620,Cust_620,Fixed Deposit,342847,Delhi
+100621,Cust_621,Fixed Deposit,985785,Mumbai
+100622,Cust_622,Current,873650,Mumbai
+100623,Cust_623,Current,760843,Kolkata
+100624,Cust_624,Savings,26549,Delhi
+100625,Cust_625,Fixed Deposit,530966,Delhi
+100626,Cust_626,Current,139169,Chennai
+100627,Cust_627,Savings,115614,Kolkata
+100628,Cust_628,Fixed Deposit,68491,Kolkata
+100629,Cust_629,Fixed Deposit,84676,Chennai
+100630,Cust_630,Savings,101655,Delhi
+100631,Cust_631,Current,146903,Chennai
+100632,Cust_632,Current,442644,Chennai
+100633,Cust_633,Fixed Deposit,55468,Kolkata
+100634,Cust_634,Fixed Deposit,791068,Chennai
+100635,Cust_635,Savings,888721,Delhi
+100636,Cust_636,Savings,342937,Chennai
+100637,Cust_637,Savings,946989,Mumbai
+100638,Cust_638,Savings,122231,Chennai
+100639,Cust_639,Fixed Deposit,252876,Chennai
+100640,Cust_640,Current,853417,Kolkata
+100641,Cust_641,Fixed Deposit,233319,Mumbai
+100642,Cust_642,Fixed Deposit,295646,Delhi
+100643,Cust_643,Fixed Deposit,614355,Mumbai
+100644,Cust_644,Savings,804601,Kolkata
+100645,Cust_645,Current,978711,Delhi
+100646,Cust_646,Savings,841778,Delhi
+100647,Cust_647,Fixed Deposit,218233,Mumbai
+100648,Cust_648,Fixed Deposit,739467,Chennai
+100649,Cust_649,Fixed Deposit,335772,Mumbai
+100650,Cust_650,Savings,280114,Delhi
+100651,Cust_651,Current,549494,Kolkata
+100652,Cust_652,Fixed Deposit,598731,Chennai
+100653,Cust_653,Fixed Deposit,417941,Mumbai
+100654,Cust_654,Fixed Deposit,220778,Mumbai
+100655,Cust_655,Fixed Deposit,640292,Kolkata
+100656,Cust_656,Savings,473813,Mumbai
+100657,Cust_657,Savings,511454,Delhi
+100658,Cust_658,Fixed Deposit,445366,Mumbai
+100659,Cust_659,Fixed Deposit,701062,Mumbai
+100660,Cust_660,Savings,289367,Mumbai
+100661,Cust_661,Savings,511572,Chennai
+100662,Cust_662,Current,792090,Chennai
+100663,Cust_663,Fixed Deposit,314395,Mumbai
+100664,Cust_664,Current,815406,Mumbai
+100665,Cust_665,Current,265413,Delhi
+100666,Cust_666,Savings,80654,Kolkata
+100667,Cust_667,Current,130479,Mumbai
+100668,Cust_668,Savings,11267,Delhi
+100669,Cust_669,Current,545189,Delhi
+100670,Cust_670,Savings,350093,Delhi
+100671,Cust_671,Savings,874909,Chennai
+100672,Cust_672,Fixed Deposit,178887,Delhi
+100673,Cust_673,Current,819319,Delhi
+100674,Cust_674,Fixed Deposit,541549,Kolkata
+100675,Cust_675,Current,442865,Chennai
+100676,Cust_676,Fixed Deposit,381444,Delhi
+100677,Cust_677,Savings,744469,Chennai
+100678,Cust_678,Savings,622701,Chennai
+100679,Cust_679,Fixed Deposit,628277,Delhi
+100680,Cust_680,Fixed Deposit,436356,Chennai
+100681,Cust_681,Current,463316,Chennai
+100682,Cust_682,Current,712315,Chennai
+100683,Cust_683,Current,347125,Kolkata
+100684,Cust_684,Fixed Deposit,970328,Delhi
+100685,Cust_685,Savings,18850,Mumbai
+100686,Cust_686,Fixed Deposit,599023,Mumbai
+100687,Cust_687,Fixed Deposit,530592,Mumbai
+100688,Cust_688,Savings,573306,Kolkata
+100689,Cust_689,Current,949828,Mumbai
+100690,Cust_690,Savings,914342,Kolkata
+100691,Cust_691,Savings,118570,Mumbai
+100692,Cust_692,Current,540576,Kolkata
+100693,Cust_693,Savings,770305,Mumbai
+100694,Cust_694,Fixed Deposit,869739,Delhi
+100695,Cust_695,Fixed Deposit,434846,Kolkata
+100696,Cust_696,Fixed Deposit,654751,Mumbai
+100697,Cust_697,Fixed Deposit,247613,Chennai
+100698,Cust_698,Savings,402530,Delhi
+100699,Cust_699,Savings,874735,Mumbai
+100700,Cust_700,Savings,696900,Delhi
+100701,Cust_701,Fixed Deposit,161976,Chennai
+100702,Cust_702,Savings,403817,Kolkata
+100703,Cust_703,Fixed Deposit,358136,Delhi
+100704,Cust_704,Current,91414,Kolkata
+100705,Cust_705,Fixed Deposit,220498,Chennai
+100706,Cust_706,Current,633163,Kolkata
+100707,Cust_707,Current,457661,Chennai
+100708,Cust_708,Fixed Deposit,190161,Mumbai
+100709,Cust_709,Savings,811769,Kolkata
+100710,Cust_710,Savings,271171,Kolkata
+100711,Cust_711,Fixed Deposit,264754,Mumbai
+100712,Cust_712,Savings,290442,Chennai
+100713,Cust_713,Current,631408,Mumbai
+100714,Cust_714,Fixed Deposit,584657,Mumbai
+100715,Cust_715,Savings,172467,Delhi
+100716,Cust_716,Fixed Deposit,487416,Kolkata
+100717,Cust_717,Savings,315493,Chennai
+100718,Cust_718,Current,466603,Kolkata
+100719,Cust_719,Current,679358,Chennai
+100720,Cust_720,Fixed Deposit,620863,Mumbai
+100721,Cust_721,Current,345129,Mumbai
+100722,Cust_722,Savings,10294,Chennai
+100723,Cust_723,Current,410511,Delhi
+100724,Cust_724,Savings,949278,Delhi
+100725,Cust_725,Savings,775026,Delhi
+100726,Cust_726,Current,871091,Kolkata
+100727,Cust_727,Fixed Deposit,921350,Chennai
+100728,Cust_728,Fixed Deposit,91072,Delhi
+100729,Cust_729,Fixed Deposit,373975,Mumbai
+100730,Cust_730,Fixed Deposit,801530,Mumbai
+100731,Cust_731,Savings,196807,Delhi
+100732,Cust_732,Savings,18611,Kolkata
+100733,Cust_733,Savings,24824,Kolkata
+100734,Cust_734,Savings,152202,Delhi
+100735,Cust_735,Fixed Deposit,581892,Kolkata
+100736,Cust_736,Fixed Deposit,554552,Delhi
+100737,Cust_737,Current,121565,Delhi
+100738,Cust_738,Savings,872751,Delhi
+100739,Cust_739,Fixed Deposit,569326,Chennai
+100740,Cust_740,Savings,713419,Chennai
+100741,Cust_741,Fixed Deposit,636805,Delhi
+100742,Cust_742,Savings,743909,Delhi
+100743,Cust_743,Savings,200975,Mumbai
+100744,Cust_744,Savings,555388,Delhi
+100745,Cust_745,Fixed Deposit,687485,Mumbai
+100746,Cust_746,Savings,276704,Kolkata
+100747,Cust_747,Fixed Deposit,698818,Chennai
+100748,Cust_748,Current,33785,Delhi
+100749,Cust_749,Current,612227,Chennai
+100750,Cust_750,Current,721401,Mumbai
+100751,Cust_751,Fixed Deposit,892079,Delhi
+100752,Cust_752,Current,334778,Chennai
+100753,Cust_753,Current,370971,Chennai
+100754,Cust_754,Savings,89153,Mumbai
+100755,Cust_755,Current,56493,Mumbai
+100756,Cust_756,Current,970329,Mumbai
+100757,Cust_757,Fixed Deposit,886092,Kolkata
+100758,Cust_758,Savings,97397,Chennai
+100759,Cust_759,Fixed Deposit,907945,Chennai
+100760,Cust_760,Fixed Deposit,586606,Kolkata
+100761,Cust_761,Fixed Deposit,96373,Delhi
+100762,Cust_762,Savings,97427,Mumbai
+100763,Cust_763,Fixed Deposit,850795,Chennai
+100764,Cust_764,Current,640694,Delhi
+100765,Cust_765,Savings,961655,Delhi
+100766,Cust_766,Fixed Deposit,57011,Chennai
+100767,Cust_767,Current,698241,Kolkata
+100768,Cust_768,Savings,282541,Mumbai
+100769,Cust_769,Savings,478515,Chennai
+100770,Cust_770,Savings,171571,Delhi
+100771,Cust_771,Current,324481,Chennai
+100772,Cust_772,Current,279001,Chennai
+100773,Cust_773,Current,762845,Delhi
+100774,Cust_774,Current,883366,Chennai
+100775,Cust_775,Fixed Deposit,646060,Delhi
+100776,Cust_776,Savings,614997,Mumbai
+100777,Cust_777,Fixed Deposit,984306,Mumbai
+100778,Cust_778,Savings,703037,Mumbai
+100779,Cust_779,Current,697283,Mumbai
+100780,Cust_780,Fixed Deposit,899745,Chennai
+100781,Cust_781,Savings,330378,Mumbai
+100782,Cust_782,Fixed Deposit,919715,Delhi
+100783,Cust_783,Savings,618112,Delhi
+100784,Cust_784,Current,11337,Delhi
+100785,Cust_785,Current,339020,Kolkata
+100786,Cust_786,Fixed Deposit,176643,Kolkata
+100787,Cust_787,Current,810196,Delhi
+100788,Cust_788,Savings,211075,Mumbai
+100789,Cust_789,Current,132388,Chennai
+100790,Cust_790,Fixed Deposit,672132,Delhi
+100791,Cust_791,Fixed Deposit,261559,Delhi
+100792,Cust_792,Current,757695,Delhi
+100793,Cust_793,Current,79772,Chennai
+100794,Cust_794,Savings,860636,Kolkata
+100795,Cust_795,Fixed Deposit,658135,Delhi
+100796,Cust_796,Current,654584,Kolkata
+100797,Cust_797,Fixed Deposit,431751,Delhi
+100798,Cust_798,Current,3899,Mumbai
+100799,Cust_799,Current,243144,Kolkata
+100800,Cust_800,Fixed Deposit,507330,Delhi
+100801,Cust_801,Current,944891,Mumbai
+100802,Cust_802,Fixed Deposit,696092,Kolkata
+100803,Cust_803,Fixed Deposit,336429,Chennai
+100804,Cust_804,Savings,830580,Chennai
+100805,Cust_805,Savings,116538,Kolkata
+100806,Cust_806,Fixed Deposit,982283,Delhi
+100807,Cust_807,Current,154977,Delhi
+100808,Cust_808,Savings,343005,Delhi
+100809,Cust_809,Current,407292,Chennai
+100810,Cust_810,Current,866373,Mumbai
+100811,Cust_811,Current,168872,Delhi
+100812,Cust_812,Fixed Deposit,751106,Chennai
+100813,Cust_813,Savings,515944,Kolkata
+100814,Cust_814,Fixed Deposit,907484,Delhi
+100815,Cust_815,Savings,639963,Mumbai
+100816,Cust_816,Current,410829,Delhi
+100817,Cust_817,Current,222729,Kolkata
+100818,Cust_818,Fixed Deposit,753259,Delhi
+100819,Cust_819,Savings,150951,Mumbai
+100820,Cust_820,Fixed Deposit,678170,Delhi
+100821,Cust_821,Fixed Deposit,175295,Delhi
+100822,Cust_822,Fixed Deposit,926230,Kolkata
+100823,Cust_823,Current,571330,Kolkata
+100824,Cust_824,Fixed Deposit,571266,Chennai
+100825,Cust_825,Current,457225,Chennai
+100826,Cust_826,Current,433717,Chennai
+100827,Cust_827,Savings,282503,Chennai
+100828,Cust_828,Fixed Deposit,51981,Delhi
+100829,Cust_829,Fixed Deposit,642735,Chennai
+100830,Cust_830,Fixed Deposit,810211,Kolkata
+100831,Cust_831,Savings,740803,Mumbai
+100832,Cust_832,Current,77139,Kolkata
+100833,Cust_833,Fixed Deposit,200663,Chennai
+100834,Cust_834,Savings,913967,Chennai
+100835,Cust_835,Savings,677660,Delhi
+100836,Cust_836,Current,964955,Mumbai
+100837,Cust_837,Current,620378,Mumbai
+100838,Cust_838,Fixed Deposit,781162,Mumbai
+100839,Cust_839,Fixed Deposit,753143,Delhi
+100840,Cust_840,Savings,394600,Kolkata
+100841,Cust_841,Savings,34238,Delhi
+100842,Cust_842,Savings,280571,Delhi
+100843,Cust_843,Fixed Deposit,388587,Chennai
+100844,Cust_844,Current,927657,Chennai
+100845,Cust_845,Current,597676,Kolkata
+100846,Cust_846,Fixed Deposit,336298,Chennai
+100847,Cust_847,Current,495765,Kolkata
+100848,Cust_848,Current,302916,Delhi
+100849,Cust_849,Fixed Deposit,901247,Chennai
+100850,Cust_850,Current,736393,Delhi
+100851,Cust_851,Savings,615027,Kolkata
+100852,Cust_852,Current,154334,Mumbai
+100853,Cust_853,Fixed Deposit,139145,Mumbai
+100854,Cust_854,Current,465026,Mumbai
+100855,Cust_855,Current,318698,Chennai
+100856,Cust_856,Current,702222,Kolkata
+100857,Cust_857,Current,488714,Chennai
+100858,Cust_858,Current,300500,Mumbai
+100859,Cust_859,Fixed Deposit,436208,Chennai
+100860,Cust_860,Fixed Deposit,632742,Kolkata
+100861,Cust_861,Fixed Deposit,326816,Delhi
+100862,Cust_862,Fixed Deposit,99028,Kolkata
+100863,Cust_863,Savings,207031,Kolkata
+100864,Cust_864,Savings,262511,Mumbai
+100865,Cust_865,Current,235360,Chennai
+100866,Cust_866,Fixed Deposit,529848,Kolkata
+100867,Cust_867,Fixed Deposit,85978,Chennai
+100868,Cust_868,Fixed Deposit,351115,Kolkata
+100869,Cust_869,Current,247383,Kolkata
+100870,Cust_870,Current,739120,Mumbai
+100871,Cust_871,Savings,367502,Kolkata
+100872,Cust_872,Fixed Deposit,911996,Chennai
+100873,Cust_873,Current,234675,Delhi
+100874,Cust_874,Fixed Deposit,408622,Mumbai
+100875,Cust_875,Current,308949,Mumbai
+100876,Cust_876,Fixed Deposit,751129,Chennai
+100877,Cust_877,Fixed Deposit,498078,Mumbai
+100878,Cust_878,Savings,530395,Kolkata
+100879,Cust_879,Fixed Deposit,563616,Delhi
+100880,Cust_880,Savings,44690,Delhi
+100881,Cust_881,Fixed Deposit,788607,Kolkata
+100882,Cust_882,Savings,630849,Delhi
+100883,Cust_883,Current,297657,Kolkata
+100884,Cust_884,Current,792759,Chennai
+100885,Cust_885,Current,561426,Mumbai
+100886,Cust_886,Fixed Deposit,742688,Kolkata
+100887,Cust_887,Fixed Deposit,472382,Kolkata
+100888,Cust_888,Current,333309,Kolkata
+100889,Cust_889,Savings,585773,Chennai
+100890,Cust_890,Current,962863,Kolkata
+100891,Cust_891,Current,180376,Kolkata
+100892,Cust_892,Fixed Deposit,721025,Delhi
+100893,Cust_893,Current,126569,Kolkata
+100894,Cust_894,Current,271373,Mumbai
+100895,Cust_895,Fixed Deposit,2271,Chennai
+100896,Cust_896,Savings,864274,Mumbai
+100897,Cust_897,Fixed Deposit,604294,Mumbai
+100898,Cust_898,Current,838709,Chennai
+100899,Cust_899,Current,266523,Delhi
+100900,Cust_900,Savings,352669,Mumbai
+100901,Cust_901,Fixed Deposit,552953,Delhi
+100902,Cust_902,Current,150897,Chennai
+100903,Cust_903,Savings,658832,Mumbai
+100904,Cust_904,Fixed Deposit,680535,Chennai
+100905,Cust_905,Fixed Deposit,374777,Chennai
+100906,Cust_906,Savings,437536,Delhi
+100907,Cust_907,Savings,23563,Chennai
+100908,Cust_908,Savings,556973,Kolkata
+100909,Cust_909,Savings,909865,Chennai
+100910,Cust_910,Fixed Deposit,796486,Delhi
+100911,Cust_911,Current,95043,Delhi
+100912,Cust_912,Fixed Deposit,354777,Delhi
+100913,Cust_913,Savings,91416,Kolkata
+100914,Cust_914,Savings,20002,Chennai
+100915,Cust_915,Fixed Deposit,307767,Delhi
+100916,Cust_916,Current,99551,Chennai
+100917,Cust_917,Fixed Deposit,232929,Chennai
+100918,Cust_918,Current,886719,Delhi
+100919,Cust_919,Savings,428328,Delhi
+100920,Cust_920,Current,478946,Kolkata
+100921,Cust_921,Fixed Deposit,573289,Mumbai
+100922,Cust_922,Fixed Deposit,677027,Kolkata
+100923,Cust_923,Savings,577314,Mumbai
+100924,Cust_924,Savings,386883,Kolkata
+100925,Cust_925,Current,755681,Chennai
+100926,Cust_926,Current,231634,Delhi
+100927,Cust_927,Fixed Deposit,293063,Kolkata
+100928,Cust_928,Current,144262,Mumbai
+100929,Cust_929,Savings,738586,Chennai
+100930,Cust_930,Fixed Deposit,777538,Chennai
+100931,Cust_931,Savings,581196,Kolkata
+100932,Cust_932,Savings,240918,Mumbai
+100933,Cust_933,Current,67453,Kolkata
+100934,Cust_934,Savings,631485,Mumbai
+100935,Cust_935,Fixed Deposit,848042,Delhi
+100936,Cust_936,Current,263928,Kolkata
+100937,Cust_937,Savings,579497,Delhi
+100938,Cust_938,Fixed Deposit,80752,Delhi
+100939,Cust_939,Current,484900,Mumbai
+100940,Cust_940,Savings,968394,Mumbai
+100941,Cust_941,Fixed Deposit,741793,Mumbai
+100942,Cust_942,Fixed Deposit,585783,Kolkata
+100943,Cust_943,Current,187335,Delhi
+100944,Cust_944,Current,397760,Chennai
+100945,Cust_945,Current,123549,Delhi
+100946,Cust_946,Savings,783513,Kolkata
+100947,Cust_947,Current,828011,Kolkata
+100948,Cust_948,Current,784641,Kolkata
+100949,Cust_949,Current,960877,Mumbai
+100950,Cust_950,Savings,133166,Kolkata
+100951,Cust_951,Savings,241907,Kolkata
+100952,Cust_952,Current,980175,Delhi
+100953,Cust_953,Current,191828,Mumbai
+100954,Cust_954,Savings,194752,Kolkata
+100955,Cust_955,Current,886110,Kolkata
+100956,Cust_956,Current,476354,Kolkata
+100957,Cust_957,Savings,883846,Chennai
+100958,Cust_958,Savings,409557,Chennai
+100959,Cust_959,Savings,122751,Chennai
+100960,Cust_960,Current,905379,Delhi
+100961,Cust_961,Fixed Deposit,34593,Kolkata
+100962,Cust_962,Current,460070,Kolkata
+100963,Cust_963,Fixed Deposit,154185,Delhi
+100964,Cust_964,Current,827686,Chennai
+100965,Cust_965,Fixed Deposit,841361,Chennai
+100966,Cust_966,Fixed Deposit,658508,Mumbai
+100967,Cust_967,Current,955032,Kolkata
+100968,Cust_968,Savings,351456,Mumbai
+100969,Cust_969,Savings,700623,Delhi
+100970,Cust_970,Savings,540240,Kolkata
+100971,Cust_971,Savings,169046,Chennai
+100972,Cust_972,Current,540462,Mumbai
+100973,Cust_973,Current,954139,Delhi
+100974,Cust_974,Current,227776,Mumbai
+100975,Cust_975,Fixed Deposit,283357,Chennai
+100976,Cust_976,Fixed Deposit,822671,Kolkata
+100977,Cust_977,Fixed Deposit,208320,Delhi
+100978,Cust_978,Fixed Deposit,814496,Delhi
+100979,Cust_979,Savings,677775,Kolkata
+100980,Cust_980,Fixed Deposit,768215,Mumbai
+100981,Cust_981,Savings,828551,Kolkata
+100982,Cust_982,Current,43605,Chennai
+100983,Cust_983,Fixed Deposit,730065,Delhi
+100984,Cust_984,Fixed Deposit,244510,Delhi
+100985,Cust_985,Fixed Deposit,485039,Chennai
+100986,Cust_986,Savings,326212,Kolkata
+100987,Cust_987,Current,776871,Kolkata
+100988,Cust_988,Fixed Deposit,164852,Kolkata
+100989,Cust_989,Savings,514439,Chennai
+100990,Cust_990,Savings,961218,Chennai
+100991,Cust_991,Savings,945055,Delhi
+100992,Cust_992,Savings,417517,Mumbai
+100993,Cust_993,Savings,336668,Chennai
+100994,Cust_994,Savings,460553,Mumbai
+100995,Cust_995,Savings,639808,Kolkata
+100996,Cust_996,Fixed Deposit,974967,Delhi
+100997,Cust_997,Savings,875944,Delhi
+100998,Cust_998,Current,614573,Delhi
+100999,Cust_999,Savings,447830,Kolkata
+101000,Cust_1000,Savings,913768,Kolkata
+101001,Cust_1001,Savings,461817,Kolkata
+101002,Cust_1002,Savings,149854,Delhi
+101003,Cust_1003,Current,663875,Chennai
+101004,Cust_1004,Current,557981,Kolkata
+101005,Cust_1005,Fixed Deposit,572588,Kolkata
+101006,Cust_1006,Savings,502483,Kolkata
+101007,Cust_1007,Savings,364181,Mumbai
+101008,Cust_1008,Current,472837,Mumbai
+101009,Cust_1009,Savings,988885,Chennai
+101010,Cust_1010,Savings,16078,Delhi
+101011,Cust_1011,Fixed Deposit,341063,Mumbai
+101012,Cust_1012,Savings,331409,Mumbai
+101013,Cust_1013,Fixed Deposit,37766,Mumbai
+101014,Cust_1014,Current,400247,Mumbai
+101015,Cust_1015,Current,944152,Kolkata
+101016,Cust_1016,Current,241136,Delhi
+101017,Cust_1017,Savings,696392,Delhi
+101018,Cust_1018,Current,33903,Delhi
+101019,Cust_1019,Savings,409209,Mumbai
+101020,Cust_1020,Current,74936,Mumbai
+101021,Cust_1021,Savings,634097,Delhi
+101022,Cust_1022,Fixed Deposit,417609,Kolkata
+101023,Cust_1023,Fixed Deposit,23909,Chennai
+101024,Cust_1024,Savings,848538,Delhi
+101025,Cust_1025,Savings,30553,Delhi
+101026,Cust_1026,Fixed Deposit,103065,Kolkata
+101027,Cust_1027,Savings,786272,Delhi
+101028,Cust_1028,Savings,727351,Chennai
+101029,Cust_1029,Fixed Deposit,847923,Delhi
+101030,Cust_1030,Fixed Deposit,876799,Mumbai
+101031,Cust_1031,Fixed Deposit,736380,Mumbai
+101032,Cust_1032,Fixed Deposit,255465,Kolkata
+101033,Cust_1033,Savings,24675,Mumbai
+101034,Cust_1034,Current,439878,Kolkata
+101035,Cust_1035,Fixed Deposit,150333,Delhi
+101036,Cust_1036,Fixed Deposit,898213,Chennai
+101037,Cust_1037,Current,394435,Chennai
+101038,Cust_1038,Fixed Deposit,946942,Chennai
+101039,Cust_1039,Savings,756776,Mumbai
+101040,Cust_1040,Fixed Deposit,264767,Kolkata
+101041,Cust_1041,Current,92128,Mumbai
+101042,Cust_1042,Savings,524440,Mumbai
+101043,Cust_1043,Savings,542917,Chennai
+101044,Cust_1044,Current,962473,Chennai
+101045,Cust_1045,Fixed Deposit,906226,Kolkata
+101046,Cust_1046,Fixed Deposit,189011,Mumbai
+101047,Cust_1047,Savings,756161,Delhi
+101048,Cust_1048,Current,317110,Delhi
+101049,Cust_1049,Current,90288,Kolkata
+101050,Cust_1050,Savings,449048,Delhi
+101051,Cust_1051,Current,911155,Kolkata
+101052,Cust_1052,Savings,384904,Mumbai
+101053,Cust_1053,Savings,22552,Delhi
+101054,Cust_1054,Fixed Deposit,455959,Chennai
+101055,Cust_1055,Savings,655162,Kolkata
+101056,Cust_1056,Fixed Deposit,690972,Mumbai
+101057,Cust_1057,Savings,184692,Delhi
+101058,Cust_1058,Fixed Deposit,297294,Kolkata
+101059,Cust_1059,Fixed Deposit,963221,Delhi
+101060,Cust_1060,Current,768240,Delhi
+101061,Cust_1061,Fixed Deposit,266003,Kolkata
+101062,Cust_1062,Fixed Deposit,313070,Kolkata
+101063,Cust_1063,Fixed Deposit,559158,Delhi
+101064,Cust_1064,Fixed Deposit,859648,Delhi
+101065,Cust_1065,Savings,300115,Mumbai
+101066,Cust_1066,Current,474971,Chennai
+101067,Cust_1067,Current,19909,Kolkata
+101068,Cust_1068,Fixed Deposit,312118,Mumbai
+101069,Cust_1069,Fixed Deposit,995677,Chennai
+101070,Cust_1070,Savings,904379,Mumbai
+101071,Cust_1071,Savings,425082,Kolkata
+101072,Cust_1072,Savings,453659,Mumbai
+101073,Cust_1073,Savings,461610,Kolkata
+101074,Cust_1074,Current,891419,Mumbai
+101075,Cust_1075,Current,351206,Chennai
+101076,Cust_1076,Savings,520640,Delhi
+101077,Cust_1077,Savings,373366,Delhi
+101078,Cust_1078,Current,424972,Mumbai
+101079,Cust_1079,Current,697982,Mumbai
+101080,Cust_1080,Fixed Deposit,362326,Kolkata
+101081,Cust_1081,Fixed Deposit,193279,Kolkata
+101082,Cust_1082,Fixed Deposit,477981,Mumbai
+101083,Cust_1083,Fixed Deposit,8865,Mumbai
+101084,Cust_1084,Current,623251,Mumbai
+101085,Cust_1085,Fixed Deposit,477116,Kolkata
+101086,Cust_1086,Fixed Deposit,460081,Mumbai
+101087,Cust_1087,Savings,690384,Chennai
+101088,Cust_1088,Current,381840,Chennai
+101089,Cust_1089,Fixed Deposit,169083,Kolkata
+101090,Cust_1090,Current,973515,Mumbai
+101091,Cust_1091,Fixed Deposit,329560,Delhi
+101092,Cust_1092,Savings,958524,Kolkata
+101093,Cust_1093,Current,247468,Chennai
+101094,Cust_1094,Fixed Deposit,808318,Kolkata
+101095,Cust_1095,Savings,506396,Delhi
+101096,Cust_1096,Savings,663065,Mumbai
+101097,Cust_1097,Savings,84710,Kolkata
+101098,Cust_1098,Savings,84833,Kolkata
+101099,Cust_1099,Fixed Deposit,31806,Delhi
+101100,Cust_1100,Savings,731660,Kolkata
+101101,Cust_1101,Savings,885933,Mumbai
+101102,Cust_1102,Fixed Deposit,272697,Kolkata
+101103,Cust_1103,Fixed Deposit,366597,Kolkata
+101104,Cust_1104,Current,293657,Kolkata
+101105,Cust_1105,Current,284478,Chennai
+101106,Cust_1106,Current,61973,Chennai
+101107,Cust_1107,Savings,704545,Chennai
+101108,Cust_1108,Current,774262,Kolkata
+101109,Cust_1109,Savings,427792,Delhi
+101110,Cust_1110,Current,376774,Mumbai
+101111,Cust_1111,Current,235602,Mumbai
+101112,Cust_1112,Savings,866300,Delhi
+101113,Cust_1113,Savings,178920,Kolkata
+101114,Cust_1114,Current,729520,Chennai
+101115,Cust_1115,Savings,220868,Delhi
+101116,Cust_1116,Savings,5151,Chennai
+101117,Cust_1117,Current,922185,Chennai
+101118,Cust_1118,Savings,310803,Kolkata
+101119,Cust_1119,Current,664782,Chennai
+101120,Cust_1120,Fixed Deposit,682660,Mumbai
+101121,Cust_1121,Fixed Deposit,533611,Mumbai
+101122,Cust_1122,Savings,581210,Delhi
+101123,Cust_1123,Savings,734983,Chennai
+101124,Cust_1124,Savings,404526,Delhi
+101125,Cust_1125,Current,567195,Mumbai
+101126,Cust_1126,Fixed Deposit,26558,Mumbai
+101127,Cust_1127,Savings,564534,Mumbai
+101128,Cust_1128,Current,827045,Chennai
+101129,Cust_1129,Current,719810,Kolkata
+101130,Cust_1130,Current,950544,Delhi
+101131,Cust_1131,Current,382894,Delhi
+101132,Cust_1132,Current,53196,Chennai
+101133,Cust_1133,Savings,929058,Kolkata
+101134,Cust_1134,Savings,902903,Kolkata
+101135,Cust_1135,Fixed Deposit,506190,Delhi
+101136,Cust_1136,Fixed Deposit,764800,Kolkata
+101137,Cust_1137,Current,389071,Chennai
+101138,Cust_1138,Current,751787,Delhi
+101139,Cust_1139,Fixed Deposit,869476,Kolkata
+101140,Cust_1140,Current,197373,Mumbai
+101141,Cust_1141,Savings,254987,Delhi
+101142,Cust_1142,Current,912290,Mumbai
+101143,Cust_1143,Savings,260493,Delhi
+101144,Cust_1144,Fixed Deposit,652651,Kolkata
+101145,Cust_1145,Current,564817,Delhi
+101146,Cust_1146,Savings,155071,Delhi
+101147,Cust_1147,Savings,964004,Delhi
+101148,Cust_1148,Current,519640,Delhi
+101149,Cust_1149,Savings,399065,Kolkata
+101150,Cust_1150,Fixed Deposit,649081,Chennai
+101151,Cust_1151,Current,31982,Chennai
+101152,Cust_1152,Fixed Deposit,12042,Delhi
+101153,Cust_1153,Current,504487,Kolkata
+101154,Cust_1154,Current,395264,Kolkata
+101155,Cust_1155,Current,237945,Kolkata
+101156,Cust_1156,Savings,316250,Chennai
+101157,Cust_1157,Fixed Deposit,463421,Chennai
+101158,Cust_1158,Fixed Deposit,548780,Kolkata
+101159,Cust_1159,Fixed Deposit,355092,Mumbai
+101160,Cust_1160,Savings,528586,Delhi
+101161,Cust_1161,Current,485064,Kolkata
+101162,Cust_1162,Fixed Deposit,136271,Mumbai
+101163,Cust_1163,Savings,366449,Mumbai
+101164,Cust_1164,Current,714171,Kolkata
+101165,Cust_1165,Savings,216946,Chennai
+101166,Cust_1166,Savings,750027,Chennai
+101167,Cust_1167,Savings,891207,Kolkata
+101168,Cust_1168,Current,968221,Delhi
+101169,Cust_1169,Savings,670231,Mumbai
+101170,Cust_1170,Savings,57967,Mumbai
+101171,Cust_1171,Current,185381,Chennai
+101172,Cust_1172,Current,516576,Kolkata
+101173,Cust_1173,Fixed Deposit,982997,Chennai
+101174,Cust_1174,Savings,586475,Kolkata
+101175,Cust_1175,Current,732270,Kolkata
+101176,Cust_1176,Fixed Deposit,751840,Chennai
+101177,Cust_1177,Current,772653,Chennai
+101178,Cust_1178,Savings,357059,Kolkata
+101179,Cust_1179,Fixed Deposit,244360,Kolkata
+101180,Cust_1180,Savings,501280,Mumbai
+101181,Cust_1181,Savings,386899,Mumbai
+101182,Cust_1182,Savings,652188,Kolkata
+101183,Cust_1183,Current,822292,Mumbai
+101184,Cust_1184,Savings,674063,Kolkata
+101185,Cust_1185,Savings,40538,Kolkata
+101186,Cust_1186,Current,808570,Mumbai
+101187,Cust_1187,Current,293040,Mumbai
+101188,Cust_1188,Current,136060,Chennai
+101189,Cust_1189,Fixed Deposit,603026,Mumbai
+101190,Cust_1190,Savings,143195,Delhi
+101191,Cust_1191,Savings,636326,Chennai
+101192,Cust_1192,Current,966150,Mumbai
+101193,Cust_1193,Savings,159076,Delhi
+101194,Cust_1194,Current,533793,Mumbai
+101195,Cust_1195,Current,441074,Delhi
+101196,Cust_1196,Fixed Deposit,111225,Delhi
+101197,Cust_1197,Current,918710,Mumbai
+101198,Cust_1198,Fixed Deposit,624090,Mumbai
+101199,Cust_1199,Fixed Deposit,382321,Mumbai
+101200,Cust_1200,Fixed Deposit,817794,Delhi
+101201,Cust_1201,Current,662962,Chennai
+101202,Cust_1202,Fixed Deposit,199886,Kolkata
+101203,Cust_1203,Savings,568518,Mumbai
+101204,Cust_1204,Current,315657,Kolkata
+101205,Cust_1205,Savings,604625,Mumbai
+101206,Cust_1206,Current,485197,Mumbai
+101207,Cust_1207,Savings,605295,Chennai
+101208,Cust_1208,Fixed Deposit,708000,Kolkata
+101209,Cust_1209,Current,467812,Kolkata
+101210,Cust_1210,Fixed Deposit,471817,Delhi
+101211,Cust_1211,Savings,646415,Kolkata
+101212,Cust_1212,Savings,304419,Mumbai
+101213,Cust_1213,Fixed Deposit,36711,Chennai
+101214,Cust_1214,Current,935361,Chennai
+101215,Cust_1215,Current,829911,Kolkata
+101216,Cust_1216,Savings,936088,Mumbai
+101217,Cust_1217,Fixed Deposit,427840,Chennai
+101218,Cust_1218,Fixed Deposit,982931,Chennai
+101219,Cust_1219,Savings,937499,Kolkata
+101220,Cust_1220,Current,285507,Mumbai
+101221,Cust_1221,Current,315306,Mumbai
+101222,Cust_1222,Fixed Deposit,318951,Mumbai
+101223,Cust_1223,Current,236515,Chennai
+101224,Cust_1224,Current,323920,Delhi
+101225,Cust_1225,Savings,552991,Kolkata
+101226,Cust_1226,Fixed Deposit,586232,Kolkata
+101227,Cust_1227,Savings,798219,Mumbai
+101228,Cust_1228,Savings,993629,Chennai
+101229,Cust_1229,Current,406458,Kolkata
+101230,Cust_1230,Current,27476,Kolkata
+101231,Cust_1231,Fixed Deposit,485639,Mumbai
+101232,Cust_1232,Fixed Deposit,967839,Delhi
+101233,Cust_1233,Fixed Deposit,968493,Kolkata
+101234,Cust_1234,Fixed Deposit,838298,Chennai
+101235,Cust_1235,Fixed Deposit,339418,Mumbai
+101236,Cust_1236,Savings,842650,Mumbai
+101237,Cust_1237,Fixed Deposit,315439,Kolkata
+101238,Cust_1238,Fixed Deposit,149528,Kolkata
+101239,Cust_1239,Savings,415089,Delhi
+101240,Cust_1240,Fixed Deposit,232377,Delhi
+101241,Cust_1241,Current,532914,Delhi
+101242,Cust_1242,Savings,354834,Delhi
+101243,Cust_1243,Current,9074,Mumbai
+101244,Cust_1244,Fixed Deposit,456621,Delhi
+101245,Cust_1245,Fixed Deposit,720209,Delhi
+101246,Cust_1246,Fixed Deposit,650290,Delhi
+101247,Cust_1247,Fixed Deposit,70383,Delhi
+101248,Cust_1248,Fixed Deposit,45404,Kolkata
+101249,Cust_1249,Savings,398201,Chennai
+101250,Cust_1250,Savings,848063,Chennai
+101251,Cust_1251,Savings,577174,Chennai
+101252,Cust_1252,Current,232181,Mumbai
+101253,Cust_1253,Current,355205,Mumbai
+101254,Cust_1254,Current,991432,Chennai
+101255,Cust_1255,Fixed Deposit,243842,Chennai
+101256,Cust_1256,Fixed Deposit,829560,Mumbai
+101257,Cust_1257,Fixed Deposit,814177,Kolkata
+101258,Cust_1258,Savings,130134,Delhi
+101259,Cust_1259,Current,650147,Mumbai
+101260,Cust_1260,Fixed Deposit,101890,Mumbai
+101261,Cust_1261,Savings,227709,Kolkata
+101262,Cust_1262,Current,115546,Delhi
+101263,Cust_1263,Savings,901484,Kolkata
+101264,Cust_1264,Current,916712,Kolkata
+101265,Cust_1265,Fixed Deposit,711716,Chennai
+101266,Cust_1266,Current,168627,Kolkata
+101267,Cust_1267,Savings,912507,Mumbai
+101268,Cust_1268,Savings,353873,Mumbai
+101269,Cust_1269,Savings,245900,Delhi
+101270,Cust_1270,Fixed Deposit,472316,Chennai
+101271,Cust_1271,Fixed Deposit,658230,Chennai
+101272,Cust_1272,Fixed Deposit,358310,Mumbai
+101273,Cust_1273,Savings,287539,Kolkata
+101274,Cust_1274,Current,649055,Delhi
+101275,Cust_1275,Savings,391936,Chennai
+101276,Cust_1276,Current,577178,Mumbai
+101277,Cust_1277,Fixed Deposit,848430,Mumbai
+101278,Cust_1278,Savings,792093,Chennai
+101279,Cust_1279,Savings,77045,Mumbai
+101280,Cust_1280,Current,831760,Chennai
+101281,Cust_1281,Savings,400063,Chennai
+101282,Cust_1282,Fixed Deposit,789155,Kolkata
+101283,Cust_1283,Savings,72680,Kolkata
+101284,Cust_1284,Current,645404,Kolkata
+101285,Cust_1285,Fixed Deposit,510098,Delhi
+101286,Cust_1286,Savings,338005,Delhi
+101287,Cust_1287,Current,472513,Delhi
+101288,Cust_1288,Current,907228,Delhi
+101289,Cust_1289,Savings,101112,Kolkata
+101290,Cust_1290,Savings,17817,Chennai
+101291,Cust_1291,Current,761497,Mumbai
+101292,Cust_1292,Savings,497123,Kolkata
+101293,Cust_1293,Savings,107178,Mumbai
+101294,Cust_1294,Savings,195758,Mumbai
+101295,Cust_1295,Savings,441893,Kolkata
+101296,Cust_1296,Current,561373,Chennai
+101297,Cust_1297,Savings,223324,Delhi
+101298,Cust_1298,Savings,36091,Delhi
+101299,Cust_1299,Current,658051,Mumbai
+101300,Cust_1300,Current,550987,Delhi
+101301,Cust_1301,Current,483047,Mumbai
+101302,Cust_1302,Current,691870,Mumbai
+101303,Cust_1303,Fixed Deposit,122034,Mumbai
+101304,Cust_1304,Fixed Deposit,155127,Delhi
+101305,Cust_1305,Savings,975384,Delhi
+101306,Cust_1306,Savings,478385,Mumbai
+101307,Cust_1307,Fixed Deposit,779644,Kolkata
+101308,Cust_1308,Savings,258701,Mumbai
+101309,Cust_1309,Current,53073,Chennai
+101310,Cust_1310,Current,654304,Mumbai
+101311,Cust_1311,Fixed Deposit,274169,Mumbai
+101312,Cust_1312,Fixed Deposit,524831,Delhi
+101313,Cust_1313,Savings,225155,Chennai
+101314,Cust_1314,Fixed Deposit,466848,Delhi
+101315,Cust_1315,Fixed Deposit,920290,Mumbai
+101316,Cust_1316,Current,753150,Chennai
+101317,Cust_1317,Fixed Deposit,333144,Mumbai
+101318,Cust_1318,Fixed Deposit,621690,Chennai
+101319,Cust_1319,Savings,218042,Chennai
+101320,Cust_1320,Current,248099,Kolkata
+101321,Cust_1321,Savings,182314,Mumbai
+101322,Cust_1322,Current,694323,Mumbai
+101323,Cust_1323,Fixed Deposit,284152,Mumbai
+101324,Cust_1324,Fixed Deposit,704752,Delhi
+101325,Cust_1325,Current,834084,Kolkata
+101326,Cust_1326,Current,445948,Chennai
+101327,Cust_1327,Savings,108736,Delhi
+101328,Cust_1328,Current,781706,Kolkata
+101329,Cust_1329,Savings,499417,Kolkata
+101330,Cust_1330,Savings,985767,Delhi
+101331,Cust_1331,Fixed Deposit,18241,Delhi
+101332,Cust_1332,Savings,728145,Chennai
+101333,Cust_1333,Fixed Deposit,707633,Chennai
+101334,Cust_1334,Fixed Deposit,40336,Mumbai
+101335,Cust_1335,Fixed Deposit,670443,Kolkata
+101336,Cust_1336,Savings,436752,Chennai
+101337,Cust_1337,Savings,281012,Mumbai
+101338,Cust_1338,Current,203879,Mumbai
+101339,Cust_1339,Savings,409073,Delhi
+101340,Cust_1340,Savings,999071,Chennai
+101341,Cust_1341,Savings,85639,Mumbai
+101342,Cust_1342,Savings,821929,Kolkata
+101343,Cust_1343,Savings,286879,Delhi
+101344,Cust_1344,Savings,163405,Mumbai
+101345,Cust_1345,Fixed Deposit,133711,Delhi
+101346,Cust_1346,Savings,436043,Chennai
+101347,Cust_1347,Fixed Deposit,26901,Mumbai
+101348,Cust_1348,Savings,685155,Delhi
+101349,Cust_1349,Savings,992972,Mumbai
+101350,Cust_1350,Fixed Deposit,570888,Mumbai
+101351,Cust_1351,Current,908447,Delhi
+101352,Cust_1352,Savings,274079,Chennai
+101353,Cust_1353,Fixed Deposit,498360,Delhi
+101354,Cust_1354,Fixed Deposit,609966,Delhi
+101355,Cust_1355,Savings,782730,Kolkata
+101356,Cust_1356,Savings,800202,Chennai
+101357,Cust_1357,Fixed Deposit,948341,Delhi
+101358,Cust_1358,Fixed Deposit,124661,Delhi
+101359,Cust_1359,Savings,991110,Delhi
+101360,Cust_1360,Fixed Deposit,671804,Kolkata
+101361,Cust_1361,Savings,450983,Mumbai
+101362,Cust_1362,Savings,658631,Mumbai
+101363,Cust_1363,Fixed Deposit,972435,Mumbai
+101364,Cust_1364,Savings,509254,Mumbai
+101365,Cust_1365,Fixed Deposit,805631,Kolkata
+101366,Cust_1366,Current,232245,Chennai
+101367,Cust_1367,Savings,17528,Chennai
+101368,Cust_1368,Fixed Deposit,806610,Chennai
+101369,Cust_1369,Fixed Deposit,933708,Delhi
+101370,Cust_1370,Current,331241,Chennai
+101371,Cust_1371,Current,328265,Kolkata
+101372,Cust_1372,Fixed Deposit,187383,Kolkata
+101373,Cust_1373,Current,79333,Kolkata
+101374,Cust_1374,Current,877499,Chennai
+101375,Cust_1375,Fixed Deposit,285316,Delhi
+101376,Cust_1376,Fixed Deposit,893593,Delhi
+101377,Cust_1377,Current,445448,Delhi
+101378,Cust_1378,Fixed Deposit,262311,Mumbai
+101379,Cust_1379,Current,711365,Mumbai
+101380,Cust_1380,Savings,26686,Mumbai
+101381,Cust_1381,Fixed Deposit,737341,Kolkata
+101382,Cust_1382,Savings,813297,Chennai
+101383,Cust_1383,Fixed Deposit,615636,Mumbai
+101384,Cust_1384,Savings,630887,Kolkata
+101385,Cust_1385,Fixed Deposit,725706,Delhi
+101386,Cust_1386,Fixed Deposit,664988,Kolkata
+101387,Cust_1387,Savings,244011,Chennai
+101388,Cust_1388,Fixed Deposit,700712,Chennai
+101389,Cust_1389,Current,35240,Chennai
+101390,Cust_1390,Fixed Deposit,584793,Mumbai
+101391,Cust_1391,Savings,51793,Delhi
+101392,Cust_1392,Current,747552,Chennai
+101393,Cust_1393,Savings,820555,Delhi
+101394,Cust_1394,Savings,866186,Chennai
+101395,Cust_1395,Fixed Deposit,419443,Kolkata
+101396,Cust_1396,Current,207915,Kolkata
+101397,Cust_1397,Savings,654565,Chennai
+101398,Cust_1398,Current,197070,Mumbai
+101399,Cust_1399,Savings,899821,Chennai
+101400,Cust_1400,Fixed Deposit,339111,Kolkata
+101401,Cust_1401,Savings,742706,Kolkata
+101402,Cust_1402,Current,191896,Chennai
+101403,Cust_1403,Savings,381265,Kolkata
+101404,Cust_1404,Current,879374,Delhi
+101405,Cust_1405,Savings,370020,Delhi
+101406,Cust_1406,Savings,83170,Chennai
+101407,Cust_1407,Savings,954120,Kolkata
+101408,Cust_1408,Current,409742,Mumbai
+101409,Cust_1409,Current,827912,Chennai
+101410,Cust_1410,Current,606620,Mumbai
+101411,Cust_1411,Savings,304441,Mumbai
+101412,Cust_1412,Current,957979,Chennai
+101413,Cust_1413,Savings,480231,Chennai
+101414,Cust_1414,Savings,314711,Chennai
+101415,Cust_1415,Current,32757,Mumbai
+101416,Cust_1416,Fixed Deposit,374369,Chennai
+101417,Cust_1417,Fixed Deposit,665126,Chennai
+101418,Cust_1418,Savings,884780,Kolkata
+101419,Cust_1419,Fixed Deposit,696196,Chennai
+101420,Cust_1420,Savings,85795,Delhi
+101421,Cust_1421,Current,461690,Mumbai
+101422,Cust_1422,Savings,620680,Kolkata
+101423,Cust_1423,Fixed Deposit,780480,Mumbai
+101424,Cust_1424,Savings,232060,Delhi
+101425,Cust_1425,Current,951374,Chennai
+101426,Cust_1426,Fixed Deposit,362596,Chennai
+101427,Cust_1427,Fixed Deposit,650978,Chennai
+101428,Cust_1428,Fixed Deposit,258458,Delhi
+101429,Cust_1429,Fixed Deposit,691036,Mumbai
+101430,Cust_1430,Fixed Deposit,967151,Kolkata
+101431,Cust_1431,Savings,36052,Kolkata
+101432,Cust_1432,Savings,547438,Kolkata
+101433,Cust_1433,Fixed Deposit,54686,Chennai
+101434,Cust_1434,Fixed Deposit,883415,Mumbai
+101435,Cust_1435,Current,43101,Mumbai
+101436,Cust_1436,Fixed Deposit,638703,Chennai
+101437,Cust_1437,Current,542430,Kolkata
+101438,Cust_1438,Current,479770,Mumbai
+101439,Cust_1439,Fixed Deposit,714986,Mumbai
+101440,Cust_1440,Savings,374127,Mumbai
+101441,Cust_1441,Current,986539,Chennai
+101442,Cust_1442,Fixed Deposit,475908,Chennai
+101443,Cust_1443,Fixed Deposit,533545,Delhi
+101444,Cust_1444,Savings,581944,Kolkata
+101445,Cust_1445,Current,907938,Delhi
+101446,Cust_1446,Current,784985,Delhi
+101447,Cust_1447,Current,666770,Chennai
+101448,Cust_1448,Savings,445077,Kolkata
+101449,Cust_1449,Fixed Deposit,301741,Chennai
+101450,Cust_1450,Current,426072,Delhi
+101451,Cust_1451,Current,45100,Mumbai
+101452,Cust_1452,Fixed Deposit,849296,Chennai
+101453,Cust_1453,Savings,241497,Chennai
+101454,Cust_1454,Current,179412,Chennai
+101455,Cust_1455,Current,713113,Chennai
+101456,Cust_1456,Fixed Deposit,921759,Kolkata
+101457,Cust_1457,Current,367806,Delhi
+101458,Cust_1458,Savings,781350,Kolkata
+101459,Cust_1459,Savings,365785,Delhi
+101460,Cust_1460,Current,414782,Kolkata
+101461,Cust_1461,Savings,597352,Mumbai
+101462,Cust_1462,Fixed Deposit,71307,Mumbai
+101463,Cust_1463,Savings,84319,Chennai
+101464,Cust_1464,Current,126363,Mumbai
+101465,Cust_1465,Fixed Deposit,568228,Chennai
+101466,Cust_1466,Savings,715066,Kolkata
+101467,Cust_1467,Current,397368,Kolkata
+101468,Cust_1468,Current,350263,Chennai
+101469,Cust_1469,Fixed Deposit,548252,Kolkata
+101470,Cust_1470,Savings,180614,Chennai
+101471,Cust_1471,Current,989030,Kolkata
+101472,Cust_1472,Current,364488,Mumbai
+101473,Cust_1473,Fixed Deposit,619141,Chennai
+101474,Cust_1474,Fixed Deposit,286435,Chennai
+101475,Cust_1475,Fixed Deposit,652825,Kolkata
+101476,Cust_1476,Fixed Deposit,484782,Delhi
+101477,Cust_1477,Current,851380,Mumbai
+101478,Cust_1478,Savings,7260,Chennai
+101479,Cust_1479,Fixed Deposit,928748,Delhi
+101480,Cust_1480,Current,538939,Kolkata
+101481,Cust_1481,Savings,811947,Mumbai
+101482,Cust_1482,Savings,775052,Chennai
+101483,Cust_1483,Savings,330611,Chennai
+101484,Cust_1484,Current,304041,Delhi
+101485,Cust_1485,Fixed Deposit,728482,Delhi
+101486,Cust_1486,Current,417707,Delhi
+101487,Cust_1487,Fixed Deposit,383150,Mumbai
+101488,Cust_1488,Fixed Deposit,262431,Kolkata
+101489,Cust_1489,Fixed Deposit,641627,Chennai
+101490,Cust_1490,Current,536566,Chennai
+101491,Cust_1491,Fixed Deposit,169206,Chennai
+101492,Cust_1492,Current,73946,Kolkata
+101493,Cust_1493,Current,423485,Chennai
+101494,Cust_1494,Current,409118,Delhi
+101495,Cust_1495,Fixed Deposit,401127,Chennai
+101496,Cust_1496,Fixed Deposit,402337,Kolkata
+101497,Cust_1497,Savings,73394,Kolkata
+101498,Cust_1498,Current,140280,Kolkata
+101499,Cust_1499,Savings,247385,Chennai
+101500,Cust_1500,Fixed Deposit,257674,Kolkata
+101501,Cust_1501,Current,92351,Delhi
+101502,Cust_1502,Savings,550203,Chennai
+101503,Cust_1503,Savings,522791,Kolkata
+101504,Cust_1504,Fixed Deposit,856334,Kolkata
+101505,Cust_1505,Current,87133,Mumbai
+101506,Cust_1506,Fixed Deposit,369044,Mumbai
+101507,Cust_1507,Current,770278,Delhi
+101508,Cust_1508,Current,670851,Delhi
+101509,Cust_1509,Current,738935,Mumbai
+101510,Cust_1510,Savings,88926,Delhi
+101511,Cust_1511,Current,812403,Delhi
+101512,Cust_1512,Current,166319,Kolkata
+101513,Cust_1513,Savings,843416,Mumbai
+101514,Cust_1514,Fixed Deposit,611721,Delhi
+101515,Cust_1515,Fixed Deposit,516693,Delhi
+101516,Cust_1516,Fixed Deposit,480238,Mumbai
+101517,Cust_1517,Savings,798415,Delhi
+101518,Cust_1518,Current,468893,Kolkata
+101519,Cust_1519,Current,547208,Delhi
+101520,Cust_1520,Current,140325,Kolkata
+101521,Cust_1521,Current,382866,Mumbai
+101522,Cust_1522,Current,93246,Delhi
+101523,Cust_1523,Savings,793925,Delhi
+101524,Cust_1524,Savings,697771,Kolkata
+101525,Cust_1525,Savings,249822,Chennai
+101526,Cust_1526,Savings,847342,Chennai
+101527,Cust_1527,Current,731954,Mumbai
+101528,Cust_1528,Fixed Deposit,38280,Delhi
+101529,Cust_1529,Savings,966467,Mumbai
+101530,Cust_1530,Current,654750,Mumbai
+101531,Cust_1531,Current,606517,Kolkata
+101532,Cust_1532,Current,203487,Delhi
+101533,Cust_1533,Fixed Deposit,772022,Chennai
+101534,Cust_1534,Fixed Deposit,657734,Delhi
+101535,Cust_1535,Current,746170,Chennai
+101536,Cust_1536,Savings,844033,Kolkata
+101537,Cust_1537,Fixed Deposit,389401,Kolkata
+101538,Cust_1538,Fixed Deposit,932085,Kolkata
+101539,Cust_1539,Current,825683,Chennai
+101540,Cust_1540,Savings,522371,Mumbai
+101541,Cust_1541,Current,915788,Kolkata
+101542,Cust_1542,Fixed Deposit,121729,Kolkata
+101543,Cust_1543,Fixed Deposit,173417,Kolkata
+101544,Cust_1544,Fixed Deposit,262072,Kolkata
+101545,Cust_1545,Fixed Deposit,245745,Kolkata
+101546,Cust_1546,Fixed Deposit,948683,Delhi
+101547,Cust_1547,Savings,452125,Delhi
+101548,Cust_1548,Current,477479,Mumbai
+101549,Cust_1549,Fixed Deposit,566461,Chennai
+101550,Cust_1550,Fixed Deposit,330818,Delhi
+101551,Cust_1551,Fixed Deposit,331898,Delhi
+101552,Cust_1552,Savings,871798,Kolkata
+101553,Cust_1553,Fixed Deposit,645269,Mumbai
+101554,Cust_1554,Fixed Deposit,616830,Delhi
+101555,Cust_1555,Fixed Deposit,648928,Chennai
+101556,Cust_1556,Savings,909934,Chennai
+101557,Cust_1557,Current,839040,Chennai
+101558,Cust_1558,Savings,195125,Mumbai
+101559,Cust_1559,Current,66876,Delhi
+101560,Cust_1560,Current,384650,Mumbai
+101561,Cust_1561,Savings,270808,Chennai
+101562,Cust_1562,Savings,660387,Mumbai
+101563,Cust_1563,Savings,776995,Kolkata
+101564,Cust_1564,Savings,62899,Chennai
+101565,Cust_1565,Fixed Deposit,209381,Chennai
+101566,Cust_1566,Savings,850612,Kolkata
+101567,Cust_1567,Current,619226,Chennai
+101568,Cust_1568,Savings,136304,Chennai
+101569,Cust_1569,Savings,754002,Chennai
+101570,Cust_1570,Savings,200887,Chennai
+101571,Cust_1571,Current,100828,Delhi
+101572,Cust_1572,Savings,283446,Chennai
+101573,Cust_1573,Current,923311,Kolkata
+101574,Cust_1574,Savings,745373,Chennai
+101575,Cust_1575,Fixed Deposit,547264,Delhi
+101576,Cust_1576,Fixed Deposit,614364,Delhi
+101577,Cust_1577,Savings,401661,Delhi
+101578,Cust_1578,Fixed Deposit,957200,Mumbai
+101579,Cust_1579,Fixed Deposit,478976,Kolkata
+101580,Cust_1580,Savings,833016,Chennai
+101581,Cust_1581,Savings,364526,Mumbai
+101582,Cust_1582,Current,209004,Delhi
+101583,Cust_1583,Fixed Deposit,131690,Delhi
+101584,Cust_1584,Fixed Deposit,873693,Delhi
+101585,Cust_1585,Current,507257,Chennai
+101586,Cust_1586,Fixed Deposit,393712,Kolkata
+101587,Cust_1587,Current,513945,Kolkata
+101588,Cust_1588,Savings,827462,Chennai
+101589,Cust_1589,Fixed Deposit,187207,Kolkata
+101590,Cust_1590,Savings,232685,Mumbai
+101591,Cust_1591,Current,387612,Chennai
+101592,Cust_1592,Current,173787,Chennai
+101593,Cust_1593,Savings,431839,Chennai
+101594,Cust_1594,Fixed Deposit,327021,Mumbai
+101595,Cust_1595,Current,817213,Kolkata
+101596,Cust_1596,Fixed Deposit,566332,Delhi
+101597,Cust_1597,Savings,976427,Mumbai
+101598,Cust_1598,Current,152413,Chennai
+101599,Cust_1599,Savings,821889,Delhi
+101600,Cust_1600,Current,542155,Delhi
+101601,Cust_1601,Current,294557,Kolkata
+101602,Cust_1602,Current,379272,Mumbai
+101603,Cust_1603,Savings,210793,Delhi
+101604,Cust_1604,Savings,130861,Delhi
+101605,Cust_1605,Fixed Deposit,457567,Mumbai
+101606,Cust_1606,Savings,781443,Kolkata
+101607,Cust_1607,Current,457890,Delhi
+101608,Cust_1608,Fixed Deposit,868318,Kolkata
+101609,Cust_1609,Savings,306385,Mumbai
+101610,Cust_1610,Fixed Deposit,586554,Mumbai
+101611,Cust_1611,Savings,570919,Chennai
+101612,Cust_1612,Fixed Deposit,328818,Kolkata
+101613,Cust_1613,Savings,120724,Chennai
+101614,Cust_1614,Savings,111934,Mumbai
+101615,Cust_1615,Savings,105293,Kolkata
+101616,Cust_1616,Current,213027,Chennai
+101617,Cust_1617,Current,434561,Mumbai
+101618,Cust_1618,Current,637370,Delhi
+101619,Cust_1619,Current,266586,Mumbai
+101620,Cust_1620,Fixed Deposit,561709,Chennai
+101621,Cust_1621,Current,154359,Mumbai
+101622,Cust_1622,Current,602203,Kolkata
+101623,Cust_1623,Current,197111,Delhi
+101624,Cust_1624,Current,194450,Kolkata
+101625,Cust_1625,Savings,809833,Delhi
+101626,Cust_1626,Current,406097,Chennai
+101627,Cust_1627,Fixed Deposit,197028,Mumbai
+101628,Cust_1628,Fixed Deposit,687192,Mumbai
+101629,Cust_1629,Savings,238103,Delhi
+101630,Cust_1630,Current,37661,Delhi
+101631,Cust_1631,Current,929925,Delhi
+101632,Cust_1632,Savings,676433,Delhi
+101633,Cust_1633,Current,920010,Mumbai
+101634,Cust_1634,Savings,270001,Mumbai
+101635,Cust_1635,Fixed Deposit,795687,Chennai
+101636,Cust_1636,Current,145746,Chennai
+101637,Cust_1637,Current,454446,Chennai
+101638,Cust_1638,Fixed Deposit,579689,Kolkata
+101639,Cust_1639,Fixed Deposit,689441,Mumbai
+101640,Cust_1640,Savings,931105,Kolkata
+101641,Cust_1641,Fixed Deposit,601954,Delhi
+101642,Cust_1642,Fixed Deposit,392873,Delhi
+101643,Cust_1643,Current,54113,Delhi
+101644,Cust_1644,Current,85835,Delhi
+101645,Cust_1645,Fixed Deposit,292359,Mumbai
+101646,Cust_1646,Savings,718362,Delhi
+101647,Cust_1647,Fixed Deposit,899509,Mumbai
+101648,Cust_1648,Current,395496,Chennai
+101649,Cust_1649,Savings,877017,Chennai
+101650,Cust_1650,Current,457747,Chennai
+101651,Cust_1651,Savings,848543,Kolkata
+101652,Cust_1652,Savings,166006,Mumbai
+101653,Cust_1653,Savings,267987,Mumbai
+101654,Cust_1654,Savings,558139,Kolkata
+101655,Cust_1655,Current,281687,Chennai
+101656,Cust_1656,Fixed Deposit,456984,Mumbai
+101657,Cust_1657,Current,311359,Chennai
+101658,Cust_1658,Current,878341,Delhi
+101659,Cust_1659,Fixed Deposit,512324,Mumbai
+101660,Cust_1660,Savings,19994,Chennai
+101661,Cust_1661,Fixed Deposit,187738,Delhi
+101662,Cust_1662,Savings,276101,Mumbai
+101663,Cust_1663,Current,951564,Kolkata
+101664,Cust_1664,Savings,237785,Chennai
+101665,Cust_1665,Savings,484797,Chennai
+101666,Cust_1666,Fixed Deposit,671621,Chennai
+101667,Cust_1667,Fixed Deposit,523459,Mumbai
+101668,Cust_1668,Fixed Deposit,210936,Chennai
+101669,Cust_1669,Savings,821550,Chennai
+101670,Cust_1670,Current,328913,Mumbai
+101671,Cust_1671,Fixed Deposit,68076,Delhi
+101672,Cust_1672,Current,348135,Mumbai
+101673,Cust_1673,Current,492059,Delhi
+101674,Cust_1674,Current,582699,Delhi
+101675,Cust_1675,Savings,893590,Mumbai
+101676,Cust_1676,Current,222130,Delhi
+101677,Cust_1677,Fixed Deposit,148792,Kolkata
+101678,Cust_1678,Fixed Deposit,998776,Kolkata
+101679,Cust_1679,Fixed Deposit,484297,Mumbai
+101680,Cust_1680,Savings,771279,Chennai
+101681,Cust_1681,Savings,312905,Delhi
+101682,Cust_1682,Current,78713,Delhi
+101683,Cust_1683,Fixed Deposit,357334,Kolkata
+101684,Cust_1684,Current,522148,Delhi
+101685,Cust_1685,Savings,152035,Delhi
+101686,Cust_1686,Fixed Deposit,225027,Kolkata
+101687,Cust_1687,Current,49413,Chennai
+101688,Cust_1688,Savings,509176,Mumbai
+101689,Cust_1689,Current,348330,Kolkata
+101690,Cust_1690,Savings,543902,Mumbai
+101691,Cust_1691,Fixed Deposit,898730,Mumbai
+101692,Cust_1692,Current,570551,Kolkata
+101693,Cust_1693,Savings,656876,Delhi
+101694,Cust_1694,Savings,78986,Mumbai
+101695,Cust_1695,Current,65046,Kolkata
+101696,Cust_1696,Current,463586,Mumbai
+101697,Cust_1697,Savings,45408,Kolkata
+101698,Cust_1698,Savings,970355,Chennai
+101699,Cust_1699,Current,97040,Mumbai
+101700,Cust_1700,Savings,766795,Kolkata
+101701,Cust_1701,Fixed Deposit,85702,Mumbai
+101702,Cust_1702,Savings,356465,Kolkata
+101703,Cust_1703,Savings,815204,Delhi
+101704,Cust_1704,Current,364394,Chennai
+101705,Cust_1705,Fixed Deposit,617102,Kolkata
+101706,Cust_1706,Fixed Deposit,812030,Chennai
+101707,Cust_1707,Savings,856256,Mumbai
+101708,Cust_1708,Current,592769,Mumbai
+101709,Cust_1709,Savings,899266,Chennai
+101710,Cust_1710,Savings,651844,Mumbai
+101711,Cust_1711,Fixed Deposit,595790,Chennai
+101712,Cust_1712,Fixed Deposit,927048,Chennai
+101713,Cust_1713,Fixed Deposit,70018,Mumbai
+101714,Cust_1714,Savings,479763,Kolkata
+101715,Cust_1715,Savings,965842,Chennai
+101716,Cust_1716,Fixed Deposit,104464,Chennai
+101717,Cust_1717,Fixed Deposit,107895,Chennai
+101718,Cust_1718,Fixed Deposit,653904,Mumbai
+101719,Cust_1719,Fixed Deposit,559047,Mumbai
+101720,Cust_1720,Current,391958,Delhi
+101721,Cust_1721,Fixed Deposit,935777,Kolkata
+101722,Cust_1722,Current,345320,Mumbai
+101723,Cust_1723,Savings,855322,Mumbai
+101724,Cust_1724,Savings,917832,Delhi
+101725,Cust_1725,Fixed Deposit,29678,Delhi
+101726,Cust_1726,Current,997009,Chennai
+101727,Cust_1727,Current,374776,Kolkata
+101728,Cust_1728,Fixed Deposit,671736,Chennai
+101729,Cust_1729,Savings,70954,Mumbai
+101730,Cust_1730,Savings,271726,Delhi
+101731,Cust_1731,Current,506642,Mumbai
+101732,Cust_1732,Current,262279,Delhi
+101733,Cust_1733,Current,388961,Kolkata
+101734,Cust_1734,Fixed Deposit,83854,Mumbai
+101735,Cust_1735,Fixed Deposit,540247,Kolkata
+101736,Cust_1736,Savings,950310,Delhi
+101737,Cust_1737,Savings,392333,Kolkata
+101738,Cust_1738,Current,275944,Delhi
+101739,Cust_1739,Current,782961,Kolkata
+101740,Cust_1740,Fixed Deposit,871845,Chennai
+101741,Cust_1741,Fixed Deposit,293424,Chennai
+101742,Cust_1742,Savings,877446,Kolkata
+101743,Cust_1743,Current,203572,Delhi
+101744,Cust_1744,Fixed Deposit,916673,Kolkata
+101745,Cust_1745,Current,396344,Delhi
+101746,Cust_1746,Savings,742863,Chennai
+101747,Cust_1747,Savings,634055,Kolkata
+101748,Cust_1748,Savings,283241,Kolkata
+101749,Cust_1749,Savings,888895,Delhi
+101750,Cust_1750,Savings,936524,Delhi
+101751,Cust_1751,Savings,726710,Chennai
+101752,Cust_1752,Current,949130,Chennai
+101753,Cust_1753,Current,193080,Kolkata
+101754,Cust_1754,Fixed Deposit,407029,Mumbai
+101755,Cust_1755,Current,651939,Chennai
+101756,Cust_1756,Savings,219442,Delhi
+101757,Cust_1757,Savings,389484,Mumbai
+101758,Cust_1758,Fixed Deposit,768024,Chennai
+101759,Cust_1759,Current,132322,Mumbai
+101760,Cust_1760,Fixed Deposit,257504,Delhi
+101761,Cust_1761,Savings,750850,Mumbai
+101762,Cust_1762,Fixed Deposit,370113,Delhi
+101763,Cust_1763,Savings,80203,Delhi
+101764,Cust_1764,Current,298451,Delhi
+101765,Cust_1765,Current,396198,Kolkata
+101766,Cust_1766,Fixed Deposit,21557,Delhi
+101767,Cust_1767,Current,32524,Kolkata
+101768,Cust_1768,Fixed Deposit,874117,Mumbai
+101769,Cust_1769,Current,701998,Delhi
+101770,Cust_1770,Current,705923,Chennai
+101771,Cust_1771,Current,236297,Kolkata
+101772,Cust_1772,Fixed Deposit,583947,Chennai
+101773,Cust_1773,Savings,639166,Kolkata
+101774,Cust_1774,Fixed Deposit,768517,Delhi
+101775,Cust_1775,Fixed Deposit,920495,Mumbai
+101776,Cust_1776,Current,858502,Mumbai
+101777,Cust_1777,Savings,509869,Delhi
+101778,Cust_1778,Savings,174324,Mumbai
+101779,Cust_1779,Savings,792390,Mumbai
+101780,Cust_1780,Fixed Deposit,55673,Kolkata
+101781,Cust_1781,Fixed Deposit,370663,Delhi
+101782,Cust_1782,Savings,302778,Mumbai
+101783,Cust_1783,Current,873858,Mumbai
+101784,Cust_1784,Fixed Deposit,574553,Delhi
+101785,Cust_1785,Current,386359,Chennai
+101786,Cust_1786,Savings,791261,Chennai
+101787,Cust_1787,Current,675428,Chennai
+101788,Cust_1788,Current,552509,Kolkata
+101789,Cust_1789,Savings,939397,Delhi
+101790,Cust_1790,Current,732482,Chennai
+101791,Cust_1791,Savings,785635,Chennai
+101792,Cust_1792,Current,448175,Delhi
+101793,Cust_1793,Fixed Deposit,839254,Chennai
+101794,Cust_1794,Savings,585794,Chennai
+101795,Cust_1795,Current,415297,Delhi
+101796,Cust_1796,Current,115742,Delhi
+101797,Cust_1797,Current,116535,Mumbai
+101798,Cust_1798,Fixed Deposit,59969,Delhi
+101799,Cust_1799,Fixed Deposit,199086,Kolkata
+101800,Cust_1800,Current,243926,Chennai
+101801,Cust_1801,Savings,445240,Mumbai
+101802,Cust_1802,Current,601007,Chennai
+101803,Cust_1803,Current,127476,Kolkata
+101804,Cust_1804,Current,405188,Delhi
+101805,Cust_1805,Current,489126,Kolkata
+101806,Cust_1806,Savings,101131,Mumbai
+101807,Cust_1807,Savings,988350,Delhi
+101808,Cust_1808,Savings,805350,Chennai
+101809,Cust_1809,Savings,964227,Mumbai
+101810,Cust_1810,Savings,276910,Kolkata
+101811,Cust_1811,Fixed Deposit,24692,Delhi
+101812,Cust_1812,Current,693917,Mumbai
+101813,Cust_1813,Current,950018,Kolkata
+101814,Cust_1814,Fixed Deposit,942103,Kolkata
+101815,Cust_1815,Current,31067,Delhi
+101816,Cust_1816,Savings,99641,Mumbai
+101817,Cust_1817,Current,579529,Kolkata
+101818,Cust_1818,Savings,730128,Chennai
+101819,Cust_1819,Savings,964868,Delhi
+101820,Cust_1820,Current,71122,Chennai
+101821,Cust_1821,Current,355936,Delhi
+101822,Cust_1822,Savings,67793,Chennai
+101823,Cust_1823,Fixed Deposit,188147,Mumbai
+101824,Cust_1824,Savings,618306,Kolkata
+101825,Cust_1825,Savings,166234,Mumbai
+101826,Cust_1826,Current,14557,Delhi
+101827,Cust_1827,Savings,368784,Kolkata
+101828,Cust_1828,Fixed Deposit,796142,Kolkata
+101829,Cust_1829,Savings,212752,Mumbai
+101830,Cust_1830,Savings,370336,Kolkata
+101831,Cust_1831,Fixed Deposit,544381,Kolkata
+101832,Cust_1832,Current,933353,Mumbai
+101833,Cust_1833,Savings,772321,Mumbai
+101834,Cust_1834,Current,850565,Delhi
+101835,Cust_1835,Current,273418,Chennai
+101836,Cust_1836,Savings,102667,Chennai
+101837,Cust_1837,Fixed Deposit,365184,Delhi
+101838,Cust_1838,Fixed Deposit,461951,Delhi
+101839,Cust_1839,Fixed Deposit,711356,Chennai
+101840,Cust_1840,Current,993407,Delhi
+101841,Cust_1841,Fixed Deposit,169953,Kolkata
+101842,Cust_1842,Savings,119138,Kolkata
+101843,Cust_1843,Fixed Deposit,201440,Chennai
+101844,Cust_1844,Fixed Deposit,232250,Delhi
+101845,Cust_1845,Fixed Deposit,543774,Chennai
+101846,Cust_1846,Fixed Deposit,155093,Mumbai
+101847,Cust_1847,Fixed Deposit,127427,Mumbai
+101848,Cust_1848,Current,13317,Delhi
+101849,Cust_1849,Current,154874,Delhi
+101850,Cust_1850,Current,895727,Chennai
+101851,Cust_1851,Fixed Deposit,932894,Kolkata
+101852,Cust_1852,Current,362420,Delhi
+101853,Cust_1853,Fixed Deposit,280365,Delhi
+101854,Cust_1854,Savings,514324,Chennai
+101855,Cust_1855,Savings,216488,Kolkata
+101856,Cust_1856,Current,715912,Mumbai
+101857,Cust_1857,Fixed Deposit,592562,Mumbai
+101858,Cust_1858,Current,931190,Kolkata
+101859,Cust_1859,Current,816306,Kolkata
+101860,Cust_1860,Savings,183129,Mumbai
+101861,Cust_1861,Current,639218,Kolkata
+101862,Cust_1862,Savings,989657,Mumbai
+101863,Cust_1863,Current,35015,Chennai
+101864,Cust_1864,Current,349076,Delhi
+101865,Cust_1865,Fixed Deposit,134166,Kolkata
+101866,Cust_1866,Current,546037,Chennai
+101867,Cust_1867,Savings,790898,Kolkata
+101868,Cust_1868,Fixed Deposit,801812,Chennai
+101869,Cust_1869,Fixed Deposit,127396,Kolkata
+101870,Cust_1870,Current,20751,Mumbai
+101871,Cust_1871,Savings,418192,Chennai
+101872,Cust_1872,Savings,640376,Kolkata
+101873,Cust_1873,Current,448352,Delhi
+101874,Cust_1874,Fixed Deposit,243131,Kolkata
+101875,Cust_1875,Current,756945,Mumbai
+101876,Cust_1876,Savings,644486,Delhi
+101877,Cust_1877,Current,666032,Mumbai
+101878,Cust_1878,Current,626680,Chennai
+101879,Cust_1879,Fixed Deposit,273067,Kolkata
+101880,Cust_1880,Current,206269,Kolkata
+101881,Cust_1881,Savings,471940,Delhi
+101882,Cust_1882,Fixed Deposit,543854,Chennai
+101883,Cust_1883,Fixed Deposit,624446,Kolkata
+101884,Cust_1884,Savings,782631,Delhi
+101885,Cust_1885,Savings,941332,Chennai
+101886,Cust_1886,Current,924458,Kolkata
+101887,Cust_1887,Savings,297011,Mumbai
+101888,Cust_1888,Current,652495,Delhi
+101889,Cust_1889,Current,506360,Kolkata
+101890,Cust_1890,Savings,881042,Kolkata
+101891,Cust_1891,Current,418028,Chennai
+101892,Cust_1892,Savings,889112,Chennai
+101893,Cust_1893,Current,310641,Delhi
+101894,Cust_1894,Savings,90776,Kolkata
+101895,Cust_1895,Current,963799,Delhi
+101896,Cust_1896,Savings,855289,Kolkata
+101897,Cust_1897,Current,504034,Kolkata
+101898,Cust_1898,Savings,518955,Kolkata
+101899,Cust_1899,Fixed Deposit,505195,Delhi
+101900,Cust_1900,Fixed Deposit,200770,Kolkata
+101901,Cust_1901,Current,639172,Mumbai
+101902,Cust_1902,Savings,753029,Chennai
+101903,Cust_1903,Savings,35689,Mumbai
+101904,Cust_1904,Savings,144657,Chennai
+101905,Cust_1905,Savings,526589,Kolkata
+101906,Cust_1906,Savings,380349,Chennai
+101907,Cust_1907,Fixed Deposit,258426,Kolkata
+101908,Cust_1908,Fixed Deposit,218167,Delhi
+101909,Cust_1909,Savings,841086,Kolkata
+101910,Cust_1910,Fixed Deposit,596556,Mumbai
+101911,Cust_1911,Current,442904,Delhi
+101912,Cust_1912,Current,664613,Mumbai
+101913,Cust_1913,Current,501479,Delhi
+101914,Cust_1914,Savings,286802,Delhi
+101915,Cust_1915,Savings,644450,Delhi
+101916,Cust_1916,Current,459958,Chennai
+101917,Cust_1917,Fixed Deposit,230116,Kolkata
+101918,Cust_1918,Current,555063,Delhi
+101919,Cust_1919,Fixed Deposit,977642,Delhi
+101920,Cust_1920,Fixed Deposit,784408,Mumbai
+101921,Cust_1921,Savings,9439,Chennai
+101922,Cust_1922,Fixed Deposit,71967,Kolkata
+101923,Cust_1923,Current,43006,Mumbai
+101924,Cust_1924,Savings,950554,Delhi
+101925,Cust_1925,Fixed Deposit,882574,Kolkata
+101926,Cust_1926,Fixed Deposit,227696,Delhi
+101927,Cust_1927,Current,970434,Mumbai
+101928,Cust_1928,Current,815474,Kolkata
+101929,Cust_1929,Fixed Deposit,184373,Chennai
+101930,Cust_1930,Current,160232,Mumbai
+101931,Cust_1931,Savings,605770,Delhi
+101932,Cust_1932,Savings,185903,Delhi
+101933,Cust_1933,Current,725624,Chennai
+101934,Cust_1934,Current,287941,Chennai
+101935,Cust_1935,Savings,113211,Delhi
+101936,Cust_1936,Current,171780,Delhi
+101937,Cust_1937,Current,725880,Mumbai
+101938,Cust_1938,Fixed Deposit,929882,Mumbai
+101939,Cust_1939,Fixed Deposit,575953,Chennai
+101940,Cust_1940,Savings,157331,Delhi
+101941,Cust_1941,Savings,215162,Kolkata
+101942,Cust_1942,Fixed Deposit,972918,Mumbai
+101943,Cust_1943,Current,753033,Chennai
+101944,Cust_1944,Current,500687,Delhi
+101945,Cust_1945,Savings,822307,Kolkata
+101946,Cust_1946,Current,857740,Mumbai
+101947,Cust_1947,Current,699139,Delhi
+101948,Cust_1948,Current,24962,Mumbai
+101949,Cust_1949,Current,549848,Chennai
+101950,Cust_1950,Fixed Deposit,607977,Chennai
+101951,Cust_1951,Savings,977982,Kolkata
+101952,Cust_1952,Savings,31881,Mumbai
+101953,Cust_1953,Current,652655,Mumbai
+101954,Cust_1954,Current,16718,Mumbai
+101955,Cust_1955,Savings,381806,Chennai
+101956,Cust_1956,Current,226221,Mumbai
+101957,Cust_1957,Savings,71558,Chennai
+101958,Cust_1958,Fixed Deposit,519696,Mumbai
+101959,Cust_1959,Current,452111,Delhi
+101960,Cust_1960,Current,565567,Chennai
+101961,Cust_1961,Fixed Deposit,269943,Mumbai
+101962,Cust_1962,Fixed Deposit,791784,Delhi
+101963,Cust_1963,Savings,298002,Chennai
+101964,Cust_1964,Current,767755,Delhi
+101965,Cust_1965,Savings,529189,Delhi
+101966,Cust_1966,Current,371446,Kolkata
+101967,Cust_1967,Fixed Deposit,368304,Kolkata
+101968,Cust_1968,Fixed Deposit,775701,Kolkata
+101969,Cust_1969,Current,975959,Mumbai
+101970,Cust_1970,Savings,82009,Delhi
+101971,Cust_1971,Current,279395,Delhi
+101972,Cust_1972,Fixed Deposit,462343,Mumbai
+101973,Cust_1973,Savings,408134,Kolkata
+101974,Cust_1974,Current,129824,Mumbai
+101975,Cust_1975,Fixed Deposit,216841,Kolkata
+101976,Cust_1976,Fixed Deposit,192304,Mumbai
+101977,Cust_1977,Savings,613315,Chennai
+101978,Cust_1978,Current,995893,Delhi
+101979,Cust_1979,Current,593220,Chennai
+101980,Cust_1980,Savings,395894,Mumbai
+101981,Cust_1981,Fixed Deposit,607426,Kolkata
+101982,Cust_1982,Fixed Deposit,664490,Delhi
+101983,Cust_1983,Savings,966341,Kolkata
+101984,Cust_1984,Savings,121314,Delhi
+101985,Cust_1985,Current,551652,Mumbai
+101986,Cust_1986,Current,877020,Mumbai
+101987,Cust_1987,Current,883631,Delhi
+101988,Cust_1988,Current,817389,Mumbai
+101989,Cust_1989,Savings,542580,Kolkata
+101990,Cust_1990,Savings,529926,Kolkata
+101991,Cust_1991,Fixed Deposit,967015,Kolkata
+101992,Cust_1992,Savings,408820,Kolkata
+101993,Cust_1993,Savings,136188,Kolkata
+101994,Cust_1994,Current,630320,Kolkata
+101995,Cust_1995,Fixed Deposit,714480,Delhi
+101996,Cust_1996,Savings,439670,Mumbai
+101997,Cust_1997,Savings,523609,Mumbai
+101998,Cust_1998,Fixed Deposit,589690,Delhi
+101999,Cust_1999,Current,738273,Kolkata

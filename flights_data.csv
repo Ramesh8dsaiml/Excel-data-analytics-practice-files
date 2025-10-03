@@ -1,0 +1,2001 @@
+Flight ID,Airline,Source,Destination,Duration (hrs),Ticket Price
+1,Vistara,Delhi,New York,10.66,43874
+2,Indigo,Delhi,London,10.42,24977
+3,Air India,Mumbai,New York,13.56,47939
+4,SpiceJet,Chennai,New York,5.78,16264
+5,Vistara,Mumbai,London,8.66,11033
+6,Vistara,Delhi,Dubai,3.99,35257
+7,Vistara,Mumbai,Dubai,5.66,22280
+8,Vistara,Delhi,New York,12.51,22471
+9,Indigo,Chennai,New York,14.49,12043
+10,Air India,Delhi,New York,5.59,23651
+11,SpiceJet,Bangalore,Dubai,11.66,38787
+12,Vistara,Bangalore,Dubai,8.53,39657
+13,Indigo,Bangalore,Dubai,10.7,42778
+14,Air India,Chennai,Singapore,6.13,38409
+15,SpiceJet,Bangalore,Dubai,5.95,40118
+16,SpiceJet,Delhi,Dubai,3.89,27677
+17,SpiceJet,Chennai,Dubai,8.02,21003
+18,Indigo,Delhi,Singapore,1.78,9925
+19,Vistara,Chennai,Singapore,13.04,17957
+20,SpiceJet,Delhi,London,4.42,4191
+21,Indigo,Mumbai,Singapore,9.87,17932
+22,Indigo,Bangalore,Singapore,8.08,43254
+23,Vistara,Delhi,London,5.86,43851
+24,Vistara,Chennai,New York,14.21,35457
+25,Indigo,Chennai,New York,12.89,17252
+26,Indigo,Mumbai,London,11.29,21255
+27,Vistara,Delhi,New York,2.66,13987
+28,Vistara,Mumbai,London,7.47,24981
+29,SpiceJet,Bangalore,New York,10.12,29805
+30,SpiceJet,Mumbai,Dubai,2.34,49788
+31,Vistara,Mumbai,London,10.74,45247
+32,Indigo,Mumbai,Dubai,12.43,29610
+33,Indigo,Mumbai,Dubai,14.29,45611
+34,Vistara,Delhi,New York,8.03,11338
+35,Air India,Bangalore,New York,1.4,28927
+36,Indigo,Delhi,London,3.91,11268
+37,Indigo,Delhi,Dubai,12.27,8793
+38,Vistara,Chennai,Dubai,3.08,42854
+39,Air India,Chennai,Dubai,9.71,37099
+40,Indigo,Mumbai,New York,10.14,5819
+41,Vistara,Bangalore,Dubai,7.22,4276
+42,Air India,Chennai,Dubai,11.99,19008
+43,Indigo,Chennai,New York,2.72,10791
+44,SpiceJet,Chennai,Dubai,9.68,9095
+45,Indigo,Mumbai,London,6.33,38995
+46,Air India,Chennai,Dubai,13.01,25630
+47,SpiceJet,Chennai,Dubai,6.55,6921
+48,SpiceJet,Chennai,Dubai,3.64,33962
+49,Indigo,Chennai,Dubai,5.82,8574
+50,SpiceJet,Bangalore,Dubai,8.35,3106
+51,Air India,Mumbai,New York,2.12,26159
+52,Vistara,Delhi,Dubai,13.09,32330
+53,Vistara,Bangalore,Singapore,10.12,25737
+54,Vistara,Chennai,London,5.38,15463
+55,Indigo,Bangalore,New York,9.51,27368
+56,Vistara,Chennai,New York,14.77,6045
+57,Indigo,Bangalore,Singapore,9.44,7225
+58,Air India,Chennai,Dubai,6.69,41191
+59,Indigo,Delhi,Singapore,10.54,12605
+60,Indigo,Delhi,Dubai,11.59,6619
+61,SpiceJet,Chennai,Singapore,10.61,18677
+62,Vistara,Delhi,New York,3.96,15538
+63,Air India,Delhi,Singapore,1.29,9362
+64,Indigo,Chennai,London,5.44,41083
+65,Indigo,Bangalore,Dubai,7.09,3403
+66,Indigo,Bangalore,Dubai,12.64,22238
+67,Vistara,Delhi,Singapore,2.24,16021
+68,Vistara,Mumbai,Dubai,12.81,30640
+69,SpiceJet,Chennai,New York,1.83,11252
+70,Air India,Bangalore,Dubai,5.39,40749
+71,Vistara,Mumbai,Singapore,6.66,43586
+72,Indigo,Chennai,Dubai,14.04,11706
+73,Air India,Bangalore,Singapore,14.29,37831
+74,Vistara,Chennai,New York,1.57,19657
+75,Vistara,Bangalore,London,3.74,35115
+76,Indigo,Mumbai,Dubai,7.28,47028
+77,Vistara,Delhi,Singapore,4.81,29497
+78,Indigo,Chennai,London,14.35,6910
+79,Air India,Delhi,New York,9.57,25698
+80,Indigo,Mumbai,Dubai,5.57,20411
+81,Vistara,Mumbai,New York,9.4,21103
+82,Air India,Mumbai,London,10.44,15878
+83,Vistara,Mumbai,New York,12.99,45760
+84,Vistara,Chennai,Dubai,13.43,13816
+85,Vistara,Bangalore,Singapore,6.9,46733
+86,Air India,Chennai,New York,11.62,5281
+87,Vistara,Chennai,Singapore,14.63,15798
+88,Vistara,Bangalore,London,8.47,39092
+89,Indigo,Mumbai,Dubai,11.24,24594
+90,Vistara,Mumbai,New York,7.84,19080
+91,Air India,Delhi,Dubai,6.36,11533
+92,Vistara,Bangalore,London,3.85,24969
+93,SpiceJet,Mumbai,Dubai,2.28,25267
+94,Air India,Bangalore,London,5.54,47127
+95,Air India,Bangalore,New York,5.97,35079
+96,Air India,Mumbai,London,8.98,11224
+97,Air India,Chennai,London,10.39,36749
+98,Air India,Mumbai,Singapore,10.95,42622
+99,Vistara,Delhi,New York,11.77,32904
+100,Vistara,Chennai,Singapore,9.01,11218
+101,SpiceJet,Bangalore,Dubai,8.17,6922
+102,Vistara,Bangalore,New York,9.56,14618
+103,SpiceJet,Delhi,Singapore,10.84,31532
+104,SpiceJet,Bangalore,London,12.84,19864
+105,Air India,Mumbai,New York,4.53,28186
+106,Vistara,Delhi,Singapore,13.03,37655
+107,Vistara,Chennai,Dubai,3.77,34083
+108,Vistara,Mumbai,Dubai,1.24,18815
+109,SpiceJet,Delhi,New York,12.15,31522
+110,Vistara,Mumbai,Singapore,4.23,4314
+111,Indigo,Bangalore,Singapore,12.74,13050
+112,Indigo,Chennai,Singapore,5.99,18029
+113,Air India,Mumbai,New York,5.94,44947
+114,Vistara,Delhi,London,13.18,41975
+115,Air India,Chennai,Singapore,11.62,15829
+116,Air India,Mumbai,New York,1.82,29688
+117,Indigo,Delhi,Dubai,14.22,7592
+118,Vistara,Bangalore,London,3.92,49669
+119,SpiceJet,Mumbai,New York,10.33,36194
+120,SpiceJet,Bangalore,New York,14.17,34126
+121,Indigo,Mumbai,London,12.79,46030
+122,Indigo,Bangalore,Singapore,7.84,44985
+123,Air India,Bangalore,Singapore,14.26,25661
+124,Indigo,Bangalore,London,10.6,32720
+125,Vistara,Chennai,New York,4.5,46523
+126,Vistara,Bangalore,New York,14.5,20689
+127,Vistara,Chennai,Dubai,8.94,6967
+128,Indigo,Bangalore,Dubai,5.51,3185
+129,Indigo,Mumbai,Singapore,7.08,28100
+130,Vistara,Bangalore,Singapore,3.72,14543
+131,Indigo,Chennai,London,9.03,45184
+132,SpiceJet,Bangalore,Dubai,8.93,25708
+133,SpiceJet,Delhi,New York,3.23,4482
+134,SpiceJet,Delhi,London,6.81,21106
+135,Vistara,Mumbai,New York,4.73,3171
+136,Vistara,Bangalore,Singapore,13.54,29087
+137,Vistara,Bangalore,London,3.73,13668
+138,Air India,Delhi,London,9.52,10416
+139,SpiceJet,Mumbai,London,9.96,31948
+140,Vistara,Bangalore,Dubai,9.45,19605
+141,Vistara,Mumbai,New York,6.22,19963
+142,Air India,Delhi,London,4.42,23658
+143,Indigo,Chennai,Dubai,1.12,37603
+144,Indigo,Mumbai,Dubai,3.87,2744
+145,Vistara,Delhi,London,12.4,20056
+146,Air India,Chennai,London,4.89,23702
+147,Indigo,Delhi,New York,8.48,33950
+148,SpiceJet,Delhi,London,5.17,12664
+149,SpiceJet,Mumbai,Dubai,1.9,42869
+150,Air India,Delhi,London,6.9,21971
+151,SpiceJet,Delhi,Singapore,14.89,37860
+152,Air India,Mumbai,Dubai,6.62,42732
+153,Indigo,Mumbai,Singapore,5.67,35672
+154,Vistara,Mumbai,Singapore,9.02,3881
+155,Vistara,Mumbai,Singapore,6.02,25550
+156,Air India,Bangalore,Singapore,4.3,34376
+157,SpiceJet,Bangalore,London,6.34,19697
+158,Vistara,Bangalore,London,13.6,25687
+159,Air India,Mumbai,Singapore,3.0,12044
+160,Indigo,Mumbai,New York,2.84,44131
+161,Indigo,Delhi,New York,11.56,13748
+162,Air India,Mumbai,Dubai,3.63,28471
+163,Air India,Delhi,New York,2.83,17837
+164,Air India,Chennai,Singapore,4.41,31224
+165,SpiceJet,Chennai,Singapore,13.36,37954
+166,Indigo,Mumbai,Singapore,14.16,32398
+167,Indigo,Mumbai,Dubai,14.06,47760
+168,SpiceJet,Mumbai,London,5.39,18734
+169,SpiceJet,Delhi,Singapore,13.68,3736
+170,SpiceJet,Mumbai,New York,1.89,32667
+171,Indigo,Bangalore,Dubai,7.75,22459
+172,SpiceJet,Chennai,New York,8.73,18568
+173,Indigo,Mumbai,Dubai,7.29,45021
+174,SpiceJet,Bangalore,London,14.7,19700
+175,Vistara,Delhi,Singapore,11.56,6278
+176,SpiceJet,Delhi,New York,7.68,48162
+177,SpiceJet,Mumbai,Dubai,11.26,36484
+178,Indigo,Bangalore,London,11.68,22921
+179,Air India,Delhi,Dubai,2.57,2719
+180,Air India,Delhi,Singapore,5.51,30783
+181,SpiceJet,Bangalore,New York,5.59,23122
+182,SpiceJet,Bangalore,Dubai,14.21,9936
+183,Air India,Delhi,Singapore,12.95,16605
+184,Air India,Mumbai,Dubai,5.21,36992
+185,Vistara,Chennai,Singapore,14.83,5170
+186,Air India,Mumbai,London,2.02,47703
+187,SpiceJet,Bangalore,London,5.68,22613
+188,Indigo,Delhi,Singapore,3.82,18653
+189,Air India,Delhi,Singapore,8.29,3765
+190,Indigo,Mumbai,New York,13.67,37633
+191,Indigo,Mumbai,London,12.03,48081
+192,SpiceJet,Mumbai,Dubai,1.52,5298
+193,Vistara,Delhi,London,4.48,16335
+194,Air India,Mumbai,London,11.89,5835
+195,Air India,Bangalore,Singapore,4.92,49868
+196,Vistara,Delhi,Dubai,12.45,6033
+197,Air India,Chennai,New York,9.72,30631
+198,Indigo,Bangalore,New York,10.76,47338
+199,Vistara,Chennai,Singapore,11.0,41196
+200,Indigo,Chennai,London,9.08,17759
+201,Air India,Mumbai,New York,3.58,11907
+202,Vistara,Mumbai,New York,12.36,33289
+203,SpiceJet,Bangalore,London,8.89,26237
+204,Indigo,Mumbai,Dubai,11.1,9164
+205,Air India,Chennai,Singapore,1.37,43196
+206,Air India,Delhi,New York,3.54,38737
+207,Air India,Mumbai,Singapore,8.91,35049
+208,SpiceJet,Delhi,London,12.22,10789
+209,Vistara,Chennai,New York,6.06,5603
+210,Indigo,Mumbai,London,11.52,25052
+211,Indigo,Bangalore,Singapore,1.02,38155
+212,Vistara,Chennai,New York,1.62,10471
+213,Vistara,Chennai,New York,10.64,24884
+214,Vistara,Mumbai,Singapore,14.82,35661
+215,Air India,Chennai,Dubai,5.42,22535
+216,Indigo,Bangalore,Singapore,5.71,30177
+217,Indigo,Chennai,New York,5.76,21253
+218,Air India,Mumbai,Singapore,9.12,38137
+219,Indigo,Mumbai,New York,6.52,8384
+220,Vistara,Chennai,Singapore,6.1,39160
+221,Air India,Chennai,Dubai,11.74,49412
+222,SpiceJet,Delhi,New York,1.03,14254
+223,Air India,Mumbai,New York,13.19,29213
+224,SpiceJet,Bangalore,New York,11.37,28882
+225,Vistara,Chennai,London,14.39,13259
+226,Vistara,Bangalore,London,12.78,20072
+227,Vistara,Mumbai,Singapore,12.11,29425
+228,SpiceJet,Delhi,New York,5.1,18579
+229,Vistara,Chennai,New York,11.93,30018
+230,Indigo,Delhi,Dubai,9.36,10695
+231,Indigo,Delhi,Singapore,5.89,36305
+232,Air India,Bangalore,New York,12.34,5621
+233,Vistara,Delhi,London,7.85,19557
+234,Air India,Chennai,London,14.78,8382
+235,Indigo,Delhi,Singapore,11.1,43144
+236,Air India,Chennai,Singapore,13.32,13003
+237,Vistara,Delhi,Singapore,13.62,40398
+238,Vistara,Delhi,New York,9.19,34895
+239,Air India,Bangalore,New York,13.5,46543
+240,Air India,Bangalore,Dubai,9.36,48737
+241,Indigo,Bangalore,London,8.16,40370
+242,Indigo,Delhi,New York,14.93,4627
+243,Vistara,Bangalore,Dubai,10.75,16444
+244,SpiceJet,Bangalore,London,10.67,18962
+245,Air India,Delhi,Singapore,14.84,37105
+246,Air India,Chennai,New York,9.81,41984
+247,SpiceJet,Chennai,London,1.04,29113
+248,Indigo,Chennai,Dubai,10.47,31657
+249,SpiceJet,Chennai,New York,9.8,43105
+250,Vistara,Mumbai,Singapore,11.19,4114
+251,Indigo,Bangalore,Singapore,14.65,32808
+252,Vistara,Mumbai,New York,11.32,39576
+253,SpiceJet,Delhi,Singapore,14.92,42487
+254,SpiceJet,Bangalore,Singapore,12.03,36041
+255,Air India,Mumbai,Singapore,14.72,8574
+256,Air India,Mumbai,Dubai,7.09,10132
+257,Air India,Delhi,London,4.45,7647
+258,Air India,Mumbai,Dubai,8.72,3052
+259,Vistara,Mumbai,Dubai,13.44,27402
+260,Air India,Mumbai,New York,13.03,23124
+261,Vistara,Mumbai,London,10.38,37692
+262,SpiceJet,Mumbai,Singapore,6.65,38888
+263,Indigo,Chennai,Dubai,4.85,2993
+264,Indigo,Chennai,London,1.35,39484
+265,Air India,Delhi,Dubai,6.84,24408
+266,Air India,Bangalore,New York,8.05,22791
+267,SpiceJet,Chennai,Singapore,14.75,14034
+268,Air India,Bangalore,London,8.95,36042
+269,Air India,Chennai,London,9.1,34910
+270,Vistara,Bangalore,New York,7.52,29343
+271,Vistara,Mumbai,Singapore,1.2,8189
+272,SpiceJet,Chennai,London,5.01,41598
+273,Indigo,Delhi,London,10.2,45868
+274,Air India,Bangalore,Singapore,10.91,22248
+275,SpiceJet,Bangalore,Singapore,14.31,28445
+276,SpiceJet,Delhi,Dubai,7.74,32929
+277,SpiceJet,Chennai,London,10.64,24148
+278,Indigo,Mumbai,Dubai,12.15,49447
+279,SpiceJet,Delhi,New York,11.62,32876
+280,Vistara,Mumbai,New York,2.76,27075
+281,Indigo,Delhi,New York,13.47,37618
+282,Indigo,Mumbai,New York,11.54,43550
+283,Vistara,Bangalore,New York,10.37,45482
+284,Air India,Mumbai,Dubai,3.02,35197
+285,Indigo,Delhi,Singapore,14.21,27149
+286,Air India,Delhi,London,10.52,4215
+287,Indigo,Mumbai,Singapore,3.67,15267
+288,SpiceJet,Bangalore,New York,9.2,41419
+289,Vistara,Mumbai,London,3.07,43468
+290,SpiceJet,Bangalore,Singapore,1.77,48188
+291,SpiceJet,Bangalore,Singapore,10.96,11040
+292,Indigo,Chennai,New York,11.32,33854
+293,Vistara,Bangalore,Singapore,8.22,33423
+294,Air India,Chennai,Dubai,3.1,3957
+295,Vistara,Delhi,London,5.58,9003
+296,Indigo,Bangalore,London,2.47,32998
+297,SpiceJet,Bangalore,London,4.17,36358
+298,Vistara,Bangalore,New York,1.92,24777
+299,Indigo,Delhi,London,10.28,28280
+300,Indigo,Delhi,Singapore,11.9,38619
+301,Indigo,Chennai,New York,8.24,34248
+302,Indigo,Chennai,Dubai,10.25,26602
+303,Air India,Mumbai,Singapore,3.1,30593
+304,SpiceJet,Bangalore,London,13.71,7630
+305,Indigo,Delhi,New York,9.32,24480
+306,SpiceJet,Delhi,Singapore,2.74,41616
+307,Indigo,Bangalore,London,8.48,40545
+308,Vistara,Delhi,London,7.42,14800
+309,Vistara,Delhi,Dubai,13.15,17574
+310,Air India,Delhi,Singapore,11.5,27962
+311,Air India,Bangalore,London,2.36,26108
+312,Indigo,Bangalore,London,10.07,13077
+313,Air India,Mumbai,Singapore,1.75,35258
+314,Vistara,Delhi,London,7.94,2138
+315,SpiceJet,Bangalore,Dubai,12.7,15675
+316,Indigo,Bangalore,Singapore,3.64,18004
+317,Indigo,Chennai,New York,10.06,20461
+318,Indigo,Mumbai,Singapore,6.69,5364
+319,Air India,Chennai,London,2.61,39174
+320,Indigo,Bangalore,Dubai,13.41,29089
+321,Vistara,Bangalore,New York,11.08,7505
+322,Air India,Delhi,New York,4.74,7903
+323,Air India,Delhi,Singapore,3.81,44873
+324,Air India,Chennai,Singapore,6.0,24953
+325,SpiceJet,Chennai,London,11.0,31454
+326,SpiceJet,Chennai,Singapore,13.82,44879
+327,Indigo,Chennai,Dubai,8.21,9018
+328,Indigo,Chennai,Singapore,1.05,34932
+329,Vistara,Bangalore,New York,1.19,34516
+330,Vistara,Mumbai,New York,4.43,9226
+331,Indigo,Chennai,London,11.97,17806
+332,Vistara,Bangalore,New York,3.35,46799
+333,SpiceJet,Mumbai,Singapore,9.07,49878
+334,SpiceJet,Chennai,Dubai,1.41,14512
+335,Indigo,Mumbai,London,5.52,38856
+336,SpiceJet,Bangalore,New York,10.24,43796
+337,Vistara,Bangalore,Singapore,10.53,14307
+338,SpiceJet,Bangalore,Singapore,1.25,43949
+339,SpiceJet,Bangalore,Dubai,3.46,31985
+340,Air India,Delhi,Singapore,4.23,25579
+341,Vistara,Delhi,London,4.59,13604
+342,Air India,Delhi,Singapore,6.02,14494
+343,Air India,Mumbai,Singapore,12.0,11080
+344,Indigo,Bangalore,Dubai,2.45,16167
+345,Vistara,Bangalore,London,4.23,33577
+346,Vistara,Delhi,London,7.78,46523
+347,Air India,Bangalore,New York,11.92,39131
+348,SpiceJet,Mumbai,Dubai,11.79,34521
+349,Indigo,Bangalore,Singapore,2.52,27111
+350,Air India,Mumbai,Dubai,8.49,42067
+351,Vistara,Bangalore,Singapore,10.09,19875
+352,Vistara,Bangalore,New York,7.1,20075
+353,Indigo,Chennai,London,12.94,42318
+354,SpiceJet,Mumbai,Dubai,2.54,8656
+355,Vistara,Delhi,Singapore,8.85,33693
+356,Air India,Mumbai,Dubai,11.03,18725
+357,Vistara,Chennai,London,14.73,21974
+358,Air India,Mumbai,Dubai,1.14,44485
+359,Air India,Mumbai,Dubai,11.13,28478
+360,SpiceJet,Delhi,London,5.77,33356
+361,SpiceJet,Bangalore,Dubai,11.43,37286
+362,Indigo,Delhi,Singapore,8.38,32960
+363,Vistara,Bangalore,Singapore,11.92,21194
+364,Indigo,Mumbai,Dubai,3.31,42325
+365,Indigo,Mumbai,New York,13.81,20563
+366,Air India,Mumbai,New York,6.43,5138
+367,SpiceJet,Delhi,New York,12.25,8665
+368,SpiceJet,Chennai,Dubai,5.1,27848
+369,Indigo,Mumbai,New York,2.89,31597
+370,Indigo,Chennai,London,5.8,39179
+371,Vistara,Mumbai,Singapore,10.45,19726
+372,Air India,Mumbai,Dubai,13.88,16528
+373,Indigo,Bangalore,Singapore,7.96,13336
+374,Indigo,Mumbai,Dubai,5.67,3204
+375,SpiceJet,Bangalore,Singapore,14.05,47783
+376,Air India,Mumbai,Singapore,11.37,22085
+377,Vistara,Mumbai,Dubai,7.33,12293
+378,SpiceJet,Delhi,New York,10.14,21032
+379,Indigo,Delhi,Dubai,4.57,19780
+380,Air India,Chennai,Singapore,7.97,5443
+381,SpiceJet,Mumbai,Singapore,6.6,17851
+382,Indigo,Bangalore,Dubai,4.44,37332
+383,Indigo,Bangalore,London,2.24,14993
+384,Indigo,Bangalore,Singapore,4.2,24425
+385,Vistara,Mumbai,Singapore,12.19,13529
+386,Indigo,Bangalore,Singapore,11.64,3264
+387,Vistara,Delhi,New York,7.13,41913
+388,Air India,Mumbai,Singapore,13.33,18367
+389,SpiceJet,Bangalore,Dubai,3.21,40638
+390,Indigo,Bangalore,London,11.28,44162
+391,Air India,Chennai,Singapore,11.68,48263
+392,SpiceJet,Chennai,New York,1.94,18584
+393,Air India,Delhi,New York,13.12,5524
+394,SpiceJet,Delhi,Dubai,11.84,11175
+395,SpiceJet,Chennai,London,7.5,15137
+396,Air India,Chennai,Singapore,7.92,46675
+397,Vistara,Delhi,Dubai,9.18,29442
+398,Vistara,Mumbai,Dubai,7.7,47963
+399,Air India,Chennai,Singapore,1.76,43785
+400,Air India,Bangalore,Singapore,7.04,10489
+401,SpiceJet,Bangalore,New York,13.11,12950
+402,Vistara,Mumbai,Singapore,8.48,19810
+403,Air India,Delhi,London,4.43,23955
+404,Indigo,Delhi,London,13.71,19641
+405,SpiceJet,Mumbai,Dubai,6.97,8149
+406,SpiceJet,Mumbai,Singapore,3.58,23471
+407,SpiceJet,Bangalore,London,9.34,34801
+408,Indigo,Mumbai,New York,3.44,14946
+409,SpiceJet,Delhi,Dubai,9.73,38827
+410,SpiceJet,Bangalore,Dubai,10.48,29745
+411,Air India,Mumbai,Dubai,3.7,32439
+412,SpiceJet,Bangalore,Singapore,5.4,8250
+413,Indigo,Bangalore,New York,9.23,34892
+414,SpiceJet,Chennai,Dubai,4.08,25254
+415,Indigo,Mumbai,New York,12.5,5993
+416,Air India,Chennai,London,11.24,30019
+417,Vistara,Mumbai,Singapore,3.46,49364
+418,Vistara,Bangalore,New York,9.25,49751
+419,Vistara,Mumbai,London,9.02,45815
+420,Indigo,Mumbai,London,6.23,38629
+421,SpiceJet,Mumbai,Singapore,10.2,49933
+422,Indigo,Chennai,Dubai,7.01,36886
+423,Air India,Chennai,Singapore,7.22,40196
+424,Indigo,Bangalore,Dubai,6.52,41422
+425,Air India,Delhi,Dubai,9.04,49861
+426,Air India,Delhi,London,1.02,7906
+427,Indigo,Mumbai,New York,9.41,10534
+428,Vistara,Delhi,Dubai,2.68,20004
+429,Vistara,Bangalore,Singapore,4.18,45249
+430,SpiceJet,Bangalore,Dubai,12.38,40625
+431,SpiceJet,Mumbai,London,4.18,32142
+432,SpiceJet,Bangalore,Dubai,9.69,44312
+433,SpiceJet,Mumbai,London,4.54,49157
+434,Air India,Bangalore,New York,14.94,39564
+435,SpiceJet,Mumbai,London,14.75,46531
+436,Air India,Delhi,New York,5.65,16193
+437,SpiceJet,Mumbai,Dubai,13.76,31561
+438,Air India,Chennai,Singapore,13.75,31953
+439,Vistara,Mumbai,Dubai,3.86,30452
+440,Vistara,Delhi,Dubai,6.26,22441
+441,Indigo,Delhi,London,3.64,5968
+442,Indigo,Chennai,New York,4.2,35840
+443,Vistara,Chennai,Singapore,8.37,48972
+444,Air India,Delhi,Dubai,8.03,26333
+445,SpiceJet,Chennai,Singapore,7.32,3078
+446,Indigo,Delhi,New York,3.78,22295
+447,Indigo,Mumbai,Dubai,8.47,15561
+448,Indigo,Chennai,Singapore,14.25,13486
+449,Air India,Bangalore,New York,6.04,33919
+450,Air India,Chennai,Singapore,10.63,12819
+451,SpiceJet,Chennai,London,4.23,25364
+452,Vistara,Mumbai,Dubai,11.53,14063
+453,Vistara,Bangalore,London,9.06,12427
+454,Vistara,Bangalore,London,13.85,21148
+455,Indigo,Mumbai,Singapore,2.09,34605
+456,Indigo,Bangalore,Singapore,10.19,27416
+457,Air India,Delhi,New York,6.9,46817
+458,Vistara,Delhi,Dubai,6.17,10688
+459,Air India,Bangalore,London,5.66,5249
+460,Vistara,Bangalore,Singapore,13.63,20314
+461,Air India,Bangalore,Singapore,4.54,47968
+462,Vistara,Delhi,New York,9.84,12909
+463,Air India,Chennai,New York,1.37,30339
+464,SpiceJet,Delhi,Dubai,14.49,13155
+465,Vistara,Delhi,Dubai,12.23,40038
+466,Vistara,Chennai,London,10.65,34829
+467,SpiceJet,Chennai,Singapore,8.26,26981
+468,Air India,Chennai,Singapore,6.04,19384
+469,SpiceJet,Mumbai,Singapore,7.1,14443
+470,Vistara,Bangalore,New York,10.23,26442
+471,SpiceJet,Bangalore,London,8.12,9987
+472,Air India,Bangalore,New York,13.51,26726
+473,Air India,Chennai,Dubai,5.55,31570
+474,Indigo,Chennai,New York,13.08,46874
+475,Indigo,Delhi,Singapore,5.21,8706
+476,Vistara,Delhi,New York,3.03,22603
+477,SpiceJet,Chennai,New York,2.78,22296
+478,SpiceJet,Mumbai,Dubai,4.72,14906
+479,Vistara,Chennai,New York,13.84,29449
+480,Vistara,Bangalore,Singapore,12.21,2679
+481,Air India,Delhi,Dubai,11.3,47162
+482,SpiceJet,Bangalore,Singapore,5.29,46184
+483,Vistara,Bangalore,New York,4.03,42723
+484,Indigo,Chennai,Dubai,6.06,36731
+485,Indigo,Chennai,Singapore,10.35,7139
+486,Air India,Chennai,Dubai,3.27,6293
+487,Indigo,Bangalore,London,8.4,47549
+488,Indigo,Mumbai,Singapore,6.16,21398
+489,Air India,Mumbai,Singapore,11.64,7831
+490,SpiceJet,Delhi,Dubai,10.02,10247
+491,Vistara,Delhi,New York,3.09,10376
+492,Indigo,Bangalore,Singapore,5.33,8190
+493,Indigo,Bangalore,London,12.31,11122
+494,SpiceJet,Delhi,New York,13.42,14814
+495,Air India,Delhi,Singapore,8.16,38233
+496,Vistara,Bangalore,Dubai,12.58,28689
+497,Air India,Bangalore,New York,3.95,32396
+498,Air India,Chennai,Singapore,6.68,23513
+499,Air India,Mumbai,London,10.01,31570
+500,SpiceJet,Chennai,Singapore,1.39,30467
+501,Indigo,Mumbai,New York,8.41,36242
+502,Air India,Mumbai,Dubai,12.94,8367
+503,Vistara,Bangalore,London,3.94,40185
+504,Vistara,Mumbai,Singapore,1.16,37463
+505,Vistara,Chennai,London,10.07,42646
+506,SpiceJet,Chennai,London,10.25,5989
+507,Indigo,Bangalore,London,4.4,34043
+508,SpiceJet,Delhi,New York,5.57,20865
+509,Vistara,Chennai,Singapore,5.82,46964
+510,Indigo,Delhi,London,2.17,3424
+511,SpiceJet,Bangalore,New York,11.42,38035
+512,SpiceJet,Bangalore,Dubai,4.0,4072
+513,Indigo,Mumbai,New York,11.81,29182
+514,Air India,Delhi,Singapore,10.12,7304
+515,Vistara,Chennai,London,2.45,46402
+516,Indigo,Chennai,New York,11.47,23867
+517,SpiceJet,Chennai,New York,3.01,20334
+518,Indigo,Mumbai,Singapore,10.22,46178
+519,SpiceJet,Bangalore,New York,2.09,42235
+520,SpiceJet,Bangalore,London,9.13,5096
+521,Air India,Mumbai,Singapore,7.22,27703
+522,SpiceJet,Bangalore,London,8.34,47363
+523,SpiceJet,Delhi,London,11.48,30978
+524,Indigo,Delhi,New York,11.34,18296
+525,Vistara,Bangalore,Dubai,1.64,47892
+526,Air India,Chennai,Singapore,3.29,22852
+527,Indigo,Bangalore,Dubai,14.75,34225
+528,Air India,Mumbai,Singapore,7.15,48926
+529,Vistara,Delhi,London,12.5,23854
+530,Indigo,Mumbai,New York,8.71,40472
+531,Air India,Delhi,Dubai,11.83,23200
+532,SpiceJet,Chennai,New York,1.99,36385
+533,Air India,Mumbai,New York,8.02,20828
+534,Air India,Delhi,Dubai,11.53,7957
+535,Air India,Delhi,New York,6.81,22624
+536,Indigo,Bangalore,New York,11.01,38368
+537,Indigo,Mumbai,Singapore,12.63,46592
+538,Indigo,Mumbai,Singapore,12.4,11312
+539,SpiceJet,Mumbai,London,3.88,26715
+540,Indigo,Delhi,London,13.7,46233
+541,SpiceJet,Delhi,Dubai,9.15,15624
+542,Air India,Mumbai,London,3.57,31299
+543,Vistara,Bangalore,Dubai,12.1,6738
+544,Vistara,Delhi,London,4.56,9348
+545,Vistara,Mumbai,Dubai,5.66,21623
+546,Air India,Bangalore,Singapore,6.83,3576
+547,SpiceJet,Bangalore,New York,8.08,33294
+548,SpiceJet,Mumbai,Dubai,3.41,38732
+549,SpiceJet,Bangalore,Dubai,12.9,12357
+550,SpiceJet,Mumbai,London,12.48,40032
+551,Indigo,Chennai,Singapore,5.27,45029
+552,Vistara,Chennai,London,14.58,35017
+553,SpiceJet,Bangalore,Singapore,1.83,11141
+554,Indigo,Delhi,London,2.71,5611
+555,Air India,Chennai,Singapore,11.72,4250
+556,Air India,Delhi,New York,4.4,14534
+557,SpiceJet,Mumbai,Singapore,3.92,18929
+558,Vistara,Delhi,New York,1.31,30502
+559,Air India,Chennai,New York,5.61,36382
+560,Indigo,Bangalore,Dubai,2.05,22153
+561,Vistara,Delhi,Singapore,9.93,28800
+562,SpiceJet,Mumbai,Dubai,1.09,42806
+563,Air India,Bangalore,Dubai,7.11,32181
+564,SpiceJet,Delhi,New York,13.4,4201
+565,Indigo,Mumbai,Dubai,8.9,23653
+566,Air India,Mumbai,New York,5.61,9723
+567,Vistara,Mumbai,London,2.52,6837
+568,SpiceJet,Delhi,London,14.36,24187
+569,Vistara,Chennai,Singapore,1.26,34966
+570,SpiceJet,Chennai,Singapore,8.0,9998
+571,SpiceJet,Mumbai,Dubai,6.16,25773
+572,Indigo,Mumbai,New York,11.76,49271
+573,Vistara,Delhi,Dubai,9.26,10601
+574,Indigo,Bangalore,London,14.14,3766
+575,Indigo,Delhi,London,14.33,28178
+576,Vistara,Chennai,Singapore,11.18,29911
+577,SpiceJet,Mumbai,Dubai,7.67,45463
+578,SpiceJet,Delhi,New York,8.47,2932
+579,Indigo,Delhi,London,13.86,12667
+580,SpiceJet,Delhi,Dubai,11.3,31843
+581,Vistara,Chennai,Singapore,11.48,20388
+582,Indigo,Mumbai,Singapore,14.16,36427
+583,SpiceJet,Bangalore,London,6.22,26049
+584,Indigo,Delhi,Singapore,12.62,10900
+585,Air India,Mumbai,New York,11.55,37230
+586,Indigo,Chennai,New York,6.37,35893
+587,Indigo,Mumbai,Dubai,11.57,18980
+588,Indigo,Chennai,Dubai,2.5,27645
+589,Air India,Bangalore,Dubai,1.25,41388
+590,Vistara,Bangalore,New York,13.23,21003
+591,Indigo,Mumbai,Dubai,14.68,15815
+592,Indigo,Mumbai,London,7.06,10776
+593,Air India,Chennai,Singapore,6.46,24343
+594,Air India,Bangalore,London,4.17,26027
+595,Vistara,Delhi,New York,14.12,47216
+596,Indigo,Bangalore,Singapore,4.65,22614
+597,Air India,Bangalore,New York,10.04,33899
+598,Indigo,Mumbai,New York,12.42,20498
+599,SpiceJet,Chennai,Singapore,7.34,13550
+600,SpiceJet,Mumbai,Singapore,14.41,43055
+601,SpiceJet,Bangalore,Dubai,6.12,9317
+602,SpiceJet,Chennai,Dubai,11.87,23929
+603,Indigo,Mumbai,Singapore,4.0,37267
+604,SpiceJet,Chennai,Dubai,7.74,9341
+605,Indigo,Chennai,London,10.78,2082
+606,Vistara,Mumbai,Singapore,4.54,9469
+607,Indigo,Delhi,London,12.67,29531
+608,Air India,Bangalore,Dubai,14.16,9453
+609,SpiceJet,Bangalore,Dubai,5.05,24318
+610,Indigo,Bangalore,New York,7.92,47654
+611,Indigo,Bangalore,London,1.24,20384
+612,SpiceJet,Mumbai,Dubai,6.66,15741
+613,Vistara,Bangalore,Singapore,9.36,38960
+614,Vistara,Delhi,London,3.27,47085
+615,SpiceJet,Chennai,London,14.69,21965
+616,Indigo,Chennai,Dubai,3.46,47198
+617,Air India,Mumbai,Singapore,8.08,31066
+618,Vistara,Bangalore,New York,1.13,5129
+619,Air India,Chennai,Singapore,5.17,6003
+620,SpiceJet,Chennai,Dubai,12.25,9601
+621,Air India,Chennai,London,6.71,19569
+622,Indigo,Mumbai,London,13.0,28325
+623,Indigo,Bangalore,Singapore,12.47,45861
+624,SpiceJet,Mumbai,New York,7.08,17996
+625,Vistara,Bangalore,London,3.18,11193
+626,Indigo,Delhi,New York,12.33,48740
+627,Vistara,Delhi,London,13.89,47614
+628,Vistara,Chennai,Singapore,4.41,16792
+629,Indigo,Chennai,Dubai,2.05,31005
+630,Vistara,Bangalore,London,12.82,35776
+631,Air India,Chennai,Dubai,9.52,48330
+632,SpiceJet,Bangalore,London,4.64,27953
+633,Indigo,Chennai,Singapore,3.41,40924
+634,Indigo,Delhi,London,7.96,27813
+635,SpiceJet,Delhi,Singapore,13.98,17143
+636,Air India,Chennai,London,3.34,17803
+637,Vistara,Mumbai,New York,11.11,2351
+638,Air India,Delhi,New York,4.54,5811
+639,SpiceJet,Chennai,Singapore,9.28,15395
+640,SpiceJet,Mumbai,Dubai,7.24,38272
+641,SpiceJet,Chennai,Dubai,8.93,32851
+642,Indigo,Delhi,New York,2.89,49741
+643,SpiceJet,Delhi,Singapore,13.08,44614
+644,SpiceJet,Bangalore,London,14.79,23549
+645,Air India,Mumbai,London,7.96,39889
+646,Indigo,Delhi,Dubai,6.65,14811
+647,Vistara,Mumbai,Singapore,12.06,42282
+648,SpiceJet,Mumbai,Singapore,3.36,41450
+649,Indigo,Bangalore,London,1.98,7185
+650,Air India,Mumbai,London,11.03,33961
+651,Indigo,Mumbai,Dubai,8.65,28741
+652,SpiceJet,Bangalore,Singapore,9.85,10278
+653,SpiceJet,Delhi,Dubai,1.4,41782
+654,Vistara,Delhi,Singapore,13.09,22882
+655,Indigo,Mumbai,Dubai,10.35,3432
+656,Vistara,Bangalore,Dubai,2.57,41584
+657,SpiceJet,Delhi,Dubai,10.25,34360
+658,Indigo,Bangalore,Singapore,14.72,39972
+659,Indigo,Bangalore,Dubai,4.6,13306
+660,Indigo,Bangalore,Singapore,14.21,31166
+661,Vistara,Bangalore,Singapore,14.44,3887
+662,Indigo,Mumbai,Singapore,12.78,41067
+663,Indigo,Chennai,Dubai,7.84,21755
+664,SpiceJet,Bangalore,New York,7.25,33036
+665,Air India,Bangalore,London,6.07,5053
+666,Vistara,Mumbai,New York,12.0,14465
+667,Vistara,Chennai,Singapore,3.11,23961
+668,Indigo,Mumbai,Singapore,8.46,38252
+669,Indigo,Delhi,New York,8.65,7553
+670,Vistara,Mumbai,New York,14.04,46440
+671,Vistara,Mumbai,Singapore,13.72,22871
+672,SpiceJet,Mumbai,Singapore,7.76,13660
+673,Air India,Bangalore,London,9.37,49935
+674,Indigo,Chennai,New York,10.9,27319
+675,Air India,Delhi,London,8.61,42354
+676,Air India,Chennai,New York,4.97,38972
+677,Air India,Mumbai,Singapore,3.23,12608
+678,Indigo,Bangalore,London,8.88,11633
+679,Air India,Bangalore,Dubai,7.12,3614
+680,Air India,Mumbai,Singapore,4.79,32480
+681,SpiceJet,Delhi,Dubai,5.82,18948
+682,SpiceJet,Chennai,New York,1.59,9074
+683,Air India,Chennai,Dubai,8.77,15610
+684,SpiceJet,Delhi,Singapore,2.07,48147
+685,Vistara,Mumbai,New York,2.49,22118
+686,Indigo,Bangalore,Dubai,11.81,9513
+687,Air India,Chennai,London,2.52,35619
+688,Air India,Delhi,New York,10.78,13551
+689,SpiceJet,Delhi,London,7.85,34866
+690,Indigo,Mumbai,London,4.4,28196
+691,Air India,Mumbai,New York,8.99,32728
+692,SpiceJet,Delhi,Singapore,8.31,42611
+693,Indigo,Bangalore,New York,13.75,42917
+694,Vistara,Chennai,Singapore,14.5,18415
+695,SpiceJet,Delhi,Dubai,7.51,32436
+696,SpiceJet,Mumbai,London,6.11,29493
+697,SpiceJet,Delhi,Singapore,9.21,29260
+698,Air India,Chennai,Singapore,2.57,37842
+699,Vistara,Bangalore,London,8.39,13274
+700,Air India,Mumbai,New York,2.4,41580
+701,SpiceJet,Delhi,Dubai,4.85,6313
+702,Vistara,Mumbai,Singapore,11.61,21642
+703,Indigo,Delhi,New York,11.78,32252
+704,Indigo,Mumbai,New York,7.68,44399
+705,Indigo,Delhi,Dubai,14.49,12931
+706,Vistara,Bangalore,London,3.12,42933
+707,Indigo,Bangalore,London,5.38,28325
+708,SpiceJet,Bangalore,Singapore,9.29,23678
+709,Air India,Mumbai,London,7.24,26893
+710,SpiceJet,Chennai,New York,10.08,10818
+711,Air India,Bangalore,Singapore,2.24,11173
+712,SpiceJet,Chennai,Dubai,11.07,43629
+713,SpiceJet,Delhi,London,3.28,14895
+714,SpiceJet,Chennai,London,4.79,40298
+715,SpiceJet,Mumbai,London,3.51,8553
+716,Vistara,Mumbai,New York,11.09,23841
+717,Indigo,Chennai,London,1.56,49630
+718,Air India,Chennai,Dubai,14.68,4270
+719,Indigo,Mumbai,London,6.23,3049
+720,Air India,Delhi,Dubai,4.26,32929
+721,SpiceJet,Delhi,Dubai,5.57,38063
+722,Vistara,Delhi,London,7.94,31452
+723,SpiceJet,Mumbai,New York,4.22,27606
+724,Indigo,Bangalore,Dubai,11.66,15352
+725,Vistara,Bangalore,New York,11.57,25889
+726,Vistara,Chennai,New York,9.81,49977
+727,Indigo,Chennai,New York,13.69,45183
+728,Indigo,Bangalore,Singapore,11.11,26046
+729,Vistara,Bangalore,Dubai,3.25,28493
+730,Air India,Bangalore,Dubai,4.7,23516
+731,Vistara,Delhi,New York,7.67,17455
+732,Air India,Chennai,Singapore,5.33,4850
+733,Air India,Chennai,Singapore,6.55,36132
+734,Indigo,Delhi,London,7.64,6297
+735,Air India,Chennai,Singapore,11.97,3546
+736,Indigo,Mumbai,Dubai,8.61,15133
+737,Vistara,Bangalore,Singapore,12.73,25936
+738,SpiceJet,Chennai,London,9.51,14377
+739,Indigo,Delhi,Singapore,1.1,26707
+740,SpiceJet,Delhi,New York,14.83,19166
+741,Vistara,Bangalore,Dubai,3.06,19815
+742,SpiceJet,Mumbai,Dubai,6.54,4079
+743,Vistara,Chennai,Singapore,1.27,22173
+744,Air India,Bangalore,New York,8.35,9166
+745,Indigo,Bangalore,Dubai,10.49,24295
+746,Indigo,Delhi,Singapore,5.03,29767
+747,Vistara,Mumbai,Singapore,14.0,18600
+748,SpiceJet,Chennai,New York,3.1,29324
+749,Vistara,Chennai,London,14.28,15482
+750,Air India,Chennai,London,12.01,18882
+751,Vistara,Chennai,Singapore,3.13,24998
+752,Vistara,Chennai,New York,2.44,48651
+753,SpiceJet,Mumbai,New York,1.93,44954
+754,SpiceJet,Chennai,Singapore,9.09,30410
+755,Indigo,Mumbai,New York,4.51,12084
+756,Air India,Chennai,London,14.6,45069
+757,Air India,Mumbai,Dubai,2.62,28567
+758,Air India,Bangalore,New York,12.31,36922
+759,Vistara,Mumbai,Singapore,6.26,27736
+760,Air India,Bangalore,London,1.2,34690
+761,SpiceJet,Mumbai,Dubai,11.3,26659
+762,SpiceJet,Delhi,Dubai,9.22,13650
+763,SpiceJet,Bangalore,Dubai,4.22,22099
+764,Indigo,Bangalore,Singapore,5.98,5312
+765,Air India,Mumbai,Singapore,3.1,8245
+766,SpiceJet,Delhi,New York,2.89,15558
+767,Air India,Bangalore,New York,8.97,30415
+768,Vistara,Chennai,London,8.55,46322
+769,SpiceJet,Mumbai,Dubai,3.85,7485
+770,Air India,Delhi,Dubai,5.16,9828
+771,Indigo,Delhi,Dubai,14.94,40002
+772,Vistara,Delhi,New York,5.94,29556
+773,Indigo,Delhi,Dubai,7.82,9188
+774,SpiceJet,Mumbai,New York,3.23,46383
+775,Vistara,Chennai,Dubai,1.34,24452
+776,SpiceJet,Mumbai,Dubai,9.57,49628
+777,SpiceJet,Bangalore,London,4.38,44053
+778,SpiceJet,Chennai,Singapore,11.4,9572
+779,Vistara,Mumbai,London,4.24,14370
+780,Air India,Mumbai,London,6.16,15018
+781,Air India,Bangalore,New York,10.06,17872
+782,Indigo,Delhi,Singapore,10.68,15885
+783,Air India,Mumbai,Singapore,5.82,40312
+784,Indigo,Mumbai,Dubai,11.18,14094
+785,Air India,Bangalore,Dubai,8.88,25551
+786,Air India,Bangalore,Dubai,12.41,4692
+787,Vistara,Bangalore,Dubai,11.6,3340
+788,Air India,Bangalore,Dubai,12.5,23483
+789,SpiceJet,Bangalore,Singapore,4.7,36556
+790,Vistara,Chennai,Singapore,2.14,35779
+791,SpiceJet,Chennai,New York,1.04,40578
+792,Vistara,Mumbai,Singapore,5.62,41302
+793,SpiceJet,Mumbai,London,6.79,25372
+794,Air India,Chennai,London,4.72,18315
+795,Air India,Mumbai,New York,3.24,42340
+796,Indigo,Chennai,Singapore,6.98,48997
+797,Vistara,Mumbai,Singapore,5.28,14447
+798,SpiceJet,Bangalore,New York,1.45,12974
+799,Indigo,Delhi,London,12.72,3277
+800,SpiceJet,Mumbai,Singapore,8.28,9274
+801,Indigo,Delhi,London,3.45,15023
+802,Indigo,Bangalore,London,5.62,22097
+803,Vistara,Chennai,Singapore,9.06,26019
+804,Indigo,Chennai,Dubai,2.36,49755
+805,Air India,Delhi,New York,8.27,4014
+806,Indigo,Mumbai,Dubai,11.31,37778
+807,Indigo,Mumbai,Singapore,3.3,26756
+808,Air India,Chennai,Dubai,8.12,21682
+809,Indigo,Mumbai,London,13.55,40630
+810,Indigo,Delhi,London,10.85,17707
+811,Vistara,Chennai,Singapore,7.26,22871
+812,SpiceJet,Bangalore,Dubai,1.35,7402
+813,Indigo,Delhi,Singapore,14.03,41670
+814,SpiceJet,Mumbai,Singapore,14.74,33940
+815,Vistara,Mumbai,Singapore,11.98,17380
+816,Vistara,Delhi,London,4.21,25416
+817,Air India,Chennai,London,9.16,47757
+818,Indigo,Delhi,New York,12.25,7379
+819,Vistara,Mumbai,Singapore,8.44,10840
+820,SpiceJet,Mumbai,Dubai,14.58,17556
+821,Indigo,Mumbai,London,9.35,42709
+822,Vistara,Delhi,London,1.08,42933
+823,SpiceJet,Chennai,Dubai,5.16,15215
+824,Vistara,Bangalore,New York,14.94,9103
+825,SpiceJet,Bangalore,New York,14.73,18854
+826,Indigo,Bangalore,Singapore,13.92,46947
+827,Vistara,Delhi,London,3.88,4233
+828,Indigo,Delhi,Dubai,4.56,30094
+829,SpiceJet,Bangalore,Dubai,9.47,16728
+830,SpiceJet,Chennai,New York,1.49,8415
+831,SpiceJet,Mumbai,Singapore,13.47,33752
+832,Vistara,Bangalore,Dubai,7.86,36750
+833,Air India,Delhi,London,11.23,19640
+834,SpiceJet,Bangalore,New York,9.59,12124
+835,Vistara,Delhi,New York,6.05,24529
+836,SpiceJet,Mumbai,London,13.64,22450
+837,Vistara,Mumbai,Singapore,4.42,13236
+838,Air India,Delhi,Singapore,8.17,25301
+839,Vistara,Chennai,New York,6.89,38845
+840,SpiceJet,Mumbai,New York,11.06,39244
+841,Air India,Mumbai,Dubai,10.9,12492
+842,Indigo,Delhi,Dubai,7.32,27630
+843,Indigo,Mumbai,Dubai,5.63,3493
+844,SpiceJet,Delhi,New York,3.92,10473
+845,Air India,Delhi,Dubai,1.66,5478
+846,Air India,Chennai,New York,7.16,35300
+847,Air India,Delhi,Dubai,1.04,4760
+848,Indigo,Bangalore,New York,5.94,6527
+849,Air India,Mumbai,Singapore,14.56,40861
+850,SpiceJet,Delhi,Singapore,10.13,45457
+851,Air India,Delhi,New York,6.79,39886
+852,Air India,Bangalore,London,14.22,48603
+853,Vistara,Bangalore,London,14.93,4494
+854,SpiceJet,Delhi,Dubai,11.87,26249
+855,Air India,Mumbai,London,5.26,19385
+856,SpiceJet,Mumbai,New York,13.4,3707
+857,Indigo,Bangalore,Dubai,12.07,7483
+858,SpiceJet,Bangalore,Singapore,10.09,45784
+859,Air India,Chennai,New York,7.56,10949
+860,SpiceJet,Delhi,London,4.77,25361
+861,Vistara,Chennai,New York,5.17,44475
+862,Air India,Delhi,New York,8.25,46913
+863,SpiceJet,Delhi,London,8.07,32801
+864,Indigo,Mumbai,New York,7.33,46994
+865,Vistara,Mumbai,Dubai,12.14,27376
+866,SpiceJet,Bangalore,Dubai,4.49,45397
+867,Air India,Bangalore,London,2.73,15987
+868,Air India,Delhi,New York,3.4,40713
+869,Air India,Mumbai,New York,9.68,32308
+870,Indigo,Bangalore,London,1.45,25681
+871,Indigo,Chennai,London,5.36,20219
+872,Vistara,Bangalore,New York,3.39,34763
+873,Vistara,Chennai,Dubai,1.38,33014
+874,Indigo,Delhi,Singapore,14.21,41344
+875,Air India,Mumbai,New York,6.1,14078
+876,Indigo,Delhi,Singapore,13.61,17790
+877,Indigo,Bangalore,New York,7.74,13415
+878,Indigo,Mumbai,New York,14.58,33877
+879,Air India,Chennai,Singapore,2.95,13300
+880,SpiceJet,Chennai,Singapore,6.2,14500
+881,Vistara,Chennai,London,4.48,7294
+882,Air India,Bangalore,New York,11.49,11019
+883,SpiceJet,Delhi,New York,4.4,6690
+884,Air India,Mumbai,Singapore,8.84,39410
+885,SpiceJet,Chennai,London,3.65,15071
+886,SpiceJet,Delhi,Singapore,1.93,29354
+887,Vistara,Chennai,New York,13.45,47820
+888,Air India,Chennai,Singapore,11.8,19621
+889,Vistara,Chennai,Singapore,12.11,35934
+890,Vistara,Chennai,Dubai,14.96,6578
+891,Indigo,Bangalore,London,12.91,16849
+892,SpiceJet,Bangalore,London,1.98,46214
+893,Indigo,Mumbai,New York,4.96,31204
+894,Vistara,Mumbai,New York,6.79,29560
+895,Vistara,Chennai,Dubai,14.28,33680
+896,Vistara,Bangalore,Singapore,1.29,7361
+897,Indigo,Bangalore,New York,11.34,30364
+898,Vistara,Chennai,Dubai,1.92,2916
+899,Vistara,Delhi,Singapore,3.41,15095
+900,Vistara,Bangalore,New York,4.44,13089
+901,Vistara,Chennai,Dubai,7.23,32389
+902,Indigo,Bangalore,Singapore,13.66,39800
+903,Indigo,Bangalore,London,13.01,30905
+904,SpiceJet,Bangalore,Dubai,5.43,24901
+905,Vistara,Chennai,New York,14.78,37255
+906,Air India,Mumbai,London,1.86,2326
+907,Indigo,Bangalore,London,1.83,9762
+908,Indigo,Bangalore,Singapore,7.73,7004
+909,SpiceJet,Delhi,Singapore,5.76,37455
+910,Vistara,Delhi,Dubai,13.18,39407
+911,Indigo,Mumbai,London,1.36,43431
+912,SpiceJet,Mumbai,Dubai,13.37,20783
+913,Air India,Delhi,Singapore,4.96,41285
+914,Air India,Chennai,New York,12.06,16839
+915,Air India,Chennai,New York,1.23,43443
+916,Vistara,Delhi,Dubai,13.81,33514
+917,Indigo,Chennai,London,12.58,11836
+918,Indigo,Delhi,New York,9.17,13428
+919,Air India,Mumbai,New York,12.65,14833
+920,Vistara,Chennai,Dubai,12.22,41949
+921,Vistara,Delhi,Singapore,12.97,31794
+922,Vistara,Chennai,New York,10.57,4657
+923,SpiceJet,Chennai,New York,14.58,26850
+924,Air India,Chennai,New York,9.08,40778
+925,Vistara,Chennai,Singapore,10.77,12084
+926,Indigo,Bangalore,New York,7.66,28925
+927,Air India,Delhi,London,14.83,27572
+928,SpiceJet,Chennai,Dubai,1.31,22947
+929,Vistara,Chennai,Dubai,11.32,13200
+930,Indigo,Delhi,Dubai,4.39,29531
+931,Indigo,Bangalore,London,10.43,23883
+932,SpiceJet,Delhi,Dubai,3.47,40519
+933,Vistara,Chennai,New York,5.79,2359
+934,Indigo,Bangalore,New York,10.62,42998
+935,Air India,Chennai,London,6.72,5406
+936,Air India,Bangalore,Singapore,10.3,36858
+937,Air India,Delhi,London,10.04,19169
+938,Vistara,Delhi,London,2.6,39229
+939,Air India,Chennai,New York,10.71,43011
+940,Indigo,Chennai,Dubai,4.9,20102
+941,Air India,Delhi,Singapore,6.95,25861
+942,Air India,Chennai,Singapore,8.19,31028
+943,SpiceJet,Delhi,New York,6.31,5757
+944,Vistara,Bangalore,Dubai,4.69,13940
+945,Vistara,Mumbai,London,3.27,43272
+946,Vistara,Bangalore,London,9.77,29378
+947,SpiceJet,Mumbai,Singapore,11.57,29665
+948,Vistara,Mumbai,New York,3.68,6023
+949,SpiceJet,Chennai,London,9.45,45238
+950,Indigo,Mumbai,London,2.84,9297
+951,Indigo,Chennai,Dubai,10.02,18724
+952,Indigo,Bangalore,New York,5.18,48914
+953,SpiceJet,Chennai,Singapore,6.02,38158
+954,Vistara,Chennai,New York,10.39,5946
+955,Indigo,Bangalore,New York,7.5,43775
+956,Air India,Mumbai,Dubai,7.29,21478
+957,Vistara,Delhi,Dubai,5.25,23450
+958,Vistara,Chennai,Dubai,12.38,13146
+959,SpiceJet,Delhi,Dubai,5.25,47607
+960,Indigo,Bangalore,New York,10.08,33533
+961,Air India,Mumbai,London,1.83,6278
+962,Vistara,Mumbai,Dubai,13.75,6529
+963,Indigo,Delhi,London,14.53,9962
+964,SpiceJet,Delhi,Singapore,3.57,43992
+965,Air India,Delhi,London,7.18,49406
+966,Air India,Mumbai,New York,2.51,13651
+967,Indigo,Delhi,Dubai,6.79,33226
+968,SpiceJet,Chennai,New York,13.15,14026
+969,Vistara,Mumbai,New York,9.31,3456
+970,Air India,Bangalore,Singapore,2.92,47666
+971,SpiceJet,Bangalore,London,14.57,20426
+972,Indigo,Bangalore,London,8.8,49143
+973,Vistara,Chennai,New York,2.04,21801
+974,Vistara,Chennai,Dubai,6.12,39297
+975,Vistara,Delhi,New York,3.04,22327
+976,Indigo,Chennai,London,13.36,15292
+977,Indigo,Delhi,Singapore,6.48,25041
+978,Vistara,Bangalore,London,8.0,48276
+979,Indigo,Mumbai,New York,12.76,46522
+980,Air India,Chennai,Singapore,8.95,40958
+981,Indigo,Bangalore,London,1.68,28560
+982,SpiceJet,Delhi,New York,2.04,47769
+983,SpiceJet,Delhi,London,3.43,29231
+984,Vistara,Chennai,Singapore,10.44,33270
+985,Air India,Delhi,Dubai,9.64,5719
+986,Indigo,Chennai,Dubai,6.01,29902
+987,Air India,Delhi,London,5.38,5030
+988,Vistara,Mumbai,London,2.12,10489
+989,Indigo,Delhi,Singapore,1.98,42952
+990,SpiceJet,Delhi,Dubai,9.89,31370
+991,Air India,Chennai,Dubai,12.13,5017
+992,Indigo,Mumbai,Singapore,8.03,13945
+993,Air India,Chennai,London,10.64,21305
+994,Air India,Bangalore,Singapore,7.27,37857
+995,Vistara,Bangalore,Dubai,1.76,29351
+996,Vistara,Chennai,London,1.03,44866
+997,Vistara,Chennai,Dubai,12.22,49540
+998,Vistara,Delhi,New York,13.14,21822
+999,Indigo,Bangalore,New York,14.77,3708
+1000,Air India,Chennai,Dubai,5.3,27830
+1001,Air India,Bangalore,London,11.27,49537
+1002,Air India,Bangalore,Singapore,11.36,47862
+1003,SpiceJet,Chennai,Dubai,10.32,41458
+1004,SpiceJet,Mumbai,Dubai,12.49,15601
+1005,Air India,Chennai,New York,14.38,47400
+1006,Vistara,Mumbai,New York,3.82,21302
+1007,SpiceJet,Delhi,Dubai,11.2,33200
+1008,Air India,Bangalore,London,6.79,46386
+1009,Air India,Bangalore,Dubai,12.58,40378
+1010,Air India,Mumbai,London,13.77,34128
+1011,SpiceJet,Bangalore,Singapore,14.18,38915
+1012,Vistara,Delhi,Singapore,11.59,5704
+1013,Air India,Chennai,Dubai,13.87,17554
+1014,Air India,Chennai,Singapore,2.65,18397
+1015,Vistara,Mumbai,Singapore,2.31,18124
+1016,Vistara,Mumbai,Singapore,6.84,10269
+1017,SpiceJet,Bangalore,London,11.08,6856
+1018,Vistara,Delhi,Dubai,12.3,13346
+1019,SpiceJet,Mumbai,Singapore,12.72,24711
+1020,SpiceJet,Mumbai,New York,2.84,31890
+1021,SpiceJet,Mumbai,London,10.58,40382
+1022,Indigo,Delhi,London,8.76,7196
+1023,Air India,Chennai,Singapore,3.34,33396
+1024,SpiceJet,Bangalore,Singapore,7.64,41763
+1025,Indigo,Delhi,London,11.85,6339
+1026,Indigo,Bangalore,New York,3.31,43625
+1027,Air India,Delhi,London,13.53,26568
+1028,Air India,Mumbai,Singapore,3.3,18140
+1029,Vistara,Mumbai,London,2.14,32322
+1030,Indigo,Delhi,New York,6.09,11457
+1031,Indigo,Delhi,New York,11.9,23277
+1032,Indigo,Delhi,New York,11.85,14183
+1033,SpiceJet,Mumbai,Dubai,13.11,28231
+1034,SpiceJet,Chennai,Dubai,3.51,47722
+1035,Indigo,Mumbai,Dubai,4.05,17604
+1036,SpiceJet,Bangalore,London,3.88,7848
+1037,Air India,Chennai,Dubai,3.9,18913
+1038,Vistara,Mumbai,New York,6.92,17965
+1039,Vistara,Delhi,Dubai,14.93,34984
+1040,Indigo,Chennai,London,10.48,36381
+1041,Indigo,Mumbai,New York,5.76,4264
+1042,Air India,Mumbai,Singapore,14.44,18982
+1043,SpiceJet,Delhi,Dubai,8.87,45747
+1044,SpiceJet,Mumbai,Dubai,1.54,15182
+1045,Indigo,Chennai,Dubai,2.03,41881
+1046,Air India,Delhi,New York,8.76,18663
+1047,Indigo,Mumbai,New York,3.72,10575
+1048,Vistara,Bangalore,Singapore,4.77,35214
+1049,Vistara,Mumbai,London,6.22,12955
+1050,Vistara,Chennai,Dubai,9.35,40235
+1051,SpiceJet,Mumbai,New York,14.04,11708
+1052,Vistara,Bangalore,Singapore,2.23,41484
+1053,SpiceJet,Delhi,New York,13.92,30042
+1054,Indigo,Delhi,London,7.02,6443
+1055,SpiceJet,Chennai,New York,5.35,49561
+1056,Air India,Delhi,Singapore,5.04,21907
+1057,Indigo,Delhi,Singapore,5.99,25000
+1058,Air India,Mumbai,New York,6.88,22925
+1059,Indigo,Chennai,Dubai,6.55,12083
+1060,Air India,Bangalore,Singapore,12.85,45144
+1061,Air India,Mumbai,Dubai,5.75,9270
+1062,Indigo,Delhi,Dubai,4.36,22587
+1063,SpiceJet,Chennai,Singapore,14.05,4908
+1064,Vistara,Mumbai,Singapore,11.9,49760
+1065,Indigo,Chennai,London,1.4,24552
+1066,SpiceJet,Chennai,Dubai,8.78,16345
+1067,Vistara,Mumbai,New York,9.77,27247
+1068,SpiceJet,Delhi,Singapore,3.07,16310
+1069,SpiceJet,Chennai,Dubai,5.66,44785
+1070,Indigo,Chennai,New York,3.53,11929
+1071,Vistara,Chennai,Singapore,2.19,30697
+1072,SpiceJet,Mumbai,Singapore,8.17,28366
+1073,Vistara,Bangalore,Singapore,2.03,27021
+1074,Air India,Chennai,London,7.45,26330
+1075,Indigo,Bangalore,Singapore,7.69,39627
+1076,Vistara,Mumbai,Dubai,9.36,7440
+1077,Air India,Delhi,London,12.96,15295
+1078,Indigo,Mumbai,Singapore,1.37,3664
+1079,Indigo,Bangalore,London,3.5,29573
+1080,Indigo,Delhi,Dubai,10.35,38307
+1081,Vistara,Bangalore,Singapore,6.99,12231
+1082,Indigo,Delhi,London,3.52,39247
+1083,SpiceJet,Mumbai,New York,3.66,47034
+1084,Air India,Mumbai,Dubai,3.62,4508
+1085,SpiceJet,Delhi,London,13.89,12809
+1086,Vistara,Mumbai,New York,6.33,2240
+1087,SpiceJet,Chennai,New York,9.06,13002
+1088,Vistara,Bangalore,London,9.0,35314
+1089,Vistara,Bangalore,London,11.57,9918
+1090,Air India,Bangalore,Singapore,7.75,13179
+1091,Indigo,Chennai,New York,6.4,40046
+1092,SpiceJet,Chennai,New York,10.99,4560
+1093,SpiceJet,Mumbai,Singapore,5.55,2612
+1094,Air India,Bangalore,London,2.37,20550
+1095,Indigo,Mumbai,Singapore,14.97,21430
+1096,Air India,Bangalore,Singapore,14.06,27026
+1097,SpiceJet,Chennai,New York,7.4,29796
+1098,SpiceJet,Bangalore,London,11.12,48104
+1099,SpiceJet,Delhi,New York,12.44,27379
+1100,Vistara,Mumbai,New York,6.33,30912
+1101,SpiceJet,Mumbai,New York,3.54,34366
+1102,Air India,Bangalore,Dubai,3.23,33681
+1103,Vistara,Delhi,Dubai,13.29,31790
+1104,Indigo,Mumbai,London,14.86,29137
+1105,Indigo,Delhi,New York,7.28,35621
+1106,Air India,Mumbai,London,14.71,12079
+1107,Indigo,Chennai,Singapore,7.63,21073
+1108,Indigo,Bangalore,New York,7.34,45148
+1109,SpiceJet,Chennai,New York,4.76,35080
+1110,Indigo,Mumbai,Singapore,8.94,2367
+1111,Air India,Mumbai,Singapore,6.47,25797
+1112,Indigo,Chennai,Singapore,13.14,32043
+1113,Vistara,Mumbai,London,14.32,22057
+1114,Air India,Mumbai,New York,10.99,17153
+1115,Air India,Delhi,Singapore,7.13,38363
+1116,SpiceJet,Chennai,New York,6.12,8531
+1117,Indigo,Mumbai,Singapore,14.6,11604
+1118,Vistara,Bangalore,Dubai,10.52,14915
+1119,SpiceJet,Delhi,Singapore,9.77,2750
+1120,Vistara,Chennai,Dubai,1.01,2758
+1121,Air India,Bangalore,Dubai,14.8,39241
+1122,Vistara,Delhi,Dubai,5.73,14312
+1123,Vistara,Mumbai,Singapore,8.03,10865
+1124,Vistara,Delhi,New York,3.31,20832
+1125,Air India,Bangalore,London,14.51,13797
+1126,Air India,Delhi,New York,13.36,4413
+1127,SpiceJet,Mumbai,New York,6.54,31644
+1128,Indigo,Delhi,Singapore,12.16,25623
+1129,SpiceJet,Delhi,Singapore,14.96,28409
+1130,Indigo,Bangalore,London,13.2,36146
+1131,Indigo,Delhi,New York,2.44,20676
+1132,SpiceJet,Chennai,London,2.11,38771
+1133,Air India,Chennai,Singapore,5.83,5696
+1134,Vistara,Chennai,London,7.84,30902
+1135,Indigo,Mumbai,New York,4.27,38339
+1136,SpiceJet,Delhi,Singapore,3.22,48271
+1137,Indigo,Delhi,New York,4.24,21505
+1138,Air India,Mumbai,Dubai,14.41,49543
+1139,Indigo,Mumbai,London,12.34,18817
+1140,SpiceJet,Delhi,London,3.17,15339
+1141,Vistara,Delhi,Dubai,7.01,38302
+1142,SpiceJet,Chennai,New York,12.82,5002
+1143,Indigo,Delhi,Dubai,4.82,3034
+1144,Indigo,Mumbai,New York,8.3,48924
+1145,SpiceJet,Chennai,London,5.04,16803
+1146,Vistara,Chennai,London,14.0,45154
+1147,Vistara,Chennai,London,8.16,26035
+1148,Vistara,Bangalore,London,5.31,20094
+1149,Air India,Mumbai,Dubai,11.32,43030
+1150,Vistara,Mumbai,New York,4.3,9883
+1151,Air India,Chennai,New York,4.58,5605
+1152,Air India,Chennai,Singapore,13.96,8439
+1153,SpiceJet,Delhi,Dubai,13.48,32347
+1154,Air India,Mumbai,Dubai,3.45,16505
+1155,Indigo,Bangalore,New York,2.4,35602
+1156,SpiceJet,Delhi,New York,13.32,2192
+1157,Indigo,Delhi,Dubai,7.05,42097
+1158,Air India,Mumbai,Singapore,11.78,25246
+1159,Vistara,Bangalore,London,5.89,25713
+1160,Vistara,Delhi,Dubai,1.87,44561
+1161,SpiceJet,Mumbai,London,2.73,27952
+1162,Air India,Bangalore,Singapore,7.52,12082
+1163,Vistara,Chennai,Singapore,11.42,42039
+1164,Air India,Chennai,New York,13.77,19438
+1165,Air India,Chennai,New York,5.35,29414
+1166,Vistara,Bangalore,Singapore,6.9,7899
+1167,SpiceJet,Mumbai,Singapore,10.98,23224
+1168,Indigo,Delhi,London,10.67,49157
+1169,SpiceJet,Mumbai,Singapore,11.94,14095
+1170,Air India,Mumbai,New York,11.48,9165
+1171,SpiceJet,Chennai,New York,8.39,17795
+1172,Indigo,Bangalore,London,11.6,43745
+1173,Vistara,Delhi,Singapore,7.26,15190
+1174,Vistara,Bangalore,Singapore,11.92,16779
+1175,Indigo,Delhi,Dubai,7.44,36856
+1176,Vistara,Chennai,Dubai,2.55,3540
+1177,Indigo,Chennai,London,12.33,3117
+1178,Vistara,Mumbai,Dubai,3.21,6504
+1179,SpiceJet,Chennai,Singapore,8.61,3033
+1180,Vistara,Chennai,New York,11.26,37962
+1181,Vistara,Bangalore,Singapore,9.82,24858
+1182,SpiceJet,Bangalore,Singapore,8.85,18676
+1183,Indigo,Chennai,Dubai,14.68,7133
+1184,Indigo,Delhi,New York,4.69,24815
+1185,Indigo,Bangalore,Dubai,8.02,28734
+1186,Vistara,Delhi,London,11.4,3170
+1187,Indigo,Chennai,New York,14.73,2728
+1188,SpiceJet,Chennai,Singapore,4.31,23988
+1189,SpiceJet,Bangalore,New York,1.48,46753
+1190,SpiceJet,Delhi,New York,12.31,22552
+1191,SpiceJet,Chennai,London,10.03,24588
+1192,Indigo,Chennai,Singapore,7.25,44467
+1193,Air India,Bangalore,Singapore,13.78,24637
+1194,Air India,Delhi,London,14.69,7746
+1195,Air India,Mumbai,Dubai,6.22,19150
+1196,SpiceJet,Bangalore,New York,6.92,7083
+1197,Indigo,Bangalore,Dubai,8.85,38288
+1198,Indigo,Chennai,New York,6.41,46240
+1199,Air India,Bangalore,Dubai,7.22,35117
+1200,SpiceJet,Mumbai,Singapore,4.3,49201
+1201,Vistara,Delhi,Dubai,12.69,8392
+1202,Indigo,Chennai,Singapore,7.24,37107
+1203,Air India,Mumbai,Singapore,13.67,32104
+1204,Vistara,Delhi,London,12.5,26842
+1205,SpiceJet,Mumbai,New York,7.95,11931
+1206,SpiceJet,Bangalore,London,3.81,43810
+1207,Vistara,Bangalore,London,1.2,45394
+1208,Vistara,Bangalore,New York,4.91,28930
+1209,SpiceJet,Chennai,London,12.36,39246
+1210,Indigo,Mumbai,New York,8.76,25562
+1211,Air India,Bangalore,Dubai,11.78,21158
+1212,Vistara,Bangalore,Singapore,2.39,16353
+1213,Air India,Delhi,New York,11.56,43260
+1214,Vistara,Chennai,London,14.81,16395
+1215,SpiceJet,Bangalore,London,1.37,18456
+1216,Vistara,Mumbai,Dubai,2.87,8791
+1217,Indigo,Delhi,New York,12.96,8826
+1218,Indigo,Mumbai,Singapore,6.34,48560
+1219,Air India,Delhi,Singapore,5.5,3241
+1220,Air India,Bangalore,Singapore,12.89,45522
+1221,SpiceJet,Bangalore,Dubai,13.33,17310
+1222,Air India,Bangalore,New York,14.9,13362
+1223,Air India,Bangalore,New York,4.51,25479
+1224,Air India,Chennai,New York,9.11,38091
+1225,Indigo,Bangalore,Dubai,2.38,19152
+1226,Indigo,Bangalore,London,8.06,25111
+1227,Air India,Delhi,London,12.74,26284
+1228,Air India,Chennai,Singapore,5.66,23974
+1229,Indigo,Mumbai,Singapore,8.17,13672
+1230,Indigo,Chennai,New York,10.33,5504
+1231,Vistara,Mumbai,Dubai,2.0,23234
+1232,SpiceJet,Mumbai,Dubai,5.04,18843
+1233,SpiceJet,Delhi,Singapore,6.14,48292
+1234,SpiceJet,Delhi,London,13.82,30020
+1235,Air India,Bangalore,New York,10.74,23408
+1236,Vistara,Mumbai,London,9.72,43861
+1237,SpiceJet,Delhi,London,4.36,12435
+1238,Vistara,Chennai,Singapore,12.95,47010
+1239,Air India,Delhi,Singapore,4.16,15249
+1240,Air India,Bangalore,London,11.78,45885
+1241,SpiceJet,Delhi,New York,4.82,4851
+1242,Indigo,Bangalore,Dubai,14.27,2274
+1243,Indigo,Bangalore,Dubai,1.75,6877
+1244,SpiceJet,Mumbai,New York,2.57,23279
+1245,Vistara,Delhi,Dubai,13.5,26392
+1246,Vistara,Delhi,London,3.32,13767
+1247,SpiceJet,Delhi,Dubai,9.21,43471
+1248,Vistara,Chennai,New York,6.03,18142
+1249,Indigo,Delhi,Singapore,9.09,6725
+1250,Air India,Mumbai,New York,9.59,21094
+1251,Vistara,Chennai,Dubai,7.64,18765
+1252,Vistara,Chennai,London,7.96,28283
+1253,Air India,Bangalore,Dubai,11.32,28951
+1254,SpiceJet,Chennai,New York,3.56,22040
+1255,SpiceJet,Delhi,London,10.81,22869
+1256,Vistara,Delhi,New York,1.44,2541
+1257,Vistara,Chennai,Singapore,12.04,23462
+1258,SpiceJet,Delhi,New York,6.68,2893
+1259,SpiceJet,Delhi,Dubai,10.56,31991
+1260,SpiceJet,Bangalore,Singapore,3.09,27920
+1261,Air India,Chennai,Singapore,14.47,16615
+1262,SpiceJet,Mumbai,New York,13.91,4274
+1263,SpiceJet,Mumbai,Singapore,13.26,38079
+1264,SpiceJet,Chennai,Dubai,12.42,10037
+1265,Air India,Chennai,Singapore,11.51,16021
+1266,SpiceJet,Bangalore,New York,1.29,44506
+1267,Air India,Chennai,Singapore,7.57,11759
+1268,SpiceJet,Delhi,Dubai,3.92,39231
+1269,SpiceJet,Mumbai,London,2.03,44718
+1270,Vistara,Bangalore,London,10.76,19710
+1271,Vistara,Mumbai,Dubai,14.9,9791
+1272,Air India,Delhi,London,14.62,18030
+1273,SpiceJet,Mumbai,Dubai,6.49,2925
+1274,SpiceJet,Bangalore,Dubai,4.21,8044
+1275,Air India,Bangalore,Singapore,9.44,40305
+1276,Indigo,Mumbai,Singapore,2.9,2729
+1277,Indigo,Chennai,New York,12.45,26932
+1278,Indigo,Mumbai,London,13.54,26940
+1279,Indigo,Mumbai,London,9.57,24120
+1280,Indigo,Bangalore,Dubai,13.37,14091
+1281,Air India,Mumbai,Singapore,3.83,34809
+1282,Vistara,Delhi,New York,13.29,9019
+1283,Air India,Mumbai,Dubai,5.48,47146
+1284,SpiceJet,Mumbai,London,8.16,16342
+1285,Indigo,Mumbai,London,13.91,20034
+1286,SpiceJet,Mumbai,Dubai,8.06,33239
+1287,Air India,Delhi,New York,12.21,12852
+1288,Vistara,Mumbai,New York,4.0,16116
+1289,Vistara,Bangalore,London,1.67,28347
+1290,SpiceJet,Mumbai,Singapore,14.21,26713
+1291,Air India,Mumbai,Singapore,13.87,46053
+1292,SpiceJet,Mumbai,London,11.98,46572
+1293,Vistara,Delhi,New York,7.95,47191
+1294,SpiceJet,Delhi,New York,4.24,48967
+1295,Indigo,Mumbai,Singapore,1.57,14213
+1296,Vistara,Mumbai,Singapore,13.0,20155
+1297,Indigo,Delhi,Singapore,13.55,13736
+1298,Air India,Bangalore,Dubai,4.39,14122
+1299,Air India,Chennai,London,10.18,41218
+1300,Vistara,Mumbai,Singapore,8.08,48298
+1301,Indigo,Mumbai,Singapore,7.88,7802
+1302,SpiceJet,Bangalore,Singapore,7.75,36209
+1303,Vistara,Mumbai,Dubai,8.18,42149
+1304,Indigo,Chennai,New York,1.92,20491
+1305,Air India,Bangalore,New York,4.15,7418
+1306,Indigo,Bangalore,New York,4.31,16592
+1307,Vistara,Mumbai,Singapore,6.62,6178
+1308,Vistara,Chennai,Singapore,6.41,36638
+1309,Indigo,Mumbai,Dubai,14.74,17299
+1310,Indigo,Chennai,New York,13.96,47838
+1311,SpiceJet,Chennai,Dubai,10.77,28187
+1312,Indigo,Delhi,London,6.18,37004
+1313,Air India,Delhi,Dubai,8.89,28193
+1314,Vistara,Bangalore,New York,7.7,6716
+1315,SpiceJet,Mumbai,Singapore,6.17,40256
+1316,Indigo,Mumbai,Singapore,12.97,23251
+1317,Indigo,Delhi,Singapore,11.83,38649
+1318,Vistara,Delhi,Singapore,10.99,3266
+1319,Vistara,Mumbai,London,6.2,7392
+1320,Indigo,Mumbai,New York,6.65,9779
+1321,SpiceJet,Bangalore,Dubai,6.05,44105
+1322,Air India,Chennai,Singapore,10.63,2020
+1323,Air India,Delhi,London,11.31,10607
+1324,Air India,Bangalore,Singapore,12.32,43476
+1325,Indigo,Mumbai,London,8.94,20646
+1326,Air India,Mumbai,New York,5.16,24345
+1327,SpiceJet,Delhi,London,12.22,4749
+1328,Indigo,Mumbai,London,9.71,12317
+1329,Air India,Delhi,London,14.49,10698
+1330,Indigo,Bangalore,Dubai,6.22,20092
+1331,Vistara,Chennai,Singapore,3.29,39187
+1332,Indigo,Chennai,Dubai,12.73,3968
+1333,SpiceJet,Mumbai,Dubai,1.03,6044
+1334,Air India,Chennai,New York,3.24,15265
+1335,Air India,Delhi,New York,9.53,17171
+1336,Vistara,Delhi,London,10.67,29792
+1337,Indigo,Chennai,Dubai,4.54,14908
+1338,Air India,Delhi,New York,1.46,8279
+1339,Indigo,Delhi,London,8.76,31591
+1340,SpiceJet,Chennai,Singapore,11.91,16711
+1341,Air India,Bangalore,London,14.88,35587
+1342,Vistara,Chennai,Dubai,5.35,9404
+1343,Vistara,Chennai,Dubai,5.29,49716
+1344,SpiceJet,Bangalore,Dubai,10.9,9094
+1345,Vistara,Chennai,New York,12.0,28828
+1346,Air India,Chennai,London,5.02,26183
+1347,SpiceJet,Mumbai,New York,2.54,16639
+1348,SpiceJet,Mumbai,New York,4.51,46983
+1349,Air India,Mumbai,Dubai,4.5,48587
+1350,Vistara,Delhi,London,8.18,26967
+1351,SpiceJet,Delhi,London,3.71,34778
+1352,Vistara,Chennai,London,2.04,35936
+1353,Air India,Mumbai,Dubai,14.52,17893
+1354,Air India,Chennai,London,9.49,29512
+1355,Air India,Delhi,Dubai,1.24,48009
+1356,Vistara,Delhi,New York,11.01,14232
+1357,SpiceJet,Bangalore,Dubai,3.54,26197
+1358,Indigo,Delhi,Singapore,6.53,7543
+1359,Air India,Chennai,New York,8.68,5564
+1360,Indigo,Delhi,London,11.26,29826
+1361,Indigo,Mumbai,New York,14.48,3433
+1362,Vistara,Bangalore,London,4.52,22387
+1363,Vistara,Bangalore,New York,1.56,41812
+1364,Indigo,Chennai,New York,3.8,20173
+1365,Vistara,Delhi,New York,5.61,3124
+1366,SpiceJet,Chennai,London,4.04,31473
+1367,Indigo,Mumbai,Dubai,6.91,10446
+1368,Vistara,Mumbai,Dubai,6.99,46526
+1369,Indigo,Chennai,Dubai,14.28,44229
+1370,Indigo,Delhi,London,14.3,16814
+1371,SpiceJet,Delhi,London,7.13,17463
+1372,Vistara,Chennai,New York,6.09,27096
+1373,Air India,Mumbai,New York,13.38,22561
+1374,Air India,Delhi,Singapore,10.81,36957
+1375,Indigo,Chennai,Singapore,13.42,24399
+1376,SpiceJet,Chennai,London,6.92,2141
+1377,Air India,Bangalore,London,1.3,7572
+1378,Air India,Delhi,New York,5.18,27260
+1379,Vistara,Mumbai,Dubai,3.82,44471
+1380,SpiceJet,Delhi,Dubai,9.69,5299
+1381,Vistara,Mumbai,Singapore,9.26,17882
+1382,SpiceJet,Delhi,New York,2.54,39437
+1383,Air India,Bangalore,New York,12.22,44442
+1384,Indigo,Chennai,Dubai,10.54,14021
+1385,Air India,Bangalore,New York,6.8,26285
+1386,SpiceJet,Delhi,Dubai,7.14,17370
+1387,Vistara,Bangalore,New York,7.54,21102
+1388,Vistara,Delhi,London,10.57,9900
+1389,Indigo,Delhi,New York,7.82,30004
+1390,Vistara,Chennai,New York,13.62,30792
+1391,Air India,Mumbai,Singapore,9.78,32203
+1392,SpiceJet,Bangalore,New York,6.07,21276
+1393,Vistara,Mumbai,New York,11.88,36409
+1394,SpiceJet,Bangalore,New York,9.12,34233
+1395,Vistara,Delhi,New York,3.64,12236
+1396,Vistara,Chennai,Singapore,10.29,20200
+1397,SpiceJet,Mumbai,New York,13.55,40752
+1398,Air India,Chennai,Dubai,7.46,13974
+1399,SpiceJet,Delhi,New York,9.11,27882
+1400,Indigo,Mumbai,New York,2.04,45027
+1401,SpiceJet,Chennai,Dubai,1.79,2759
+1402,Vistara,Delhi,London,4.59,42285
+1403,SpiceJet,Bangalore,London,14.31,3598
+1404,Indigo,Bangalore,Singapore,2.47,43503
+1405,Air India,Bangalore,New York,5.45,44119
+1406,Vistara,Bangalore,London,10.21,36200
+1407,Indigo,Delhi,New York,13.5,45995
+1408,Indigo,Delhi,London,14.43,18403
+1409,Vistara,Mumbai,Dubai,9.97,11105
+1410,Indigo,Mumbai,London,1.63,22367
+1411,Air India,Bangalore,New York,7.15,24161
+1412,Air India,Chennai,Dubai,13.58,20429
+1413,SpiceJet,Bangalore,London,5.3,7315
+1414,Air India,Chennai,New York,1.08,34685
+1415,Air India,Delhi,Singapore,13.93,42535
+1416,Indigo,Chennai,Dubai,13.47,46870
+1417,SpiceJet,Mumbai,Singapore,11.2,43330
+1418,Air India,Mumbai,New York,3.33,43631
+1419,Indigo,Delhi,New York,11.05,14983
+1420,Air India,Bangalore,New York,2.76,7307
+1421,Air India,Chennai,New York,4.48,35882
+1422,Vistara,Chennai,London,1.34,49042
+1423,Indigo,Bangalore,New York,4.01,6172
+1424,Indigo,Mumbai,Singapore,13.42,43730
+1425,Indigo,Mumbai,Dubai,11.45,32151
+1426,SpiceJet,Chennai,Singapore,10.48,36689
+1427,SpiceJet,Delhi,Dubai,9.42,41617
+1428,SpiceJet,Delhi,Dubai,4.06,8630
+1429,Vistara,Mumbai,Singapore,2.21,27646
+1430,Indigo,Mumbai,Singapore,4.55,16326
+1431,Vistara,Delhi,Singapore,13.02,6550
+1432,SpiceJet,Delhi,Dubai,8.23,25505
+1433,SpiceJet,Delhi,Singapore,1.98,36778
+1434,Air India,Bangalore,London,4.98,43121
+1435,Air India,Bangalore,London,7.32,21316
+1436,Indigo,Delhi,Dubai,3.46,40355
+1437,SpiceJet,Mumbai,Singapore,2.5,15781
+1438,Indigo,Delhi,New York,7.85,33934
+1439,SpiceJet,Bangalore,Dubai,13.26,6314
+1440,Indigo,Mumbai,Singapore,4.24,42166
+1441,SpiceJet,Delhi,Dubai,7.08,5814
+1442,SpiceJet,Delhi,New York,12.17,13375
+1443,SpiceJet,Chennai,New York,8.91,42315
+1444,Indigo,Mumbai,Singapore,9.83,18247
+1445,Indigo,Chennai,Singapore,11.01,45325
+1446,Vistara,Chennai,New York,12.4,17620
+1447,SpiceJet,Bangalore,London,1.75,32577
+1448,Vistara,Chennai,London,8.99,2683
+1449,Indigo,Mumbai,Dubai,2.22,47595
+1450,SpiceJet,Chennai,London,3.24,46558
+1451,Vistara,Mumbai,Singapore,1.72,45531
+1452,Vistara,Mumbai,Dubai,3.45,33092
+1453,Vistara,Chennai,New York,13.23,44091
+1454,SpiceJet,Bangalore,New York,3.37,43266
+1455,Indigo,Chennai,Dubai,1.3,28487
+1456,Vistara,Bangalore,Singapore,4.56,35090
+1457,Indigo,Chennai,London,11.77,32183
+1458,Air India,Bangalore,New York,8.42,48859
+1459,SpiceJet,Bangalore,New York,8.62,16100
+1460,SpiceJet,Mumbai,Singapore,10.25,13618
+1461,Indigo,Chennai,London,5.39,8310
+1462,Air India,Mumbai,London,12.05,20980
+1463,Indigo,Mumbai,Dubai,7.9,44532
+1464,SpiceJet,Delhi,London,5.32,2061
+1465,Vistara,Delhi,New York,4.67,27477
+1466,Vistara,Delhi,Dubai,14.76,23462
+1467,Air India,Bangalore,London,12.02,47276
+1468,SpiceJet,Bangalore,Singapore,8.78,15063
+1469,Indigo,Mumbai,Singapore,8.19,15524
+1470,Indigo,Chennai,Dubai,9.5,38352
+1471,Vistara,Chennai,Singapore,1.34,48954
+1472,SpiceJet,Bangalore,New York,2.17,28858
+1473,Vistara,Chennai,New York,10.08,17581
+1474,Vistara,Delhi,New York,10.42,44400
+1475,Indigo,Delhi,New York,13.45,23184
+1476,Vistara,Delhi,New York,9.62,31986
+1477,Air India,Bangalore,Dubai,11.4,14389
+1478,Indigo,Bangalore,Singapore,8.91,3881
+1479,Air India,Delhi,New York,6.62,12478
+1480,Indigo,Delhi,New York,7.39,9333
+1481,SpiceJet,Bangalore,Singapore,14.35,15928
+1482,Indigo,Mumbai,Dubai,14.06,30158
+1483,Vistara,Mumbai,London,13.36,42759
+1484,Air India,Bangalore,Dubai,9.02,27657
+1485,Air India,Bangalore,London,4.0,30105
+1486,SpiceJet,Chennai,Singapore,2.1,30816
+1487,SpiceJet,Chennai,London,13.74,18366
+1488,SpiceJet,Delhi,London,2.44,26180
+1489,Indigo,Chennai,Singapore,5.98,5633
+1490,Vistara,Chennai,New York,12.38,28530
+1491,Air India,Bangalore,New York,3.89,20471
+1492,Air India,Chennai,London,12.16,38080
+1493,Vistara,Delhi,Singapore,4.32,21048
+1494,Indigo,Bangalore,New York,11.98,16298
+1495,SpiceJet,Delhi,New York,10.96,18623
+1496,Vistara,Mumbai,London,5.01,4464
+1497,Vistara,Bangalore,New York,5.72,36720
+1498,SpiceJet,Delhi,London,6.08,48752
+1499,Air India,Mumbai,Singapore,9.09,38003
+1500,SpiceJet,Mumbai,London,13.69,18338
+1501,SpiceJet,Chennai,London,8.65,35557
+1502,Air India,Mumbai,London,6.83,13776
+1503,SpiceJet,Chennai,Singapore,6.47,5090
+1504,SpiceJet,Bangalore,Dubai,3.46,30731
+1505,Air India,Bangalore,London,10.38,42087
+1506,Air India,Bangalore,Dubai,7.94,42514
+1507,Vistara,Mumbai,Dubai,13.53,26899
+1508,SpiceJet,Bangalore,London,8.22,4145
+1509,Vistara,Delhi,London,14.38,34928
+1510,Vistara,Bangalore,New York,7.16,36249
+1511,SpiceJet,Bangalore,Dubai,8.22,30401
+1512,SpiceJet,Mumbai,Dubai,3.55,24571
+1513,Vistara,Mumbai,Singapore,12.05,18056
+1514,Vistara,Chennai,Dubai,1.4,11246
+1515,SpiceJet,Chennai,Singapore,3.51,3736
+1516,SpiceJet,Delhi,New York,5.41,11422
+1517,Vistara,Mumbai,London,12.75,24871
+1518,Indigo,Delhi,Dubai,9.56,18462
+1519,Vistara,Delhi,London,5.3,4442
+1520,Indigo,Bangalore,Singapore,13.81,17221
+1521,Indigo,Bangalore,Dubai,12.64,42867
+1522,SpiceJet,Chennai,Dubai,1.43,2460
+1523,Indigo,Delhi,New York,4.39,44031
+1524,SpiceJet,Mumbai,London,10.76,6635
+1525,Vistara,Chennai,London,13.19,19366
+1526,Vistara,Delhi,London,11.39,48511
+1527,Vistara,Chennai,Dubai,13.37,37494
+1528,Air India,Mumbai,Dubai,2.76,26317
+1529,Vistara,Mumbai,Singapore,1.11,35470
+1530,Indigo,Chennai,New York,7.18,5457
+1531,Air India,Delhi,New York,1.89,28776
+1532,Indigo,Mumbai,London,10.27,3473
+1533,Indigo,Chennai,Dubai,13.82,18714
+1534,SpiceJet,Bangalore,Singapore,6.87,40663
+1535,Vistara,Chennai,Singapore,9.11,48088
+1536,Vistara,Bangalore,Singapore,6.43,25437
+1537,Air India,Delhi,Dubai,3.3,26376
+1538,Vistara,Chennai,New York,2.65,37288
+1539,SpiceJet,Bangalore,Singapore,11.02,41681
+1540,Indigo,Delhi,Dubai,13.66,15196
+1541,Air India,Mumbai,Dubai,6.11,43347
+1542,Air India,Mumbai,London,2.9,23239
+1543,Indigo,Mumbai,Dubai,12.61,42445
+1544,Vistara,Chennai,Dubai,4.67,8206
+1545,Air India,Bangalore,London,11.74,47106
+1546,SpiceJet,Bangalore,Singapore,10.13,33623
+1547,Indigo,Bangalore,Singapore,5.34,2674
+1548,SpiceJet,Bangalore,Dubai,8.16,27853
+1549,Vistara,Mumbai,Singapore,6.18,45818
+1550,Air India,Bangalore,London,2.76,15057
+1551,Air India,Bangalore,London,4.14,45638
+1552,Air India,Mumbai,Singapore,9.01,42652
+1553,Vistara,Bangalore,Singapore,11.92,25836
+1554,SpiceJet,Chennai,Singapore,2.28,16442
+1555,SpiceJet,Delhi,Dubai,3.78,38954
+1556,Vistara,Bangalore,London,1.16,9434
+1557,Indigo,Chennai,Dubai,14.78,30723
+1558,Vistara,Delhi,New York,2.49,35898
+1559,Vistara,Mumbai,New York,6.32,44514
+1560,Air India,Mumbai,London,1.78,39201
+1561,Air India,Bangalore,London,8.01,7190
+1562,Air India,Chennai,Singapore,9.85,34277
+1563,SpiceJet,Mumbai,London,8.34,49969
+1564,Air India,Bangalore,Dubai,10.49,19777
+1565,Air India,Mumbai,Dubai,4.02,19335
+1566,Indigo,Mumbai,London,13.8,6061
+1567,Indigo,Chennai,New York,11.75,23502
+1568,SpiceJet,Delhi,London,3.65,35894
+1569,Indigo,Chennai,London,7.34,29466
+1570,SpiceJet,Chennai,New York,1.28,40380
+1571,Vistara,Bangalore,Singapore,12.61,4936
+1572,Indigo,Bangalore,Dubai,13.55,7142
+1573,Indigo,Bangalore,New York,8.33,11641
+1574,Indigo,Mumbai,Singapore,6.03,29251
+1575,Indigo,Delhi,Singapore,12.19,41867
+1576,Air India,Delhi,London,5.96,37289
+1577,Vistara,Mumbai,New York,1.66,45320
+1578,Air India,Chennai,Singapore,10.3,28167
+1579,Air India,Delhi,London,6.69,23813
+1580,Vistara,Chennai,Dubai,14.96,37578
+1581,Air India,Bangalore,London,8.19,45748
+1582,Indigo,Chennai,Singapore,2.62,35418
+1583,Air India,Bangalore,Dubai,11.97,43062
+1584,Air India,Bangalore,New York,14.44,7421
+1585,Vistara,Delhi,Singapore,2.69,23673
+1586,Indigo,Mumbai,Singapore,5.49,23532
+1587,SpiceJet,Bangalore,London,7.79,20372
+1588,Indigo,Bangalore,New York,10.9,43637
+1589,Vistara,Delhi,Dubai,10.85,36055
+1590,Vistara,Chennai,Dubai,9.74,17232
+1591,Indigo,Bangalore,Dubai,13.09,26234
+1592,SpiceJet,Mumbai,Singapore,11.31,21299
+1593,Air India,Delhi,Singapore,1.32,43833
+1594,Air India,Delhi,New York,14.57,17282
+1595,Indigo,Delhi,Singapore,12.6,7751
+1596,Air India,Delhi,Dubai,10.44,24419
+1597,Indigo,Mumbai,Dubai,11.97,41784
+1598,Indigo,Chennai,Singapore,12.56,33871
+1599,Vistara,Mumbai,Singapore,1.7,33852
+1600,Air India,Delhi,Singapore,9.89,31123
+1601,Air India,Delhi,Singapore,2.98,40829
+1602,Vistara,Delhi,London,4.61,43966
+1603,Air India,Chennai,London,12.49,7097
+1604,Indigo,Mumbai,Singapore,8.67,18039
+1605,Air India,Chennai,Singapore,5.21,18006
+1606,Air India,Delhi,Dubai,3.68,17191
+1607,Indigo,Mumbai,Dubai,7.7,20738
+1608,Air India,Mumbai,London,2.48,25009
+1609,SpiceJet,Mumbai,New York,6.38,47765
+1610,Vistara,Mumbai,London,13.01,22002
+1611,Vistara,Delhi,Singapore,6.19,8923
+1612,Vistara,Mumbai,Dubai,8.24,29624
+1613,SpiceJet,Mumbai,New York,14.28,12847
+1614,SpiceJet,Mumbai,London,6.08,14080
+1615,Air India,Chennai,New York,4.89,28470
+1616,Air India,Bangalore,London,6.83,22511
+1617,Air India,Delhi,New York,6.44,44282
+1618,Vistara,Bangalore,Singapore,14.44,15252
+1619,SpiceJet,Bangalore,New York,1.19,15541
+1620,Air India,Delhi,Singapore,3.11,20985
+1621,Indigo,Bangalore,Singapore,11.97,6253
+1622,SpiceJet,Bangalore,London,1.04,4361
+1623,SpiceJet,Mumbai,New York,7.12,14916
+1624,Air India,Bangalore,London,10.75,23047
+1625,Vistara,Bangalore,London,1.79,41892
+1626,Indigo,Chennai,London,5.45,13428
+1627,Indigo,Mumbai,New York,4.91,35116
+1628,SpiceJet,Mumbai,Dubai,8.17,7970
+1629,Air India,Delhi,New York,9.72,44918
+1630,Indigo,Delhi,Dubai,11.66,2306
+1631,Indigo,Mumbai,New York,2.35,19746
+1632,Indigo,Chennai,New York,4.41,25071
+1633,Air India,Mumbai,Dubai,11.62,15485
+1634,SpiceJet,Delhi,Dubai,13.22,14632
+1635,Air India,Bangalore,Dubai,5.53,11646
+1636,SpiceJet,Bangalore,Singapore,1.82,15856
+1637,Air India,Bangalore,London,2.93,11844
+1638,SpiceJet,Chennai,London,12.08,41867
+1639,Air India,Chennai,Singapore,2.85,3916
+1640,Vistara,Bangalore,Dubai,4.01,39533
+1641,Vistara,Chennai,Singapore,3.67,36205
+1642,Indigo,Mumbai,Dubai,6.8,13509
+1643,Vistara,Bangalore,New York,9.98,19483
+1644,SpiceJet,Chennai,London,2.92,24765
+1645,Indigo,Mumbai,New York,7.61,11565
+1646,Air India,Mumbai,Singapore,14.0,47011
+1647,Indigo,Chennai,Singapore,7.93,40455
+1648,Vistara,Mumbai,Dubai,7.83,35644
+1649,Indigo,Delhi,London,11.26,36757
+1650,Air India,Chennai,Dubai,8.79,2264
+1651,SpiceJet,Mumbai,Dubai,7.19,46828
+1652,Air India,Delhi,Dubai,12.78,30747
+1653,Vistara,Chennai,Singapore,2.97,4327
+1654,Vistara,Bangalore,New York,3.88,29350
+1655,Air India,Delhi,London,14.83,6060
+1656,Air India,Bangalore,Dubai,4.7,47180
+1657,Air India,Bangalore,New York,2.09,38336
+1658,Air India,Mumbai,Singapore,3.3,19492
+1659,Air India,Bangalore,New York,14.22,11016
+1660,SpiceJet,Mumbai,Singapore,3.58,40546
+1661,Air India,Chennai,New York,8.45,42963
+1662,SpiceJet,Delhi,London,11.27,13641
+1663,Indigo,Bangalore,Singapore,1.36,20413
+1664,Indigo,Chennai,London,4.95,12689
+1665,Indigo,Mumbai,Dubai,11.3,25875
+1666,Indigo,Delhi,London,4.84,25921
+1667,Air India,Mumbai,New York,5.97,34150
+1668,SpiceJet,Bangalore,Singapore,8.84,8858
+1669,Indigo,Chennai,New York,12.22,21643
+1670,Indigo,Chennai,London,5.4,5234
+1671,Indigo,Chennai,Singapore,3.28,10838
+1672,Indigo,Chennai,Dubai,1.38,39329
+1673,Air India,Chennai,London,4.84,26009
+1674,Air India,Delhi,Singapore,10.34,37383
+1675,Air India,Chennai,London,13.78,28287
+1676,Vistara,Delhi,Singapore,8.04,27619
+1677,Indigo,Delhi,Singapore,3.06,34737
+1678,Air India,Chennai,London,9.68,36583
+1679,Indigo,Delhi,Singapore,2.35,40304
+1680,Vistara,Chennai,Dubai,2.82,33659
+1681,Air India,Delhi,Dubai,2.95,44593
+1682,SpiceJet,Mumbai,Singapore,13.97,10776
+1683,SpiceJet,Bangalore,Dubai,9.68,11491
+1684,Air India,Chennai,Dubai,1.11,19283
+1685,Air India,Mumbai,London,14.02,21766
+1686,Indigo,Mumbai,Dubai,6.45,37626
+1687,Vistara,Chennai,New York,3.33,42637
+1688,Air India,Delhi,New York,10.48,26977
+1689,SpiceJet,Mumbai,Singapore,8.18,24682
+1690,Air India,Bangalore,New York,9.78,40411
+1691,Indigo,Mumbai,London,7.18,18358
+1692,Air India,Bangalore,Singapore,4.09,41638
+1693,Indigo,Bangalore,Dubai,1.08,31361
+1694,Vistara,Bangalore,Singapore,10.25,48658
+1695,Indigo,Bangalore,New York,7.75,42213
+1696,Indigo,Delhi,Singapore,6.99,35352
+1697,Indigo,Chennai,London,9.67,17349
+1698,Indigo,Delhi,New York,7.98,17510
+1699,SpiceJet,Mumbai,London,13.83,42484
+1700,Vistara,Mumbai,Dubai,11.23,23628
+1701,Indigo,Mumbai,Dubai,13.99,33951
+1702,Indigo,Chennai,Singapore,4.26,34693
+1703,SpiceJet,Chennai,Dubai,9.71,34961
+1704,Air India,Mumbai,Dubai,13.7,42458
+1705,SpiceJet,Mumbai,London,11.76,49829
+1706,Indigo,Bangalore,New York,6.45,45703
+1707,SpiceJet,Bangalore,Dubai,11.37,47419
+1708,Vistara,Delhi,Singapore,9.17,26528
+1709,SpiceJet,Chennai,Dubai,5.16,38196
+1710,Vistara,Bangalore,London,11.32,10653
+1711,Air India,Bangalore,Dubai,2.39,18601
+1712,Indigo,Mumbai,New York,2.37,35581
+1713,Air India,Bangalore,Singapore,3.74,8731
+1714,SpiceJet,Bangalore,Singapore,3.11,9471
+1715,Vistara,Delhi,London,13.19,18366
+1716,Indigo,Bangalore,London,4.22,36162
+1717,SpiceJet,Mumbai,Dubai,14.61,35604
+1718,Indigo,Delhi,London,1.63,10104
+1719,SpiceJet,Chennai,Singapore,2.04,48186
+1720,SpiceJet,Delhi,Dubai,6.89,37969
+1721,Air India,Bangalore,Singapore,9.72,6003
+1722,Vistara,Mumbai,Dubai,9.85,15070
+1723,Air India,Bangalore,Singapore,2.57,25644
+1724,Vistara,Chennai,London,8.41,4896
+1725,Vistara,Chennai,Dubai,3.56,21518
+1726,Vistara,Mumbai,Dubai,4.4,30645
+1727,Air India,Delhi,Singapore,4.47,30411
+1728,Air India,Bangalore,Dubai,4.78,41683
+1729,Vistara,Delhi,London,13.15,43959
+1730,Air India,Chennai,Singapore,12.25,47685
+1731,Air India,Delhi,London,3.16,23694
+1732,Air India,Bangalore,New York,10.59,32643
+1733,SpiceJet,Mumbai,London,4.22,31720
+1734,Vistara,Mumbai,Singapore,1.23,7443
+1735,Vistara,Bangalore,Singapore,1.92,39395
+1736,SpiceJet,Bangalore,New York,11.52,17228
+1737,Indigo,Delhi,Dubai,10.48,41314
+1738,SpiceJet,Bangalore,Singapore,8.42,11653
+1739,Vistara,Delhi,Dubai,2.82,18259
+1740,Vistara,Chennai,London,12.21,4732
+1741,Indigo,Delhi,London,8.14,42465
+1742,SpiceJet,Chennai,Singapore,9.06,45308
+1743,Vistara,Bangalore,Dubai,12.46,45707
+1744,Indigo,Chennai,London,5.23,46981
+1745,Indigo,Delhi,New York,5.37,29684
+1746,Indigo,Bangalore,New York,2.44,37241
+1747,Air India,Chennai,New York,5.67,8329
+1748,Vistara,Bangalore,Singapore,12.39,8391
+1749,Indigo,Mumbai,London,9.74,30686
+1750,Air India,Mumbai,New York,4.7,32771
+1751,Vistara,Delhi,Dubai,4.84,8717
+1752,Indigo,Delhi,London,10.11,44906
+1753,Indigo,Chennai,Singapore,12.86,32379
+1754,Air India,Chennai,London,6.73,20446
+1755,Vistara,Delhi,New York,1.01,38932
+1756,SpiceJet,Mumbai,Singapore,14.26,8741
+1757,SpiceJet,Bangalore,Singapore,13.36,39866
+1758,Air India,Mumbai,Singapore,9.83,4434
+1759,Indigo,Bangalore,London,1.58,14557
+1760,SpiceJet,Chennai,Dubai,7.29,4133
+1761,Air India,Chennai,Dubai,5.11,47581
+1762,SpiceJet,Chennai,Singapore,2.18,30134
+1763,Air India,Mumbai,Singapore,6.69,38424
+1764,Indigo,Bangalore,New York,8.12,47364
+1765,SpiceJet,Mumbai,Singapore,8.12,21555
+1766,SpiceJet,Mumbai,New York,4.93,11912
+1767,Indigo,Bangalore,New York,4.46,43381
+1768,Air India,Bangalore,Singapore,12.4,49749
+1769,SpiceJet,Chennai,New York,2.53,18488
+1770,Air India,Chennai,London,8.41,2777
+1771,Indigo,Chennai,Dubai,8.79,5890
+1772,SpiceJet,Mumbai,Dubai,3.48,4534
+1773,Indigo,Delhi,Singapore,1.31,4567
+1774,Air India,Chennai,London,8.04,46905
+1775,SpiceJet,Bangalore,New York,8.56,22376
+1776,Indigo,Mumbai,Dubai,3.18,30263
+1777,Air India,Mumbai,Dubai,1.06,13065
+1778,SpiceJet,Mumbai,Dubai,8.29,10266
+1779,SpiceJet,Bangalore,New York,1.25,36994
+1780,Indigo,Bangalore,London,6.84,13324
+1781,SpiceJet,Delhi,Singapore,11.78,21668
+1782,SpiceJet,Chennai,Singapore,12.82,14049
+1783,Air India,Delhi,Singapore,9.16,8075
+1784,Vistara,Delhi,New York,9.46,31923
+1785,Vistara,Chennai,London,2.95,36858
+1786,Vistara,Bangalore,London,8.06,34074
+1787,SpiceJet,Delhi,New York,4.36,30901
+1788,SpiceJet,Delhi,New York,12.55,6364
+1789,Air India,Mumbai,London,6.39,15511
+1790,Air India,Bangalore,London,9.76,15317
+1791,Vistara,Chennai,Singapore,11.63,33144
+1792,Air India,Delhi,London,7.13,21907
+1793,Air India,Delhi,Singapore,14.07,3357
+1794,Vistara,Mumbai,Singapore,8.4,22288
+1795,Indigo,Mumbai,Singapore,4.82,2620
+1796,Vistara,Mumbai,Singapore,13.02,2336
+1797,Air India,Bangalore,Singapore,10.37,15403
+1798,Vistara,Mumbai,Dubai,1.18,30975
+1799,SpiceJet,Chennai,Dubai,4.61,15822
+1800,Air India,Bangalore,New York,11.61,21692
+1801,Indigo,Mumbai,London,10.26,31148
+1802,Vistara,Mumbai,New York,7.7,47316
+1803,SpiceJet,Bangalore,Singapore,14.31,4220
+1804,SpiceJet,Mumbai,Dubai,5.76,38749
+1805,Air India,Mumbai,Dubai,10.78,26140
+1806,Air India,Chennai,London,5.91,27632
+1807,Vistara,Bangalore,London,4.77,18159
+1808,Air India,Bangalore,New York,3.96,22564
+1809,SpiceJet,Mumbai,Singapore,2.26,4282
+1810,Indigo,Chennai,London,2.77,45346
+1811,SpiceJet,Chennai,London,3.48,41285
+1812,Vistara,Chennai,Dubai,5.18,30376
+1813,SpiceJet,Delhi,New York,14.41,32153
+1814,Air India,Bangalore,New York,3.19,37727
+1815,Air India,Chennai,New York,7.19,6842
+1816,Vistara,Bangalore,Singapore,3.71,46717
+1817,Indigo,Delhi,New York,6.94,40537
+1818,Vistara,Bangalore,Dubai,1.43,49670
+1819,Air India,Mumbai,New York,4.82,8494
+1820,Vistara,Chennai,Singapore,4.54,18515
+1821,Indigo,Mumbai,Dubai,8.46,44089
+1822,SpiceJet,Chennai,Singapore,1.16,38536
+1823,Indigo,Chennai,Dubai,7.89,20231
+1824,SpiceJet,Chennai,Dubai,2.24,5244
+1825,Indigo,Mumbai,New York,13.17,28235
+1826,SpiceJet,Delhi,New York,6.96,14298
+1827,Air India,Mumbai,New York,11.7,38374
+1828,Vistara,Bangalore,Dubai,12.65,29534
+1829,Vistara,Bangalore,New York,5.42,46693
+1830,SpiceJet,Delhi,Singapore,12.28,26629
+1831,Air India,Delhi,Dubai,8.64,40158
+1832,Vistara,Bangalore,Singapore,12.41,7986
+1833,Indigo,Mumbai,London,12.2,14688
+1834,Indigo,Bangalore,Dubai,3.21,48745
+1835,Indigo,Chennai,Singapore,10.18,22678
+1836,Indigo,Bangalore,Singapore,6.71,26237
+1837,SpiceJet,Chennai,London,1.4,47057
+1838,Air India,Chennai,New York,4.27,14630
+1839,SpiceJet,Delhi,New York,3.95,38449
+1840,SpiceJet,Mumbai,Dubai,8.74,44357
+1841,Air India,Delhi,New York,5.99,14777
+1842,Vistara,Mumbai,Dubai,3.48,28669
+1843,Indigo,Chennai,Singapore,12.03,38100
+1844,Air India,Chennai,New York,3.28,7960
+1845,Air India,Bangalore,Dubai,11.41,33683
+1846,Indigo,Delhi,New York,10.96,40201
+1847,Indigo,Delhi,New York,3.43,37646
+1848,Indigo,Mumbai,London,10.76,5444
+1849,Vistara,Chennai,New York,10.66,8358
+1850,Vistara,Chennai,Dubai,10.43,7267
+1851,Indigo,Mumbai,Singapore,14.46,44696
+1852,Indigo,Bangalore,London,14.03,9618
+1853,SpiceJet,Bangalore,New York,7.25,36918
+1854,Indigo,Delhi,New York,5.39,8601
+1855,Air India,Chennai,Dubai,2.59,2187
+1856,SpiceJet,Chennai,London,5.58,15907
+1857,Vistara,Delhi,New York,10.09,17312
+1858,Air India,Delhi,New York,12.68,20820
+1859,SpiceJet,Chennai,Dubai,3.06,28428
+1860,Indigo,Delhi,New York,8.28,5019
+1861,Vistara,Chennai,Dubai,3.19,9189
+1862,Vistara,Chennai,Dubai,13.24,14259
+1863,Vistara,Bangalore,London,13.78,32536
+1864,SpiceJet,Delhi,London,2.19,13141
+1865,Indigo,Delhi,Dubai,2.12,40563
+1866,Vistara,Delhi,London,12.7,30277
+1867,Air India,Mumbai,New York,7.12,24380
+1868,Indigo,Mumbai,New York,6.06,6856
+1869,Air India,Delhi,London,14.77,19801
+1870,SpiceJet,Bangalore,Dubai,13.69,23169
+1871,Indigo,Chennai,Singapore,4.37,47463
+1872,SpiceJet,Delhi,London,4.66,48139
+1873,Vistara,Bangalore,London,13.94,9634
+1874,Air India,Bangalore,London,14.03,31332
+1875,SpiceJet,Bangalore,London,7.18,27671
+1876,Vistara,Chennai,London,6.86,33732
+1877,SpiceJet,Chennai,Singapore,11.97,42682
+1878,SpiceJet,Chennai,Dubai,2.82,16983
+1879,Indigo,Chennai,Singapore,5.36,29697
+1880,Air India,Mumbai,Dubai,2.11,48474
+1881,Air India,Delhi,London,3.2,26083
+1882,SpiceJet,Mumbai,Dubai,2.93,10001
+1883,Indigo,Bangalore,Singapore,5.59,13253
+1884,Air India,Mumbai,Dubai,11.55,25005
+1885,Air India,Mumbai,New York,14.02,21320
+1886,Vistara,Chennai,New York,3.73,15782
+1887,Air India,Mumbai,London,3.48,31936
+1888,Vistara,Delhi,Singapore,8.66,44744
+1889,Indigo,Mumbai,Singapore,10.36,3792
+1890,SpiceJet,Delhi,New York,11.82,11883
+1891,SpiceJet,Delhi,New York,8.57,38888
+1892,Air India,Delhi,New York,13.54,17946
+1893,Air India,Chennai,New York,3.31,42537
+1894,SpiceJet,Delhi,New York,7.52,17540
+1895,Vistara,Delhi,Dubai,2.87,39003
+1896,Air India,Bangalore,Dubai,14.74,49359
+1897,Vistara,Chennai,New York,14.82,7994
+1898,SpiceJet,Delhi,Dubai,9.76,12256
+1899,Air India,Mumbai,London,12.34,15104
+1900,SpiceJet,Bangalore,Dubai,8.98,40364
+1901,Indigo,Bangalore,Singapore,14.4,40644
+1902,Vistara,Chennai,London,11.81,21372
+1903,Indigo,Mumbai,Dubai,8.29,7128
+1904,Indigo,Bangalore,London,7.53,15619
+1905,Air India,Chennai,Singapore,10.8,21771
+1906,SpiceJet,Mumbai,New York,3.09,2416
+1907,Vistara,Mumbai,Singapore,6.87,12020
+1908,Vistara,Bangalore,London,2.18,30586
+1909,Indigo,Mumbai,New York,6.65,15120
+1910,Air India,Mumbai,Dubai,13.78,10222
+1911,Indigo,Chennai,Singapore,8.06,44098
+1912,Vistara,Delhi,Dubai,11.24,36269
+1913,Vistara,Chennai,New York,2.25,29461
+1914,SpiceJet,Mumbai,New York,1.63,14483
+1915,Air India,Mumbai,New York,3.99,35628
+1916,Vistara,Delhi,New York,12.18,8158
+1917,SpiceJet,Bangalore,London,4.06,45032
+1918,Indigo,Chennai,Singapore,3.03,24402
+1919,Vistara,Mumbai,New York,11.28,47864
+1920,SpiceJet,Chennai,New York,8.99,30557
+1921,Air India,Bangalore,Singapore,3.28,32536
+1922,Indigo,Mumbai,Singapore,8.12,49122
+1923,Indigo,Mumbai,Dubai,4.26,18851
+1924,Air India,Bangalore,New York,6.33,2380
+1925,SpiceJet,Mumbai,New York,8.35,44188
+1926,Air India,Chennai,New York,14.61,29406
+1927,Air India,Mumbai,Singapore,6.36,35805
+1928,Vistara,Chennai,Dubai,3.11,29310
+1929,SpiceJet,Mumbai,Dubai,10.38,4206
+1930,SpiceJet,Delhi,Singapore,12.85,39602
+1931,Indigo,Chennai,New York,12.51,34043
+1932,Air India,Mumbai,Singapore,4.57,25456
+1933,SpiceJet,Bangalore,New York,13.6,41630
+1934,Indigo,Delhi,New York,2.88,41988
+1935,SpiceJet,Delhi,London,2.89,39088
+1936,Air India,Delhi,Dubai,11.65,33541
+1937,Indigo,Mumbai,New York,11.0,10608
+1938,SpiceJet,Mumbai,Singapore,8.3,21456
+1939,SpiceJet,Bangalore,London,10.78,23126
+1940,Indigo,Bangalore,Singapore,4.99,43447
+1941,Indigo,Chennai,London,14.19,39739
+1942,SpiceJet,Delhi,New York,6.63,49636
+1943,Indigo,Chennai,New York,11.8,43940
+1944,Indigo,Mumbai,London,13.41,4320
+1945,Vistara,Delhi,London,8.14,14903
+1946,Vistara,Mumbai,Singapore,1.04,37848
+1947,SpiceJet,Mumbai,New York,11.8,5251
+1948,SpiceJet,Bangalore,New York,14.33,22596
+1949,Indigo,Bangalore,New York,4.14,12786
+1950,Air India,Chennai,London,14.78,39854
+1951,Indigo,Mumbai,New York,1.77,35220
+1952,Air India,Chennai,Singapore,11.21,27013
+1953,Air India,Bangalore,Dubai,13.81,11731
+1954,Vistara,Mumbai,Singapore,14.39,3772
+1955,SpiceJet,Delhi,Dubai,1.5,38840
+1956,Indigo,Bangalore,London,13.98,28739
+1957,Air India,Mumbai,London,11.35,28514
+1958,Vistara,Chennai,New York,12.94,41019
+1959,Air India,Bangalore,London,9.2,23866
+1960,SpiceJet,Mumbai,Singapore,4.17,3485
+1961,SpiceJet,Delhi,New York,10.17,46427
+1962,Indigo,Chennai,London,11.17,30987
+1963,Indigo,Chennai,New York,4.88,13957
+1964,Indigo,Mumbai,New York,8.36,33917
+1965,Vistara,Chennai,London,12.33,8134
+1966,Indigo,Chennai,London,11.86,45736
+1967,Indigo,Delhi,Singapore,6.15,36156
+1968,Vistara,Delhi,Singapore,10.84,47404
+1969,Indigo,Bangalore,London,13.34,15853
+1970,Air India,Mumbai,London,12.98,10584
+1971,Air India,Chennai,London,2.09,22094
+1972,Vistara,Mumbai,London,5.39,38510
+1973,SpiceJet,Delhi,Singapore,4.65,2709
+1974,Air India,Chennai,New York,7.48,41652
+1975,SpiceJet,Delhi,London,3.71,33826
+1976,Air India,Mumbai,Singapore,3.32,36725
+1977,SpiceJet,Bangalore,Dubai,11.61,36343
+1978,SpiceJet,Mumbai,New York,7.14,37641
+1979,Indigo,Bangalore,New York,4.49,37191
+1980,Vistara,Chennai,London,3.07,10635
+1981,Indigo,Chennai,New York,5.8,40230
+1982,Air India,Delhi,New York,12.29,41377
+1983,Indigo,Chennai,London,9.65,32511
+1984,Air India,Bangalore,New York,12.47,36780
+1985,Vistara,Delhi,London,12.14,32570
+1986,Indigo,Mumbai,London,14.88,2727
+1987,Vistara,Chennai,London,1.5,25836
+1988,SpiceJet,Bangalore,Dubai,10.88,31601
+1989,Indigo,Delhi,Dubai,3.8,9453
+1990,Air India,Mumbai,New York,4.27,27376
+1991,Air India,Bangalore,London,2.11,38553
+1992,Air India,Chennai,New York,11.59,2354
+1993,SpiceJet,Delhi,New York,1.63,46586
+1994,Vistara,Mumbai,London,8.91,31979
+1995,Air India,Chennai,Singapore,3.58,28252
+1996,SpiceJet,Mumbai,Dubai,11.72,33714
+1997,Indigo,Chennai,London,5.53,45911
+1998,Air India,Chennai,New York,1.92,9152
+1999,SpiceJet,Mumbai,Singapore,14.09,32540
+2000,Vistara,Bangalore,London,4.29,31173
